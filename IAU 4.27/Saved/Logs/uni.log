@@ -2272,3 +2272,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.01-22.06.30:058][577]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/IAU 4.27/Saved/Minimal_Default84C4D9264C7492037A694B87A8731465.tmp' to '../../../../../../ProjectAA/Pioneers/IAU 4.27/Content/StarterContent/Maps/Minimal_Default.umap'
 [2023.05.01-22.06.30:136][577]AssetCheck: New page: Asset Save: Minimal_Default
 [2023.05.01-22.06.30:136][577]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.05.01-22.07.25:245][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.05.01-22.07.25:891][921]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/IAU 4.27/Saved/Minimal_Default29D05FE24B1A91673EAE4CA51445C6B7.tmp' to '../../../../../../ProjectAA/Pioneers/IAU 4.27/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.05.01-22.07.25:966][921]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.05.01-22.07.25:966][921]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
