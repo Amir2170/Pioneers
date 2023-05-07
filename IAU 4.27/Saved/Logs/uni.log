@@ -5707,3 +5707,27 @@ An asset already exists at the import location: /Game/Buildings/UniEnvironment/H
 [2023.05.07-12.18.43:778][339]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/IAU 4.27/Saved/Minimal_DefaultA56062E04513D98F495CFB940C309181.tmp' to '../../../../../../ProjectAA/Pioneers/IAU 4.27/Content/StarterContent/Maps/Minimal_Default.umap'
 [2023.05.07-12.18.43:841][339]AssetCheck: New page: Asset Save: Minimal_Default
 [2023.05.07-12.18.43:841][339]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.05.07-12.18.57:224][387]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 80
+[2023.05.07-12.18.57:225][387]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.07-12.18.59:470][393]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 70
+[2023.05.07-12.18.59:470][393]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.07-12.19.06:973][412]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 60
+[2023.05.07-12.19.06:973][412]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.07-12.19.20:025][471]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2023.05.07-12.19.20:025][471]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.07-12.19.24:139][489]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 40
+[2023.05.07-12.19.24:139][489]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.07-12.19.24:203][489]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2023.05.07-12.19.24:203][489]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.07-12.19.34:765][538]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2023.05.07-12.19.34:765][538]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2023.05.07-12.19.38:380][554]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2023.05.07-12.19.38:380][554]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.05.07-12.19.39:979][562]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2023.05.07-12.19.39:979][562]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.05.07-12.19.43:974][580]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2023.05.07-12.19.43:975][580]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.07-12.19.46:769][592]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2023.05.07-12.19.46:770][592]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.07-12.19.47:764][596]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.07-12.19.47:764][596]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
