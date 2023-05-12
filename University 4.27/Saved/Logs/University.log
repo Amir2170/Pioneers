@@ -1262,3 +1262,144 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.12-17.43.32:225][822]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
 [2023.05.12-17.43.35:849][844]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 147
 [2023.05.12-17.43.35:849][844]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.12-17.43.43:766][928]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 137
+[2023.05.12-17.43.43:767][928]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.12-17.43.49:767][935]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2023.05.12-17.44.11:367][468]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ClassicCar)
+[2023.05.12-17.44.12:637][470]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2023.05.12-17.44.13:827][503]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ClassicCar)
+[2023.05.12-17.44.44:698][466]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 127
+[2023.05.12-17.44.44:698][466]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.12-17.44.44:717][466]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.12-17.44.44:717][466]LogShaderCompilers: Display: Total job queries 1721, among them cache hits 29 (1.69%)
+[2023.05.12-17.44.44:717][466]LogShaderCompilers: Display: Tracking 295 distinct input hashes that result in 23 distinct outputs (7.80%)
+[2023.05.12-17.44.44:717][466]LogShaderCompilers: Display: RAM used: 0.15 MB (0.00 GB) of 768.00 MB (0.75 GB) budget. Usage: 0.02%
+[2023.05.12-17.44.44:717][466]LogShaderCompilers: Display: ================================================
+[2023.05.12-17.44.57:156][930]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 117
+[2023.05.12-17.44.57:156][930]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.12-17.44.57:556][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Build_Research__1_)
+[2023.05.12-17.45.10:806][180]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 107
+[2023.05.12-17.45.10:807][180]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.12-17.45.20:254][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.05.12-17.45.28:085][366]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 97
+[2023.05.12-17.45.28:085][366]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.12-17.45.29:253][366]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 87
+[2023.05.12-17.45.29:253][366]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.12-17.45.35:053][366]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.12-17.45.35:120][366]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/buildings/buildings/Build_Research__1_.Build_Research__1_
+[2023.05.12-17.45.35:496][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.05.12-17.45.35:512][366]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.05.12-17.45.35:524][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.05.12-17.45.46:640][472]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 77
+[2023.05.12-17.45.46:640][472]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.12-17.45.51:076][515]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 67
+[2023.05.12-17.45.51:076][515]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.12-17.45.52:783][529]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 57
+[2023.05.12-17.45.52:785][529]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.12-17.46.06:830][669]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 47
+[2023.05.12-17.46.06:831][669]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.12-17.46.09:630][696]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 37
+[2023.05.12-17.46.09:630][696]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.12-17.46.10:447][702]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2023.05.12-17.46.10:447][702]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.12-17.46.28:246][900]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2023.05.12-17.46.28:246][900]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.05.12-17.46.29:608][916]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2023.05.12-17.46.29:608][916]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.05.12-17.46.33:608][973]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2023.05.12-17.46.33:608][973]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.05.12-17.46.35:496][  4]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2023.05.12-17.46.35:496][  4]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.12-17.46.38:816][ 46]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2023.05.12-17.46.38:816][ 46]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.12-17.46.39:321][ 52]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2023.05.12-17.46.39:321][ 52]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.12-17.48.07:605][438]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2023.05.12-17.48.21:016][613]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../ProjectAA/Pioneers/BuildResearch/Build_Research (1).fbx)
+[2023.05.12-17.48.21:033][613]LogFbx: Loading FBX Scene from ../../../../../../ProjectAA/Pioneers/BuildResearch/Build_Research (1).fbx
+[2023.05.12-17.48.21:060][613]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.12-17.48.22:196][613]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.12-17.48.22:261][613]LogFbx: Display: Triangulating static mesh build
+[2023.05.12-17.48.22:709][613]LogStaticMesh: Building static mesh Build_Research__1_...
+[2023.05.12-17.48.22:822][613]LogStaticMesh: Built static mesh [0.11s] /Game/buildings/buildings/Build_Research__1_.Build_Research__1_
+[2023.05.12-17.48.22:840][613]LogStaticMesh: Warning: Build_Research__1_ has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.05.12-17.48.22:841][613]LogStaticMesh: Warning: Build_Research__1_ has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.05.12-17.48.22:867][613]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Facade001_4K_Color' was renamed 'Facade001_4K_Color_ncl1_1' 
+[2023.05.12-17.48.22:867][613]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Facade001_4K_Roughness' was renamed 'Facade001_4K_Roughness_ncl1_1' 
+[2023.05.12-17.48.22:867][613]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Facade001_4K_NormalDX' was renamed 'Facade001_4K_NormalDX_ncl1_1' 
+[2023.05.12-17.48.22:867][613]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Facade001_4K_Metalness' was renamed 'Facade001_4K_Metalness_ncl1_1' 
+[2023.05.12-17.48.22:867][613]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'beige_wall_001_diff_2k' was renamed 'beige_wall_001_diff_2k_ncl1_1' 
+[2023.05.12-17.48.22:867][613]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'beige_wall_001_rough_2k' was renamed 'beige_wall_001_rough_2k_ncl1_1' 
+[2023.05.12-17.48.22:867][613]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'beige_wall_001_nor_gl_2k' was renamed 'beige_wall_001_nor_gl_2k_ncl1_1' 
+[2023.05.12-17.48.22:867][613]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.12-17.48.22:867][613]FBXImport: Warning: Build_Research__1_ has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.05.12-17.48.22:867][613]FBXImport: Warning: Build_Research__1_ has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.05.12-17.48.24:618][676]LogSlate: Window 'Message Log' being destroyed
+[2023.05.12-17.48.24:643][676]LogSlate: Window 'Message Log' being destroyed
+[2023.05.12-17.48.28:304][783]LogActorFactory: Actor Factory created Build_Research__1_
+[2023.05.12-17.48.29:361][829]LogActorFactory: Actor Factory created Build_Research__1_
+[2023.05.12-17.48.58:463][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Build_Research__1_2)
+[2023.05.12-17.50.06:457][525]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/buildings/buildings/DarkBrick.DarkBrick
+[2023.05.12-17.50.06:460][525]LogMaterial: Display: Missing cached shadermap for DarkBrick in PCD3D_SM5, Default, SM5 (DDC key hash: 409448962C4781649E2E5E877A7E057D1288BADA), compiling. 
+[2023.05.12-17.50.06:481][525]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.05.12-17.50.06:493][525]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.05.12-17.50.06:685][525]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.05.12-17.50.07:016][525]LogMaterial: Display: Missing cached shadermap for DarkBrick in PCD3D_SM5, Default, SM5 (DDC key hash: 3EEC023D9BC191E33691AFF62E08F89DAB880E98), compiling. 
+[2023.05.12-17.50.07:022][525]LogMaterial: Display: Missing cached shadermap for DarkBrick in PCD3D_SM5, Default, SM5 (DDC key hash: 3082F4568F636DF1B813C61339EA1B519C330C8C), compiling. 
+[2023.05.12-17.50.07:026][525]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E1F290DC5E2BAD2066F911CBD3BE5A2485D6D8B2), compiling. 
+[2023.05.12-17.50.07:030][525]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 08E049139C3ACD26E3DAE77C1A56207C3E175232), compiling. 
+[2023.05.12-17.50.07:102][525]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.12-17.50.07:102][525]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.05.12-17.50.07:102][525]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.12-17.50.07:109][525]LogSlate: Took 0.000498 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.05.12-17.50.07:280][526]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.12-17.50.07:280][526]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.05.12-17.50.07:280][526]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.12-17.50.07:280][526]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.12-17.50.07:280][526]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.05.12-17.50.07:280][526]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2023.05.12-17.50.07:281][526]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.05.12-17.50.07:452][530]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.12-17.50.07:458][530]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.12-17.50.09:056][582]LogSlate: Took 0.000799 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.05.12-17.50.13:079][706]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2023.05.12-17.50.13:079][706]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.12-17.50.13:091][706]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.12-17.50.13:092][706]LogShaderCompilers: Display: Total job queries 1745, among them cache hits 29 (1.66%)
+[2023.05.12-17.50.13:092][706]LogShaderCompilers: Display: Tracking 443 distinct input hashes that result in 24 distinct outputs (5.42%)
+[2023.05.12-17.50.13:092][706]LogShaderCompilers: Display: RAM used: 0.16 MB (0.00 GB) of 768.00 MB (0.75 GB) budget. Usage: 0.02%
+[2023.05.12-17.50.13:092][706]LogShaderCompilers: Display: ================================================
+[2023.05.12-17.50.21:364][962]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2023.05.12-17.50.21:364][962]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.12-17.50.25:682][129]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2023.05.12-17.50.25:682][129]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.12-17.50.25:709][130]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.12-17.50.25:709][130]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.05.12-17.50.25:710][130]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.12-17.50.28:893][267]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2023.05.12-17.50.28:893][267]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.12-17.50.29:196][281]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2023.05.12-17.50.29:196][281]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.12-17.50.30:843][343]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2023.05.12-17.50.30:843][343]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.12-17.50.36:605][525]MaterialEditorStats: Base pass shader: 126 instructions
+[2023.05.12-17.50.36:605][525]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2023.05.12-17.50.36:605][525]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.05.12-17.50.36:605][525]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.12-17.50.36:605][525]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.05.12-17.50.36:605][525]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.12-17.51.19:279][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Build_Fani)
+[2023.05.12-17.51.21:768][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Build_Research__1_2)
+[2023.05.12-17.51.28:804][641]LogPhysics: Warning: Scale for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Build_Research__1_3.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.300 Y=0.000 Z=0.500
+[2023.05.12-17.51.28:804][641]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.05.12-17.51.28:804][641]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.12-17.51.28:804][641]LogPhysics: Warning: Scale for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Build_Research__1_3.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.300 Y=0.000 Z=0.500
+[2023.05.12-17.51.28:804][641]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2023.05.12-17.51.28:804][641]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.12-17.52.08:915][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SportComplex)
+[2023.05.12-17.52.10:532][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Build_Research__1_2)
+[2023.05.12-17.53.03:802][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2023.05.12-17.53.03:988][336]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/Minimal_DefaultCDD9A33646D940A554B79886328E29C6.tmp' to '../../../../../../ProjectAA/Pioneers/University 4.27/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.05.12-17.53.04:030][336]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.05.12-17.53.04:030][336]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
