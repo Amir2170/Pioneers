@@ -1258,3 +1258,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.12-17.43.22:712][659]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
 [2023.05.12-17.43.24:335][691]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 167
 [2023.05.12-17.43.24:335][691]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.12-17.43.32:225][822]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 157
+[2023.05.12-17.43.32:225][822]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.12-17.43.35:849][844]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 147
+[2023.05.12-17.43.35:849][844]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
