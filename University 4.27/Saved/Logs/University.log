@@ -1922,3 +1922,73 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.12-17.57.36:307][682]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
 [2023.05.12-17.57.36:808][682]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
 [2023.05.12-17.57.37:309][682]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2023.05.12-17.57.37:810][682]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2023.05.12-17.57.38:310][682]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2023.05.12-17.57.38:811][682]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2023.05.12-17.57.39:312][682]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2023.05.12-17.57.39:813][682]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2023.05.12-17.57.40:314][682]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2023.05.12-17.57.40:815][682]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2023.05.12-17.57.41:316][682]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2023.05.12-17.57.41:817][682]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2023.05.12-17.57.42:318][682]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2023.05.12-17.57.42:819][682]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2023.05.12-17.57.43:319][682]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2023.05.12-17.57.43:820][682]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2023.05.12-17.57.44:321][682]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2023.05.12-17.57.44:822][682]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2023.05.12-17.57.45:322][682]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2023.05.12-17.57.45:824][682]LogHttp: Display: Sleeping 0.500s to wait for 1 outstanding Http requests.
+[2023.05.12-17.57.46:324][682]LogHttp: Warning: 000002178D5B4100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B844BEA11-4D1D-CD26-F5B5-DC8865D6FB1B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=ff7dd4554fdf724db3ead9979afb9161%7C%7Cdcc30278-9783-4998-b69c-7ef94193a8eb&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.05.12-17.57.46:324][682]LogHttp: Warning: 000002178D5B4100: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.05.12-17.57.46:324][682]LogHttp: Warning: 000002178D5B4100: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x217b86d7eb0 [can pipeline])
+[2023.05.12-17.57.46:324][682]LogHttp: Warning: 000002178D5B4100: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2023.05.12-17.57.46:324][682]LogHttp: Warning: 000002178D5B4100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (44.209.100.132) port 443 (#0))
+[2023.05.12-17.57.46:324][682]LogHttp: Warning: 000002178D5B4100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.05.12-17.57.46:324][682]LogHttp: Warning: 000002178D5B4100: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2023.05.12-17.57.46:324][682]LogHttp: Warning: 000002178D5B4100: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.05.12-17.57.46:324][682]LogHttp: Warning: 000002178D5B4100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.05.12-17.57.46:324][682]LogHttp: Warning: 000002178D5B4100: libcurl info message cache 7 (Closing connection 0)
+[2023.05.12-17.57.46:336][682]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2023.05.12-17.57.46:337][682]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2023.05.12-17.57.46:342][682]LogModuleManager: Shutting down and abandoning module Media (73)
+[2023.05.12-17.57.46:344][682]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2023.05.12-17.57.46:344][682]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2023.05.12-17.57.46:344][682]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2023.05.12-17.57.46:344][682]LogModuleManager: Shutting down and abandoning module MagicLeap (64)
+[2023.05.12-17.57.46:344][682]LogModuleManager: Shutting down and abandoning module VariantManagerContent (62)
+[2023.05.12-17.57.46:344][682]LogModuleManager: Shutting down and abandoning module DatasmithContent (60)
+[2023.05.12-17.57.46:344][682]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2023.05.12-17.57.46:344][682]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2023.05.12-17.57.46:344][682]LogModuleManager: Shutting down and abandoning module ChaosCloth (54)
+[2023.05.12-17.57.46:344][682]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2023.05.12-17.57.46:344][682]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2023.05.12-17.57.46:344][682]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2023.05.12-17.57.46:344][682]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2023.05.12-17.57.46:345][682]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2023.05.12-17.57.46:345][682]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2023.05.12-17.57.46:345][682]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2023.05.12-17.57.46:345][682]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2023.05.12-17.57.46:345][682]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2023.05.12-17.57.46:345][682]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2023.05.12-17.57.46:345][682]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2023.05.12-17.57.46:345][682]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2023.05.12-17.57.46:345][682]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2023.05.12-17.57.46:345][682]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2023.05.12-17.57.46:345][682]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2023.05.12-17.57.46:345][682]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2023.05.12-17.57.46:346][682]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.05.12-17.57.46:346][682]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.05.12-17.57.46:346][682]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.05.12-17.57.46:346][682]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.05.12-17.57.46:346][682]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2023.05.12-17.57.46:346][682]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2023.05.12-17.57.46:346][682]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2023.05.12-17.57.46:346][682]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2023.05.12-17.57.46:346][682]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2023.05.12-17.57.46:346][682]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2023.05.12-17.57.46:347][682]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2023.05.12-17.57.46:374][682]LogD3D11RHI: Shutdown
+[2023.05.12-17.57.46:374][682]LogD3D11RHI: CleanupD3DDevice
+[2023.05.12-17.57.46:379][682]LogExit: Exiting.
+[2023.05.12-17.57.46:420][682]Log file closed, 05/12/23 10:57:46
