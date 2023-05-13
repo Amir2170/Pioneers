@@ -1192,3 +1192,1141 @@ An asset already exists at the import location: /Game/buildings/uniEnvironment/B
 [2023.05.13-20.42.18:499][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.05.13-20.42.18:508][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
 [2023.05.13-20.42.18:570][428]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.05.13-20.52.11:480][866]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.13-20.52.11:517][866]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.13-20.52.14:951][975]LogContentBrowser: Attempting asset rename: NewFolder -> foliage
+[2023.05.13-20.52.14:952][975]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.13-20.52.29:071][108]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../ProjectsS/Pioneers/UniEnvironment/Textures/grass/tkynejer_2K_Albedo.jpg)
+[2023.05.13-20.52.29:217][108]LogTexture: Display: Building textures: tkynejer_2K_Albedo (OODLE_AutoDXT, 2048X2048)
+[2023.05.13-20.52.30:739][108]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-20.52.30:740][108]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-20.52.30:774][108]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../ProjectsS/Pioneers/UniEnvironment/Textures/grass/tkynejer_2K_AO.jpg)
+[2023.05.13-20.52.30:868][108]LogTexture: Display: Building textures: tkynejer_2K_AO (OODLE_AutoDXT, 2048X2048)
+[2023.05.13-20.52.32:353][108]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-20.52.32:353][108]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-20.52.32:409][108]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../ProjectsS/Pioneers/UniEnvironment/Textures/grass/tkynejer_2K_Displacement.exr)
+[2023.05.13-20.52.32:816][108]LogTexture: Display: Building textures: tkynejer_2K_Displacement (RGBA16F, 2048X2048)
+[2023.05.13-20.52.33:429][108]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../ProjectsS/Pioneers/UniEnvironment/Textures/grass/tkynejer_2K_Displacement.jpg)
+[2023.05.13-20.52.33:498][108]LogTexture: Display: Building textures: tkynejer_2K_Displacement_0 (OODLE_AutoDXT, 2048X2048)
+[2023.05.13-20.52.34:318][108]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-20.52.34:318][108]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-20.52.34:366][108]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../ProjectsS/Pioneers/UniEnvironment/Textures/grass/tkynejer_2K_Normal.jpg)
+[2023.05.13-20.52.34:534][108]LogTexture: Display: Building textures: tkynejer_2K_Normal (OODLE_BC5, 2048X2048)
+[2023.05.13-20.52.35:002][108]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.05.13-20.52.35:002][108]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.05.13-20.52.35:069][108]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../ProjectsS/Pioneers/UniEnvironment/Textures/grass/tkynejer_2K_Roughness.jpg)
+[2023.05.13-20.52.35:143][108]LogTexture: Display: Building textures: tkynejer_2K_Roughness (OODLE_AutoDXT, 2048X2048)
+[2023.05.13-20.52.36:557][108]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-20.52.36:557][108]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-20.52.42:788][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.05.13-20.52.42:797][349]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.026
+[2023.05.13-20.52.42:798][349]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/buildings/uniEnvironment/Bolvar] ([1] browsable assets)...
+[2023.05.13-20.52.42:827][349]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/buildings/uniEnvironment/Bolvar.Bolvar]
+[2023.05.13-20.52.42:827][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/buildings/uniEnvironment/Bolvar]
+[2023.05.13-20.52.42:839][349]LogSavePackage: Moving '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/Bolvar_Auto16D923FEA422E5A9249D9288B56E34FA3.tmp' to '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/Autosaves/Game/buildings/uniEnvironment/Bolvar_Auto1.uasset'
+[2023.05.13-20.52.42:840][349]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/buildings/uniEnvironment/foliage/tkynejer_2K_Albedo] ([1] browsable assets)...
+[2023.05.13-20.52.42:852][349]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/buildings/uniEnvironment/foliage/tkynejer_2K_Albedo.tkynejer_2K_Albedo]
+[2023.05.13-20.52.42:852][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/buildings/uniEnvironment/foliage/tkynejer_2K_Albedo]
+[2023.05.13-20.52.42:876][349]LogSavePackage: Moving '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/tkynejer_2K_Albedo_Auto10111E4624B4F8CA085F8FB88347116B3.tmp' to '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/Autosaves/Game/buildings/uniEnvironment/foliage/tkynejer_2K_Albedo_Auto1.uasset'
+[2023.05.13-20.52.42:877][349]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/buildings/uniEnvironment/foliage/tkynejer_2K_AO] ([1] browsable assets)...
+[2023.05.13-20.52.42:887][349]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/buildings/uniEnvironment/foliage/tkynejer_2K_AO.tkynejer_2K_AO]
+[2023.05.13-20.52.42:887][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/buildings/uniEnvironment/foliage/tkynejer_2K_AO]
+[2023.05.13-20.52.42:910][349]LogSavePackage: Moving '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/tkynejer_2K_AO_Auto1E40996E34C483155ADDAEF94984792A3.tmp' to '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/Autosaves/Game/buildings/uniEnvironment/foliage/tkynejer_2K_AO_Auto1.uasset'
+[2023.05.13-20.52.42:912][349]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/buildings/uniEnvironment/foliage/tkynejer_2K_Displacement] ([2] browsable assets)...
+[2023.05.13-20.52.42:918][349]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/buildings/uniEnvironment/foliage/tkynejer_2K_Displacement.tkynejer_2K_Displacement]
+[2023.05.13-20.52.42:929][349]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/buildings/uniEnvironment/foliage/tkynejer_2K_Displacement.tkynejer_2K_Displacement_0]
+[2023.05.13-20.52.42:929][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/buildings/uniEnvironment/foliage/tkynejer_2K_Displacement]
+[2023.05.13-20.52.43:074][349]LogSavePackage: Moving '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/tkynejer_2K_Displacement_Auto1D667E31B4842D4C81EC2BF8B5C64B12B.tmp' to '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/Autosaves/Game/buildings/uniEnvironment/foliage/tkynejer_2K_Displacement_Auto1.uasset'
+[2023.05.13-20.52.43:076][349]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/buildings/uniEnvironment/foliage/tkynejer_2K_Normal] ([1] browsable assets)...
+[2023.05.13-20.52.43:087][349]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/buildings/uniEnvironment/foliage/tkynejer_2K_Normal.tkynejer_2K_Normal]
+[2023.05.13-20.52.43:087][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/buildings/uniEnvironment/foliage/tkynejer_2K_Normal]
+[2023.05.13-20.52.43:181][349]LogSavePackage: Moving '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/tkynejer_2K_Normal_Auto1D259CDA84C9ACF01A8CF3B95B852DD2C.tmp' to '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/Autosaves/Game/buildings/uniEnvironment/foliage/tkynejer_2K_Normal_Auto1.uasset'
+[2023.05.13-20.52.43:182][349]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/buildings/uniEnvironment/foliage/tkynejer_2K_Roughness] ([1] browsable assets)...
+[2023.05.13-20.52.43:193][349]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/buildings/uniEnvironment/foliage/tkynejer_2K_Roughness.tkynejer_2K_Roughness]
+[2023.05.13-20.52.43:193][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/buildings/uniEnvironment/foliage/tkynejer_2K_Roughness]
+[2023.05.13-20.52.43:216][349]LogSavePackage: Moving '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/tkynejer_2K_Roughness_Auto15E76C94D445604B04054498E5370109A.tmp' to '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/Autosaves/Game/buildings/uniEnvironment/foliage/tkynejer_2K_Roughness_Auto1.uasset'
+[2023.05.13-20.52.43:218][349]LogFileHelpers: Auto-saving content packages took 0.420
+[2023.05.13-20.54.25:789][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.05.13-20.54.28:081][ 12]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.13-20.54.28:204][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.05.13-20.59.04:886][965]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../trees/Var1/Var1_LOD0.fbx)
+[2023.05.13-20.59.04:913][965]LogFbx: Loading FBX Scene from ../../../../../../trees/Var1/Var1_LOD0.fbx
+[2023.05.13-20.59.04:990][965]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.13-20.59.06:355][965]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.13-20.59.06:400][965]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 857D16C186C307792D64F2E5B4FC5EAFC9C19F0F), compiling. 
+[2023.05.13-20.59.06:409][965]LogFbx: Display: Triangulating static mesh _71bu_Var1_LOD0
+[2023.05.13-20.59.10:602][965]LogStaticMesh: Building static mesh Var1_LOD0...
+[2023.05.13-20.59.12:564][965]LogStaticMesh: Built static mesh [1.96s] /Game/buildings/uniEnvironment/foliage/Var1_LOD0.Var1_LOD0
+[2023.05.13-20.59.13:175][965]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.13-20.59.13:739][970]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.13-20.59.13:744][970]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.05.13-20.59.13:744][970]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.13-20.59.13:744][970]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.13-20.59.13:801][970]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.05.13-20.59.13:801][970]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2023.05.13-20.59.13:801][970]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-20.59.17:299][ 60]LogSlate: Window 'Message Log' being destroyed
+[2023.05.13-20.59.17:337][ 60]LogSlate: Window 'Message Log' being destroyed
+[2023.05.13-20.59.17:975][ 69]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2023.05.13-20.59.17:975][ 69]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-20.59.17:980][ 69]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.13-20.59.17:980][ 69]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2023.05.13-20.59.17:980][ 69]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2023.05.13-20.59.17:980][ 69]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 768.00 MB (0.75 GB) budget. Usage: 0.00%
+[2023.05.13-20.59.17:980][ 69]LogShaderCompilers: Display: ================================================
+[2023.05.13-20.59.19:990][107]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2023.05.13-20.59.19:990][107]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-20.59.27:194][268]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2023.05.13-20.59.27:194][268]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-20.59.27:333][271]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2023.05.13-20.59.27:333][271]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-20.59.29:208][317]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.05.13-20.59.30:832][317]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.13-20.59.31:075][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.13-20.59.50:302][552]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.13-20.59.50:318][552]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.13-20.59.53:862][753]LogContentBrowser: Attempting asset rename: NewFolder -> atlass
+[2023.05.13-20.59.53:862][753]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.13-20.59.56:833][884]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.13-20.59.56:849][884]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.13-21.00.03:079][230]LogContentBrowser: Attempting asset rename: NewFolder -> billboad
+[2023.05.13-21.00.03:080][230]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.13-21.00.20:958][627]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.13-21.00.20:988][627]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.13-21.00.31:140][853]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2023.05.13-21.00.31:141][853]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.13-21.00.35:337][ 36]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.13-21.00.35:353][ 36]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.13-21.00.37:966][117]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2023.05.13-21.00.37:967][117]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.13-21.00.57:273][707]LogContentBrowser: Attempting asset rename: NewFolder -> Atlas
+[2023.05.13-21.01.00:082][823]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.13-21.01.00:098][823]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.13-21.01.09:902][957]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2023.05.13-21.01.09:903][957]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.13-21.01.14:545][165]LogContentBrowser: Attempting asset rename: NewFolder -> Billboard
+[2023.05.13-21.01.29:067][391]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../trees/Textures/Atlas/wfypfa3ha_2K_Albedo.jpg)
+[2023.05.13-21.01.29:136][391]LogTexture: Display: Building textures: wfypfa3ha_2K_Albedo (OODLE_AutoDXT, 2048X2048)
+[2023.05.13-21.01.30:224][391]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.01.30:225][391]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.01.30:246][391]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../trees/Textures/Atlas/wfypfa3ha_2K_AO.jpg)
+[2023.05.13-21.01.30:293][391]LogTexture: Display: Building textures: wfypfa3ha_2K_AO (OODLE_AutoDXT, 2048X2048)
+[2023.05.13-21.01.31:188][391]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.01.31:188][391]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.01.31:222][391]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../trees/Textures/Atlas/wfypfa3ha_2K_Displacement.exr)
+[2023.05.13-21.01.31:423][391]LogTexture: Display: Building textures: wfypfa3ha_2K_Displacement (RGBA16F, 2048X2048)
+[2023.05.13-21.01.31:963][391]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../trees/Textures/Atlas/wfypfa3ha_2K_Displacement.jpg)
+[2023.05.13-21.01.32:008][391]LogTexture: Display: Building textures: wfypfa3ha_2K_Displacement_0 (OODLE_AutoDXT, 2048X2048)
+[2023.05.13-21.01.32:739][391]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.01.32:739][391]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.01.32:762][391]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../trees/Textures/Atlas/wfypfa3ha_2K_Normal.jpg)
+[2023.05.13-21.01.32:843][391]LogTexture: Display: Building textures: wfypfa3ha_2K_Normal (OODLE_BC5, 2048X2048)
+[2023.05.13-21.01.33:199][391]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.05.13-21.01.33:199][391]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.05.13-21.01.33:240][391]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../trees/Textures/Atlas/wfypfa3ha_2K_Opacity.jpg)
+[2023.05.13-21.01.33:278][391]LogTexture: Display: Building textures: wfypfa3ha_2K_Opacity (OODLE_AutoDXT, 2048X2048)
+[2023.05.13-21.01.33:776][391]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.01.33:776][391]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.01.33:830][391]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../trees/Textures/Atlas/wfypfa3ha_2K_Roughness.jpg)
+[2023.05.13-21.01.33:878][391]LogTexture: Display: Building textures: wfypfa3ha_2K_Roughness (OODLE_AutoDXT, 2048X2048)
+[2023.05.13-21.01.34:928][391]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.01.34:929][391]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.01.34:954][391]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../trees/Textures/Atlas/wfypfa3ha_2K_Translucency.jpg)
+[2023.05.13-21.01.35:011][391]LogTexture: Display: Building textures: wfypfa3ha_2K_Translucency (OODLE_AutoDXT, 2048X2048)
+[2023.05.13-21.01.36:082][391]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.01.36:083][391]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.01.52:469][682]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../trees/Textures/Billboard/Billboard_2K_Albedo.jpg)
+[2023.05.13-21.01.52:555][682]LogTexture: Display: Building textures: Billboard_2K_Albedo (OODLE_AutoDXT, 2048X2048)
+[2023.05.13-21.01.53:476][682]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.01.53:476][682]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.01.53:507][682]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../trees/Textures/Billboard/Billboard_2K_AO.jpg)
+[2023.05.13-21.01.53:567][682]LogTexture: Display: Building textures: Billboard_2K_AO (OODLE_AutoDXT, 2048X2048)
+[2023.05.13-21.01.54:454][682]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.01.54:454][682]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.01.54:488][682]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../trees/Textures/Billboard/Billboard_2K_Displacement.exr)
+[2023.05.13-21.01.54:704][682]LogTexture: Display: Building textures: Billboard_2K_Displacement (RGBA16F, 2048X2048)
+[2023.05.13-21.01.55:221][682]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../trees/Textures/Billboard/Billboard_2K_Displacement.jpg)
+[2023.05.13-21.01.55:294][682]LogTexture: Display: Building textures: Billboard_2K_Displacement_0 (OODLE_AutoDXT, 2048X2048)
+[2023.05.13-21.01.56:014][682]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.01.56:015][682]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.01.56:042][682]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../trees/Textures/Billboard/Billboard_2K_Normal.jpg)
+[2023.05.13-21.01.56:134][682]LogTexture: Display: Building textures: Billboard_2K_Normal (OODLE_BC5, 2048X2048)
+[2023.05.13-21.01.56:516][682]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.05.13-21.01.56:516][682]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.05.13-21.01.56:566][682]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../trees/Textures/Billboard/Billboard_2K_Opacity.jpg)
+[2023.05.13-21.01.56:608][682]LogTexture: Display: Building textures: Billboard_2K_Opacity (OODLE_AutoDXT, 2048X2048)
+[2023.05.13-21.01.57:126][682]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.01.57:126][682]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.01.57:147][682]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../trees/Textures/Billboard/Billboard_2K_Roughness.jpg)
+[2023.05.13-21.01.57:197][682]LogTexture: Display: Building textures: Billboard_2K_Roughness (OODLE_AutoDXT, 2048X2048)
+[2023.05.13-21.01.58:026][682]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.01.58:026][682]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.01.58:056][682]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../trees/Textures/Billboard/Billboard_2K_Translucency.jpg)
+[2023.05.13-21.01.58:138][682]LogTexture: Display: Building textures: Billboard_2K_Translucency (OODLE_AutoDXT, 2048X2048)
+[2023.05.13-21.01.59:042][682]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.01.59:042][682]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.02.07:298][  5]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.13-21.02.07:316][  5]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.13-21.02.14:166][133]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2023.05.13-21.02.14:167][133]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.13-21.02.19:827][397]LogContentBrowser: Attempting asset rename: NewFolder -> Var2
+[2023.05.13-21.02.30:014][592]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../trees/Var2/Var2_LOD0.fbx)
+[2023.05.13-21.02.30:046][592]LogFbx: Loading FBX Scene from ../../../../../../trees/Var2/Var2_LOD0.fbx
+[2023.05.13-21.02.30:186][592]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.13-21.02.31:868][592]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.13-21.02.31:901][592]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: EBF63A5A1136BB4D785465C66AD7145898CBF2FB), compiling. 
+[2023.05.13-21.02.31:909][592]LogFbx: Display: Triangulating static mesh _t14r_Var2_LOD0
+[2023.05.13-21.02.39:934][592]LogStaticMesh: Building static mesh Var2_LOD0...
+[2023.05.13-21.02.42:379][592]LogStaticMesh: Built static mesh [2.44s] /Game/buildings/uniEnvironment/foliage/Var2/Var2_LOD0.Var2_LOD0
+[2023.05.13-21.02.43:709][592]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.13-21.02.44:743][597]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.13-21.02.44:743][597]LogShaderCompilers: Display: Total job queries 44, among them cache hits 28 (63.64%)
+[2023.05.13-21.02.44:743][597]LogShaderCompilers: Display: Tracking 16 distinct input hashes that result in 13 distinct outputs (81.25%)
+[2023.05.13-21.02.44:743][597]LogShaderCompilers: Display: RAM used: 0.06 MB (0.00 GB) of 768.00 MB (0.75 GB) budget. Usage: 0.01%
+[2023.05.13-21.02.44:743][597]LogShaderCompilers: Display: ================================================
+[2023.05.13-21.02.48:734][770]LogSlate: Window 'Message Log' being destroyed
+[2023.05.13-21.02.48:763][770]LogSlate: Window 'Message Log' being destroyed
+[2023.05.13-21.02.57:853][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.05.13-21.02.59:256][121]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.13-21.02.59:383][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.05.13-21.03.02:926][241]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/buildings/uniEnvironment/foliage/Var2/lambert1.lambert1
+[2023.05.13-21.03.02:929][241]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: B7F57AE3ED91404DC0593FF1B6458A72805E4203), compiling. 
+[2023.05.13-21.03.02:963][241]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.05.13-21.03.03:070][241]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.05.13-21.03.03:363][241]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 2F83EF1AAD5F2A7ABD33986CAC5230A21853C567), compiling. 
+[2023.05.13-21.03.03:367][241]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6B773DAE31365BE189767B1B698F81662C1B530C), compiling. 
+[2023.05.13-21.03.03:370][241]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3682CDAD181C32F38A6ABAEFFB4807D276BAC31F), compiling. 
+[2023.05.13-21.03.03:436][241]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.13-21.03.03:444][241]LogSlate: Took 0.000459 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.05.13-21.03.03:586][242]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.03.03:586][242]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.05.13-21.03.03:586][242]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.05.13-21.03.03:586][242]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.13-21.03.03:586][242]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.13-21.03.03:595][242]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.05.13-21.03.03:595][242]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.13-21.03.03:595][242]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.03.03:595][242]LogSlate: Took 0.000943 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.05.13-21.03.04:127][255]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.05.13-21.03.09:025][393]LogSlate: Window 'lambert1' being destroyed
+[2023.05.13-21.03.09:064][393]LogSlate: Window 'lambert1' being destroyed
+[2023.05.13-21.03.09:073][393]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.05.13-21.03.09:073][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.13-21.03.10:261][431]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/buildings/uniEnvironment/foliage/Var2/Var2_LOD0.Var2_LOD0
+[2023.05.13-21.03.10:956][431]LogRenderer: Reallocating scene render targets to support 964x704 Format 10 NumSamples 1 (Frame:1).
+[2023.05.13-21.03.41:532][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../trees/Textures/Atlas/wfypfa3ha_2K_Albedo.jpg)
+[2023.05.13-21.03.41:605][ 70]LogTexture: Display: Building textures: wfypfa3ha_2K_Albedo (OODLE_AutoDXT, 2048X2048)
+[2023.05.13-21.03.42:691][ 70]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.03.42:691][ 70]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.03.42:712][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../trees/Textures/Atlas/wfypfa3ha_2K_AO.jpg)
+[2023.05.13-21.03.42:761][ 70]LogTexture: Display: Building textures: wfypfa3ha_2K_AO (OODLE_AutoDXT, 2048X2048)
+[2023.05.13-21.03.43:684][ 70]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.03.43:684][ 70]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.03.43:713][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../trees/Textures/Atlas/wfypfa3ha_2K_Displacement.exr)
+[2023.05.13-21.03.43:922][ 70]LogTexture: Display: Building textures: wfypfa3ha_2K_Displacement (RGBA16F, 2048X2048)
+[2023.05.13-21.03.44:497][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../trees/Textures/Atlas/wfypfa3ha_2K_Displacement.jpg)
+[2023.05.13-21.03.44:539][ 70]LogTexture: Display: Building textures: wfypfa3ha_2K_Displacement_0 (OODLE_AutoDXT, 2048X2048)
+[2023.05.13-21.03.45:259][ 70]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.03.45:259][ 70]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.03.45:283][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../trees/Textures/Atlas/wfypfa3ha_2K_Normal.jpg)
+[2023.05.13-21.03.45:368][ 70]LogTexture: Display: Building textures: wfypfa3ha_2K_Normal (OODLE_BC5, 2048X2048)
+[2023.05.13-21.03.45:734][ 70]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.05.13-21.03.45:734][ 70]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.05.13-21.03.45:768][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../trees/Textures/Atlas/wfypfa3ha_2K_Opacity.jpg)
+[2023.05.13-21.03.45:810][ 70]LogTexture: Display: Building textures: wfypfa3ha_2K_Opacity (OODLE_AutoDXT, 2048X2048)
+[2023.05.13-21.03.46:308][ 70]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.03.46:308][ 70]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.03.46:355][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../trees/Textures/Atlas/wfypfa3ha_2K_Roughness.jpg)
+[2023.05.13-21.03.46:405][ 70]LogTexture: Display: Building textures: wfypfa3ha_2K_Roughness (OODLE_AutoDXT, 2048X2048)
+[2023.05.13-21.03.47:430][ 70]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.03.47:431][ 70]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.03.47:449][ 70]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../trees/Textures/Atlas/wfypfa3ha_2K_Translucency.jpg)
+[2023.05.13-21.03.47:508][ 70]LogTexture: Display: Building textures: wfypfa3ha_2K_Translucency (OODLE_AutoDXT, 2048X2048)
+[2023.05.13-21.03.48:598][ 70]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.03.48:598][ 70]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.05.13-21.03.50:041][106]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/buildings/uniEnvironment/foliage/Var2/lambert1.lambert1
+[2023.05.13-21.03.50:043][106]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: DA9C05229D871C3908E7715109602A4687883166), compiling. 
+[2023.05.13-21.03.50:058][106]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.05.13-21.03.50:157][106]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9CE036A2436FD842507C09CF2D8BF0F093E02476), compiling. 
+[2023.05.13-21.03.50:161][106]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 83A59BD8DB47A27E25CC45CAB4FA72488AF006DF), compiling. 
+[2023.05.13-21.03.50:165][106]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0528D2E68AAE1501F12DE0765B46051BAED8DF3A), compiling. 
+[2023.05.13-21.03.50:208][106]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.13-21.03.50:323][107]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.03.50:323][107]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.05.13-21.03.50:324][107]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.13-21.03.50:324][107]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.03.50:324][107]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.05.13-21.03.50:324][107]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2023.05.13-21.03.50:324][107]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.03.53:979][174]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2023.05.13-21.03.53:979][174]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.03.55:373][196]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9774D04D3DC9D979903ADCDB3B432C902C457198), compiling. 
+[2023.05.13-21.03.55:463][197]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.03.55:463][197]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.05.13-21.03.56:775][220]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.05.13-21.03.56:775][220]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.03.59:951][269]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2023.05.13-21.03.59:951][269]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.03.59:996][269]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.13-21.04.00:204][272]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2023.05.13-21.04.00:204][272]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.04.00:232][272]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: AAC18643E7A0BCB787D21F8C8FD2FC39BEEA54B0), compiling. 
+[2023.05.13-21.04.00:236][272]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 145C97CDAC967E277B94D05F8A9D403F23EAFA8E), compiling. 
+[2023.05.13-21.04.00:241][272]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.13-21.04.00:304][273]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2023.05.13-21.04.00:351][274]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.13-21.04.01:794][297]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2023.05.13-21.04.01:794][297]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.04.02:999][316]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2023.05.13-21.04.02:999][316]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.04.08:308][395]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2023.05.13-21.04.08:308][395]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.04.12:268][478]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.05.13-21.04.12:268][478]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.05.13-21.04.12:268][478]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.13-21.04.12:268][478]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.13-21.04.13:094][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.05.13-21.04.13:102][502]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.024
+[2023.05.13-21.04.13:104][502]LogSavePackage: Moving '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/tkynejer_2K_Displacement_Auto275B1E5AD40AB650AFFAA4FB873D3F1AD.tmp' to '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/Autosaves/Game/buildings/uniEnvironment/foliage/tkynejer_2K_Displacement_Auto2.uasset'
+[2023.05.13-21.04.13:105][502]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/buildings/uniEnvironment/foliage/Var2/Var2_LOD0] ([1] browsable assets)...
+[2023.05.13-21.04.13:137][502]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/buildings/uniEnvironment/foliage/Var2/Var2_LOD0.Var2_LOD0]
+[2023.05.13-21.04.13:137][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/buildings/uniEnvironment/foliage/Var2/Var2_LOD0]
+[2023.05.13-21.04.13:610][502]LogSavePackage: Moving '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/Var2_LOD0_Auto28B80774144CB7E66564EF2BB75164450.tmp' to '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/Autosaves/Game/buildings/uniEnvironment/foliage/Var2/Var2_LOD0_Auto2.uasset'
+[2023.05.13-21.04.13:611][502]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/buildings/uniEnvironment/foliage/Var2/wfypfa3ha_2K_Albedo] ([1] browsable assets)...
+[2023.05.13-21.04.13:622][502]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/buildings/uniEnvironment/foliage/Var2/wfypfa3ha_2K_Albedo.wfypfa3ha_2K_Albedo]
+[2023.05.13-21.04.13:622][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/buildings/uniEnvironment/foliage/Var2/wfypfa3ha_2K_Albedo]
+[2023.05.13-21.04.13:643][502]LogSavePackage: Moving '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/wfypfa3ha_2K_Albedo_Auto26D01509B486CFEF1090B43940948CF6A.tmp' to '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/Autosaves/Game/buildings/uniEnvironment/foliage/Var2/wfypfa3ha_2K_Albedo_Auto2.uasset'
+[2023.05.13-21.04.13:644][502]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/buildings/uniEnvironment/foliage/Var2/wfypfa3ha_2K_AO] ([1] browsable assets)...
+[2023.05.13-21.04.13:658][502]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/buildings/uniEnvironment/foliage/Var2/wfypfa3ha_2K_AO.wfypfa3ha_2K_AO]
+[2023.05.13-21.04.13:658][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/buildings/uniEnvironment/foliage/Var2/wfypfa3ha_2K_AO]
+[2023.05.13-21.04.13:687][502]LogSavePackage: Moving '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/wfypfa3ha_2K_AO_Auto28B4F5D7C4C7C3BED67235A867087F31D.tmp' to '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/Autosaves/Game/buildings/uniEnvironment/foliage/Var2/wfypfa3ha_2K_AO_Auto2.uasset'
+[2023.05.13-21.04.13:688][502]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/buildings/uniEnvironment/foliage/Var2/wfypfa3ha_2K_Displacement] ([2] browsable assets)...
+[2023.05.13-21.04.13:695][502]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/buildings/uniEnvironment/foliage/Var2/wfypfa3ha_2K_Displacement.wfypfa3ha_2K_Displacement]
+[2023.05.13-21.04.13:706][502]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/buildings/uniEnvironment/foliage/Var2/wfypfa3ha_2K_Displacement.wfypfa3ha_2K_Displacement_0]
+[2023.05.13-21.04.13:706][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/buildings/uniEnvironment/foliage/Var2/wfypfa3ha_2K_Displacement]
+[2023.05.13-21.04.13:875][502]LogSavePackage: Moving '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/wfypfa3ha_2K_Displacement_Auto2146A3E474CF3B2F57249B5A1B5D49B5F.tmp' to '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/Autosaves/Game/buildings/uniEnvironment/foliage/Var2/wfypfa3ha_2K_Displacement_Auto2.uasset'
+[2023.05.13-21.04.13:877][502]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/buildings/uniEnvironment/foliage/Var2/wfypfa3ha_2K_Normal] ([1] browsable assets)...
+[2023.05.13-21.04.13:889][502]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/buildings/uniEnvironment/foliage/Var2/wfypfa3ha_2K_Normal.wfypfa3ha_2K_Normal]
+[2023.05.13-21.04.13:889][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/buildings/uniEnvironment/foliage/Var2/wfypfa3ha_2K_Normal]
+[2023.05.13-21.04.13:927][502]LogSavePackage: Moving '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/wfypfa3ha_2K_Normal_Auto23B70EF364DB7AE39356083B66A5E08CF.tmp' to '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/Autosaves/Game/buildings/uniEnvironment/foliage/Var2/wfypfa3ha_2K_Normal_Auto2.uasset'
+[2023.05.13-21.04.14:000][502]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/buildings/uniEnvironment/foliage/Var2/wfypfa3ha_2K_Opacity] ([1] browsable assets)...
+[2023.05.13-21.04.14:010][502]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/buildings/uniEnvironment/foliage/Var2/wfypfa3ha_2K_Opacity.wfypfa3ha_2K_Opacity]
+[2023.05.13-21.04.14:010][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/buildings/uniEnvironment/foliage/Var2/wfypfa3ha_2K_Opacity]
+[2023.05.13-21.04.14:029][502]LogSavePackage: Moving '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/wfypfa3ha_2K_Opacity_Auto27B922A1F4D209F8D86F333AB5D47B792.tmp' to '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/Autosaves/Game/buildings/uniEnvironment/foliage/Var2/wfypfa3ha_2K_Opacity_Auto2.uasset'
+[2023.05.13-21.04.14:030][502]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/buildings/uniEnvironment/foliage/Var2/wfypfa3ha_2K_Roughness] ([1] browsable assets)...
+[2023.05.13-21.04.14:042][502]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/buildings/uniEnvironment/foliage/Var2/wfypfa3ha_2K_Roughness.wfypfa3ha_2K_Roughness]
+[2023.05.13-21.04.14:042][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/buildings/uniEnvironment/foliage/Var2/wfypfa3ha_2K_Roughness]
+[2023.05.13-21.04.14:065][502]LogSavePackage: Moving '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/wfypfa3ha_2K_Roughness_Auto20F89D8A04939219E8AFC138D969714E7.tmp' to '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/Autosaves/Game/buildings/uniEnvironment/foliage/Var2/wfypfa3ha_2K_Roughness_Auto2.uasset'
+[2023.05.13-21.04.14:066][502]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/buildings/uniEnvironment/foliage/Var2/wfypfa3ha_2K_Translucency] ([1] browsable assets)...
+[2023.05.13-21.04.14:077][502]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/buildings/uniEnvironment/foliage/Var2/wfypfa3ha_2K_Translucency.wfypfa3ha_2K_Translucency]
+[2023.05.13-21.04.14:077][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/buildings/uniEnvironment/foliage/Var2/wfypfa3ha_2K_Translucency]
+[2023.05.13-21.04.14:100][502]LogSavePackage: Moving '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/wfypfa3ha_2K_Translucency_Auto2AF3DA9394443F66F388B108F13EA4EAA.tmp' to '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/Autosaves/Game/buildings/uniEnvironment/foliage/Var2/wfypfa3ha_2K_Translucency_Auto2.uasset'
+[2023.05.13-21.04.14:101][502]LogFileHelpers: Auto-saving content packages took 0.999
+[2023.05.13-21.04.25:606][783]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CC0F0D1024FC43EA69CFEB3A8A42FA09CC20A1B4), compiling. 
+[2023.05.13-21.04.25:609][783]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A5D24BEC862CFE5B6E62D928297385CF0FED7D82), compiling. 
+[2023.05.13-21.04.25:614][783]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 29D7AB89436CED53E7431C1328ED75F242D38BA4), compiling. 
+[2023.05.13-21.04.25:625][783]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.13-21.04.25:692][784]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.04.25:692][784]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.05.13-21.04.25:692][784]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.05.13-21.04.25:692][784]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.13-21.04.25:693][784]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.13-21.04.25:714][785]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.05.13-21.04.25:714][785]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.13-21.04.25:714][785]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.04.31:651][925]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 79F33BA9AE57E474CA197D881C1FBDFF02EC3DF5), compiling. 
+[2023.05.13-21.04.31:655][925]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 52652DEF1046817835088F97BC94A52DC2AFA4F0), compiling. 
+[2023.05.13-21.04.31:661][925]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.13-21.04.31:661][925]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.05.13-21.04.31:661][925]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.04.31:698][927]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.04.31:699][927]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.05.13-21.04.31:699][927]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.13-21.04.31:699][927]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.04.31:703][927]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.05.13-21.04.31:703][927]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2023.05.13-21.04.31:703][927]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.04.33:706][963]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2023.05.13-21.04.33:706][963]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.04.34:628][979]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2023.05.13-21.04.34:628][979]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.04.34:723][980]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.13-21.04.34:723][980]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.05.13-21.04.34:724][980]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.04.40:000][ 68]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.13-21.04.40:000][ 68]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.04.40:191][ 70]LogMaterialEditor: Applying material lambert1
+[2023.05.13-21.04.40:990][ 70]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D48A54C0DB7F98EF768FF19E16C900F0DDC7C90D), compiling. 
+[2023.05.13-21.04.41:050][ 70]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 37F841F39FEAAB2B40943972239AACC6C47138D8), compiling. 
+[2023.05.13-21.04.41:073][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.05.13-21.04.41:086][ 70]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.04.41:810][ 70]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.05.13-21.04.41:810][ 70]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2023.05.13-21.04.41:810][ 70]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.04.41:810][ 70]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.04.41:810][ 70]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Normal' priority
+[2023.05.13-21.04.41:810][ 70]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2023.05.13-21.04.41:810][ 70]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.04.41:810][ 70]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2023.05.13-21.04.41:810][ 70]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.04.41:810][ 70]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2023.05.13-21.04.41:810][ 70]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.04.41:827][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.05.13-21.04.41:844][ 70]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.13-21.04.41:844][ 70]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.05.13-21.04.41:844][ 70]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.04.43:564][100]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2023.05.13-21.04.43:565][100]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.04.44:284][114]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2023.05.13-21.04.44:284][114]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.04.44:366][115]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.13-21.04.44:366][115]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.05.13-21.04.44:366][115]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.04.49:477][203]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.05.13-21.04.49:477][203]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.04.51:023][228]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.13-21.04.51:023][228]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.04.53:501][279]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.13-21.04.53:501][279]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.05.13-21.04.53:501][279]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.04.54:079][293]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.05.13-21.04.54:079][293]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.05.13-21.04.54:079][293]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.05.13-21.04.54:079][293]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.13-21.04.54:079][293]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.05.13-21.04.54:079][293]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.05.05:333][611]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D8BFCB788ED9497A009A0B98F8FBFFEDA524BFD4), compiling. 
+[2023.05.13-21.05.05:338][611]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 903C0703471D86A6EA04FC957E20FF347C9C0CA0), compiling. 
+[2023.05.13-21.05.05:344][611]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.13-21.05.05:344][611]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.05.13-21.05.05:344][611]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.05.05:484][613]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.05.13-21.05.05:484][613]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.05.13-21.05.05:484][613]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.05.13-21.05.05:484][613]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.13-21.05.05:484][613]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.05.13-21.05.05:484][613]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.05.18:513][939]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2A5991DD00BF4C41BBB46642E2DCB6258F8C0B57), compiling. 
+[2023.05.13-21.05.18:517][939]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0A562A219C427F123811AFB1C86FEA772B7B4660), compiling. 
+[2023.05.13-21.05.18:522][939]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F44926DA9C892B987605AF9A9BB6B83FC28E65A5), compiling. 
+[2023.05.13-21.05.18:532][939]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.13-21.05.18:532][939]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.05.13-21.05.18:532][939]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.05.18:576][940]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.13-21.05.18:576][940]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.05.13-21.05.18:576][940]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.05.18:615][941]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.05.18:615][941]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.05.13-21.05.18:615][941]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.13-21.05.18:615][941]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.05.18:631][941]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.05.13-21.05.18:631][941]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.05.13-21.05.18:631][941]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.05.13-21.05.18:631][941]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.13-21.05.18:631][941]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.05.13-21.05.18:632][941]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.05.25:497][101]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 865A091D01653BAC5948B72B3983A640A69A282F), compiling. 
+[2023.05.13-21.05.25:501][101]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6F4B2B2F85D59DB5757BE53D649DD3E839F3DAA2), compiling. 
+[2023.05.13-21.05.25:510][101]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.13-21.05.25:510][101]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.05.13-21.05.25:510][101]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.05.25:535][102]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.05.25:573][103]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.05.13-21.05.25:573][103]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.13-21.05.25:573][103]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.05.25:573][103]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.05.13-21.05.25:573][103]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2023.05.13-21.05.25:573][103]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.05.27:595][140]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2023.05.13-21.05.27:595][140]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.05.28:546][159]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2023.05.13-21.05.28:546][159]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.05.28:615][160]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.13-21.05.28:615][160]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.05.13-21.05.28:615][160]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.05.31:947][220]LogMaterialEditor: Saving and Compiling material lambert1
+[2023.05.13-21.05.32:726][220]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.13-21.05.32:726][220]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.05.32:745][220]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 118D0E0D9D97EA4D4367CEDB37963825E499DE38), compiling. 
+[2023.05.13-21.05.32:813][220]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 84927EB1F3BCDFA523E7EE65DFBAF42F2DF8C637), compiling. 
+[2023.05.13-21.05.32:913][220]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.05.32:913][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.05.13-21.05.32:921][220]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.05.34:749][220]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2023.05.13-21.05.34:749][220]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.05.34:749][220]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Normal' priority
+[2023.05.13-21.05.34:749][220]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2023.05.13-21.05.34:749][220]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.05.34:749][220]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.13-21.05.34:749][220]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.05.34:749][220]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2023.05.13-21.05.34:749][220]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.05.34:786][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.05.13-21.05.35:457][220]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2023.05.13-21.05.35:457][220]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.05.36:286][220]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2023.05.13-21.05.36:286][220]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.05.37:959][220]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2023.05.13-21.05.37:959][220]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.05.39:006][220]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.13-21.05.39:006][220]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.05.39:876][220]LogSavePackage: Moving '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/lambert16096E4AD43B9DA311F32A581246330AA.tmp' to '../../../../../../ProjectsS/Pioneers/University 4.27/Content/buildings/uniEnvironment/foliage/Var2/lambert1.uasset'
+[2023.05.13-21.05.39:915][220]AssetCheck: New page: Asset Save: lambert1
+[2023.05.13-21.05.39:915][220]LogContentValidation: Display: Validating Material /Game/buildings/uniEnvironment/foliage/Var2/lambert1.lambert1
+[2023.05.13-21.05.39:916][220]MaterialEditorStats: Base pass shader: 126 instructions
+[2023.05.13-21.05.39:917][220]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2023.05.13-21.05.39:917][220]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.05.13-21.05.39:917][220]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.13-21.05.39:917][220]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.05.13-21.05.39:917][220]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.05.41:839][268]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 86FD17CFEB0A2801D10DAEEBBBEA32CF16F1DA03), compiling. 
+[2023.05.13-21.05.41:843][268]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: ADEAF7DBD8EF9F6CE81A297007BD6A0D768D9844), compiling. 
+[2023.05.13-21.05.41:847][268]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.13-21.05.41:848][268]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.05.13-21.05.41:848][268]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.05.41:956][270]MaterialEditorStats: Base pass shader: 126 instructions
+[2023.05.13-21.05.41:956][270]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2023.05.13-21.05.41:956][270]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.05.13-21.05.41:957][270]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.13-21.05.41:957][270]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.05.13-21.05.41:957][270]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.05.48:863][436]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2FB620004343EA1C97E86CADFA9369C9E9301FE1), compiling. 
+[2023.05.13-21.05.48:866][436]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: D70A961D8685A65E1B891A8A4C3DE2477F82F85D), compiling. 
+[2023.05.13-21.05.48:870][436]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BCDDB9D77423F3182B5149DB4FFC961C0504C3F4), compiling. 
+[2023.05.13-21.05.48:879][436]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.13-21.05.48:879][436]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.05.13-21.05.48:879][436]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.05.48:969][437]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.05.48:969][437]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.05.13-21.05.48:969][437]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.13-21.05.48:969][437]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.05.48:969][437]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.13-21.05.48:969][437]LogShaderCompilers: Display: Total job queries 280, among them cache hits 158 (56.43%)
+[2023.05.13-21.05.48:969][437]LogShaderCompilers: Display: Tracking 91 distinct input hashes that result in 45 distinct outputs (49.45%)
+[2023.05.13-21.05.48:969][437]LogShaderCompilers: Display: RAM used: 0.25 MB (0.00 GB) of 768.00 MB (0.75 GB) budget. Usage: 0.03%
+[2023.05.13-21.05.48:969][437]LogShaderCompilers: Display: ================================================
+[2023.05.13-21.05.48:970][437]MaterialEditorStats: Base pass shader: 126 instructions
+[2023.05.13-21.05.48:970][437]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2023.05.13-21.05.48:970][437]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.05.13-21.05.48:972][437]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.13-21.05.48:972][437]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.05.13-21.05.48:972][437]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.05.51:942][496]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D62939FF1D574B45C2BBCA6E7C0B0B84B4C28D27), compiling. 
+[2023.05.13-21.05.51:946][496]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: A287CDE9BC51413931404AB40327F98FAA1A6CF0), compiling. 
+[2023.05.13-21.05.51:952][496]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.13-21.05.51:952][496]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.05.51:952][496]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.05.51:994][498]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.05.51:994][498]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.05.13-21.05.51:994][498]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.13-21.05.51:994][498]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.05.51:998][498]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2023.05.13-21.05.51:998][498]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.05.13-21.05.51:998][498]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.05.54:284][541]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2023.05.13-21.05.54:284][541]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.05.55:455][562]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2023.05.13-21.05.55:455][562]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.05.55:526][563]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.13-21.05.55:526][563]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.05.55:526][563]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.05.57:251][589]LogMaterialEditor: Applying material lambert1
+[2023.05.13-21.05.58:065][589]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 60DB5A88937C9B12815FC5A614884846B44930EA), compiling. 
+[2023.05.13-21.05.58:124][589]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 00E2197ACF67380761D6198E6B636116B25A6C54), compiling. 
+[2023.05.13-21.05.58:156][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.05.13-21.05.58:168][589]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.05.59:900][589]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.05.13-21.05.59:900][589]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.05.59:900][589]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Normal' priority
+[2023.05.13-21.05.59:900][589]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2023.05.13-21.05.59:900][589]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.05.59:900][589]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2023.05.13-21.05.59:900][589]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.05.59:901][589]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2023.05.13-21.05.59:901][589]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.13-21.05.59:901][589]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2023.05.13-21.05.59:901][589]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.05.59:901][589]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2023.05.13-21.05.59:901][589]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.05.59:919][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.05.13-21.05.59:934][589]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.13-21.05.59:934][589]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.05.59:935][589]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.06.01:023][607]LogMaterialEditor: Saving and Compiling material lambert1
+[2023.05.13-21.06.01:694][607]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2023.05.13-21.06.01:694][607]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.06.03:399][607]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2023.05.13-21.06.03:399][607]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.06.04:468][607]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.13-21.06.04:468][607]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.06.05:629][607]LogSavePackage: Moving '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/lambert11446AE024A6D678EA0A4E8A5F2C49FEB.tmp' to '../../../../../../ProjectsS/Pioneers/University 4.27/Content/buildings/uniEnvironment/foliage/Var2/lambert1.uasset'
+[2023.05.13-21.06.05:662][607]AssetCheck: New page: Asset Save: lambert1
+[2023.05.13-21.06.05:662][607]LogContentValidation: Display: Validating Material /Game/buildings/uniEnvironment/foliage/Var2/lambert1.lambert1
+[2023.05.13-21.06.05:663][607]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.05.13-21.06.05:663][607]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2023.05.13-21.06.05:663][607]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.05.13-21.06.05:663][607]MaterialEditorStats: Texture samplers: 6/16
+[2023.05.13-21.06.05:663][607]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.06.05:663][607]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.06.23:008][218]LogMaterial: Display: Material /Game/buildings/uniEnvironment/foliage/Var2/lambert1.lambert1 needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2023.05.13-21.06.23:010][218]LogMaterial: Display: Material /Engine/Transient.PreviewMaterial_0 needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2023.05.13-21.06.23:012][218]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 051A371B15AE239E524BB8821FEE6AB5D66B54CB), compiling. 
+[2023.05.13-21.06.23:029][218]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.05.13-21.06.23:032][218]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 16882D9294F7D64808859DB16D816444F9FDC967), compiling. 
+[2023.05.13-21.06.23:087][218]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2023.05.13-21.06.23:087][218]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.06.23:087][218]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2023.05.13-21.06.23:087][218]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2023.05.13-21.06.23:087][218]LogShaderCompilers: Display: Submitted 17 shader compile jobs with 'Low' priority
+[2023.05.13-21.06.23:087][218]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Low' priority
+[2023.05.13-21.06.23:100][218]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.13-21.06.23:100][218]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.06.23:100][218]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.06.23:129][219]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.13-21.06.23:129][219]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.06.23:129][219]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.06.23:235][220]MaterialEditorStats: Texture samplers: 6/16
+[2023.05.13-21.06.23:235][220]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.06.23:235][220]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.06.24:470][252]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2023.05.13-21.06.24:470][252]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.06.32:011][503]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2023.05.13-21.06.32:011][503]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.06.36:062][619]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.13-21.06.36:062][619]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.13-21.06.40:146][733]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.05.13-21.06.40:146][733]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2023.05.13-21.06.40:146][733]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.05.13-21.06.40:146][733]MaterialEditorStats: Texture samplers: 6/16
+[2023.05.13-21.06.40:146][733]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.06.40:146][733]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.06.43:704][898]Cmd: TRANSACTION UNDO
+[2023.05.13-21.06.43:705][898]LogEditorTransaction: Undo Foliage Editing
+[2023.05.13-21.06.43:901][898]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B6D305F93512613508628EFE50F2073BD11A7BB9), compiling. 
+[2023.05.13-21.06.43:945][898]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.13-21.06.43:945][898]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.06.43:945][898]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.06.44:195][901]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.05.13-21.06.44:195][901]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2023.05.13-21.06.44:195][901]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.05.13-21.06.44:195][901]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.13-21.06.44:195][901]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.06.44:195][901]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.06.55:265][365]Cmd: TRANSACTION UNDO
+[2023.05.13-21.06.55:265][365]LogEditorTransaction: Undo Foliage Editing
+[2023.05.13-21.06.55:454][365]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 575C4846F0992143A718330310B9B738B4025740), compiling. 
+[2023.05.13-21.06.55:506][365]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.13-21.06.55:506][365]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.06.55:506][365]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.06.55:811][368]Cmd: TRANSACTION UNDO
+[2023.05.13-21.06.55:812][368]LogEditorTransaction: Undo Foliage Editing
+[2023.05.13-21.06.55:972][368]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5628EE30700DB158D13FE57E1672987B0053265A), compiling. 
+[2023.05.13-21.06.56:240][372]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.05.13-21.06.56:240][372]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2023.05.13-21.06.56:240][372]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.05.13-21.06.56:240][372]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.13-21.06.56:240][372]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.06.56:240][372]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.06.56:573][383]Cmd: TRANSACTION UNDO
+[2023.05.13-21.06.56:573][383]LogEditorTransaction: Undo Foliage Editing
+[2023.05.13-21.06.56:760][383]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 67306627A7D89F442E8F01E2AAAEBE793AE509F2), compiling. 
+[2023.05.13-21.06.56:797][383]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.13-21.06.56:797][383]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.06.56:797][383]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.06.56:960][387]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.05.13-21.06.56:960][387]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2023.05.13-21.06.56:960][387]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.05.13-21.06.56:960][387]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.13-21.06.56:960][387]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.06.56:960][387]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.07.06:476][581]Cmd: TRANSACTION UNDO
+[2023.05.13-21.07.06:476][581]LogEditorTransaction: Undo Foliage Editing
+[2023.05.13-21.07.06:649][581]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CDFB0FAAC2675798FFA14A4A768854FB090E205C), compiling. 
+[2023.05.13-21.07.06:695][581]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.13-21.07.06:696][581]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.07.06:696][581]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.07.06:941][584]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.05.13-21.07.06:941][584]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2023.05.13-21.07.06:941][584]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.05.13-21.07.06:941][584]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.13-21.07.06:941][584]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.07.06:941][584]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.07.30:130][407]Cmd: TRANSACTION UNDO
+[2023.05.13-21.07.30:130][407]LogEditorTransaction: Undo Foliage Editing
+[2023.05.13-21.07.30:335][407]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 137AC2AB4924CEFD2B8546236E1022EB2708C1E6), compiling. 
+[2023.05.13-21.07.30:389][407]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.13-21.07.30:389][407]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.07.30:389][407]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.07.30:698][410]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.05.13-21.07.30:699][410]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2023.05.13-21.07.30:699][410]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.05.13-21.07.30:699][410]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.13-21.07.30:699][410]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.07.30:699][410]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.07.49:476][ 57]Cmd: TRANSACTION UNDO
+[2023.05.13-21.07.49:476][ 57]LogEditorTransaction: Undo Foliage Editing
+[2023.05.13-21.07.49:677][ 57]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 26B57367FBA8C6DAE562BAB596EB3CD8051EE203), compiling. 
+[2023.05.13-21.07.49:728][ 57]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.13-21.07.49:728][ 57]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.07.49:728][ 57]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.07.50:107][ 60]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.05.13-21.07.50:107][ 60]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2023.05.13-21.07.50:108][ 60]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.05.13-21.07.50:108][ 60]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.13-21.07.50:108][ 60]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.07.50:108][ 60]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.08.11:641][762]Cmd: TRANSACTION UNDO
+[2023.05.13-21.08.11:641][762]LogEditorTransaction: Undo Foliage Editing
+[2023.05.13-21.08.11:875][762]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A8AB564E6F360B74E23E2F1D83A11696F90D5BD0), compiling. 
+[2023.05.13-21.08.11:935][762]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.13-21.08.11:935][762]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.08.11:935][762]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.08.12:268][765]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.13-21.08.12:269][765]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.08.12:269][765]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.08.12:327][766]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.05.13-21.08.12:327][766]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2023.05.13-21.08.12:327][766]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.05.13-21.08.12:327][766]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.13-21.08.12:328][766]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.08.12:328][766]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.08.27:491][247]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2023.05.13-21.09.19:806][665]Cmd: TRANSACTION UNDO
+[2023.05.13-21.09.19:806][665]LogEditorTransaction: Undo Edit Y
+[2023.05.13-21.09.19:885][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:885][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:886][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:886][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:886][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:886][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:886][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:886][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:886][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:886][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:886][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:886][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:886][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:886][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:886][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:886][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:886][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:886][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:886][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:886][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:886][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:886][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:887][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:887][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:887][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:887][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:887][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:887][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:887][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:887][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:888][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:888][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:888][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:888][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:888][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:888][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:888][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:888][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:889][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:889][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:889][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:889][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:889][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:889][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:890][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:890][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:890][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:890][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:890][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:890][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:890][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:890][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:891][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:891][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:892][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:892][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:893][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:893][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:893][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:893][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:893][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:893][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:894][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:894][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:894][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:894][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:894][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:895][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:895][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:895][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:895][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:895][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:896][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:896][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:896][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:896][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:896][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:896][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:896][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:896][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:896][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:896][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:896][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:896][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:897][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:897][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:897][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:897][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:897][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:897][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:897][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:897][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:897][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:897][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:897][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:897][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:897][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:897][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:897][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:897][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:898][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:898][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:898][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:898][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:898][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:899][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:899][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:899][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:899][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:900][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:900][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:900][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:900][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:900][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:900][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:900][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:900][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:900][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:900][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:900][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:900][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:900][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:900][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:901][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:901][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:901][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:901][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:901][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:901][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:901][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:901][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:901][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:902][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:902][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:902][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:902][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:902][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:902][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:902][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:903][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:903][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:903][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:903][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:903][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:903][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:904][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:904][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:904][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:904][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:904][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:905][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:905][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:905][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:905][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:905][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:905][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:906][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:906][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:906][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:906][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:906][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:907][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:907][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:907][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:907][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:907][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:908][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:908][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:908][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:908][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:908][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:908][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:909][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:909][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:909][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:909][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:910][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:910][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:910][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:910][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:910][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:910][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:910][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:911][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:911][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:911][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:911][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:912][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:912][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:912][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:912][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:912][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:912][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:912][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:912][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:912][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:912][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:912][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:912][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:912][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:912][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:912][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:913][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:913][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:913][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:913][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:913][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:913][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:913][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:913][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:913][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:913][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:913][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:913][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:913][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:913][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:913][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:914][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:914][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:914][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:914][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:914][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:914][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:914][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:914][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:914][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:914][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:914][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:914][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:914][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:914][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:914][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:914][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:914][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:914][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:914][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:914][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:915][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:915][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:915][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:915][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:915][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:915][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:915][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:915][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:915][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:915][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:916][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:916][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:916][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:916][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:916][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:916][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:916][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:916][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:917][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:917][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:917][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:917][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:917][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:918][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:918][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:918][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:918][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:918][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:918][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:918][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:919][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:919][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:919][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:920][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:920][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:920][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:920][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:920][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:920][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:921][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:921][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:921][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:921][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:922][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:922][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:922][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:922][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:923][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:923][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:923][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:923][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:924][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:924][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:924][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:924][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.19:924][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2023.05.13-21.09.19:925][665]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2023.05.13-21.09.20:389][665]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D51B2E3BA54EED77EE5D6BBD80AB42B2F00CF912), compiling. 
+[2023.05.13-21.09.20:492][665]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.13-21.09.20:492][665]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.09.20:492][665]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.09.20:672][666]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.13-21.09.20:672][666]LogShaderCompilers: Display: Total job queries 460, among them cache hits 286 (62.17%)
+[2023.05.13-21.09.20:672][666]LogShaderCompilers: Display: Tracking 137 distinct input hashes that result in 69 distinct outputs (50.36%)
+[2023.05.13-21.09.20:672][666]LogShaderCompilers: Display: RAM used: 0.40 MB (0.00 GB) of 768.00 MB (0.75 GB) budget. Usage: 0.05%
+[2023.05.13-21.09.20:672][666]LogShaderCompilers: Display: ================================================
+[2023.05.13-21.09.20:696][667]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.13-21.09.20:696][667]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.09.20:696][667]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.09.20:720][668]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.05.13-21.09.20:720][668]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2023.05.13-21.09.20:720][668]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.05.13-21.09.20:720][668]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.13-21.09.20:720][668]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.09.20:720][668]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.10.00:835][ 46]Cmd: TRANSACTION UNDO
+[2023.05.13-21.10.00:835][ 46]LogEditorTransaction: Undo Foliage Editing
+[2023.05.13-21.10.01:032][ 46]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E3829E318FD26085F8C626CC7D7F9242C7D678CE), compiling. 
+[2023.05.13-21.10.01:091][ 46]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.13-21.10.01:091][ 46]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.10.01:091][ 46]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.10.01:403][ 49]Cmd: TRANSACTION UNDO
+[2023.05.13-21.10.01:404][ 49]LogEditorTransaction: Undo Foliage Editing
+[2023.05.13-21.10.01:591][ 49]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7CA7605C0E08D3934CFC6FA088E1925FFEA74947), compiling. 
+[2023.05.13-21.10.01:797][ 52]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.05.13-21.10.01:797][ 52]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2023.05.13-21.10.01:798][ 52]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.05.13-21.10.01:798][ 52]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.13-21.10.01:798][ 52]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.10.01:798][ 52]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.10.13:889][509]Cmd: TRANSACTION UNDO
+[2023.05.13-21.10.13:890][509]LogEditorTransaction: Undo Foliage Editing
+[2023.05.13-21.10.14:112][509]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 234C6943D827EDB01B5597B0AF85862F765FC7D2), compiling. 
+[2023.05.13-21.10.14:175][509]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.13-21.10.14:175][509]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.10.14:175][509]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.10.14:467][512]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.05.13-21.10.14:467][512]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2023.05.13-21.10.14:467][512]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.05.13-21.10.14:467][512]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.13-21.10.14:467][512]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.10.14:467][512]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.10.18:098][623]Cmd: TRANSACTION UNDO
+[2023.05.13-21.10.18:099][623]LogEditorTransaction: Undo Foliage Editing
+[2023.05.13-21.10.18:330][623]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E1B54D65CEBF787015722E558E5DE0F1673C4C8D), compiling. 
+[2023.05.13-21.10.18:394][623]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.13-21.10.18:394][623]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.10.18:394][623]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.10.18:670][625]Cmd: TRANSACTION UNDO
+[2023.05.13-21.10.18:670][625]LogEditorTransaction: Undo Foliage Editing
+[2023.05.13-21.10.18:878][625]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 412741971C92208D65D7D5DB66BDB42B05EF7F82), compiling. 
+[2023.05.13-21.10.18:992][626]Cmd: TRANSACTION UNDO
+[2023.05.13-21.10.18:993][626]LogEditorTransaction: Undo Foliage Editing
+[2023.05.13-21.10.19:222][626]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 83F7B96E4784C027151EE13DB23BCB75D43595CD), compiling. 
+[2023.05.13-21.10.19:422][628]Cmd: TRANSACTION UNDO
+[2023.05.13-21.10.19:422][628]LogEditorTransaction: Undo Foliage Editing
+[2023.05.13-21.10.19:620][628]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: ED6552D8A864AC915A8F9EF99B66D00A822404C0), compiling. 
+[2023.05.13-21.10.19:767][630]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.05.13-21.10.19:767][630]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2023.05.13-21.10.19:767][630]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.05.13-21.10.19:767][630]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.13-21.10.19:767][630]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.10.19:767][630]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.10.19:863][631]Cmd: TRANSACTION UNDO
+[2023.05.13-21.10.19:863][631]LogEditorTransaction: Undo Foliage Editing
+[2023.05.13-21.10.20:045][631]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4B382801EB436D0DB192144FE45734A8FFBC5A5C), compiling. 
+[2023.05.13-21.10.20:099][631]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.13-21.10.20:099][631]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.10.20:099][631]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.10.20:265][635]Cmd: TRANSACTION UNDO
+[2023.05.13-21.10.20:265][635]LogEditorTransaction: Undo Foliage Editing
+[2023.05.13-21.10.20:491][635]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 451B7CD9C6FC4725278FF8EEEF0E0597AA51E5E4), compiling. 
+[2023.05.13-21.10.20:715][638]Cmd: TRANSACTION UNDO
+[2023.05.13-21.10.20:715][638]LogEditorTransaction: Undo Foliage Editing
+[2023.05.13-21.10.20:948][638]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 08F7F3B3B3C6799384CFD9DE440D0D215A3A3E84), compiling. 
+[2023.05.13-21.10.21:177][641]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.05.13-21.10.21:177][641]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2023.05.13-21.10.21:177][641]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.05.13-21.10.21:177][641]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.13-21.10.21:177][641]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.10.21:177][641]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.10.21:219][642]Cmd: TRANSACTION UNDO
+[2023.05.13-21.10.21:219][642]LogEditorTransaction: Undo Foliage Editing
+[2023.05.13-21.10.21:459][642]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 565A61B72C2F3AAC4A9A6615F8C9BBE11CEA3013), compiling. 
+[2023.05.13-21.10.21:507][642]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.13-21.10.21:507][642]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.10.21:508][642]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.10.21:646][645]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.13-21.10.21:646][645]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.10.21:646][645]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.10.21:700][646]Cmd: TRANSACTION UNDO
+[2023.05.13-21.10.21:700][646]LogEditorTransaction: Undo Foliage Editing
+[2023.05.13-21.10.21:925][646]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 92CC43D9F490B9A0F0FC622BD67974DD140967CC), compiling. 
+[2023.05.13-21.10.21:968][646]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.13-21.10.21:968][646]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.10.21:969][646]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.10.22:153][650]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.13-21.10.22:153][650]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.10.22:153][650]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.10.22:192][651]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.05.13-21.10.22:193][651]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2023.05.13-21.10.22:193][651]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.05.13-21.10.22:193][651]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.13-21.10.22:193][651]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.10.22:193][651]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.10.22:232][652]Cmd: TRANSACTION UNDO
+[2023.05.13-21.10.22:232][652]LogEditorTransaction: Undo Foliage Editing
+[2023.05.13-21.10.22:438][652]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BC3709FD3DAA4FC3CE0C9B7448ADEFAAF9AA7BDA), compiling. 
+[2023.05.13-21.10.22:494][652]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.13-21.10.22:494][652]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.10.22:494][652]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.10.22:668][656]Cmd: TRANSACTION UNDO
+[2023.05.13-21.10.22:668][656]LogEditorTransaction: Undo Foliage Editing
+[2023.05.13-21.10.22:887][656]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0D10435085397999F3F00D5278E6DC9815ECE7BC), compiling. 
+[2023.05.13-21.10.23:105][660]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.05.13-21.10.23:105][660]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2023.05.13-21.10.23:105][660]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.05.13-21.10.23:105][660]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.13-21.10.23:105][660]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.10.23:105][660]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.10.45:486][462]Cmd: TRANSACTION UNDO
+[2023.05.13-21.10.45:486][462]LogEditorTransaction: Undo Foliage Editing
+[2023.05.13-21.10.45:701][462]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F828FB36F51FC80DDD28E1C920EF7DA39AFD7619), compiling. 
+[2023.05.13-21.10.45:764][462]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.13-21.10.45:764][462]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.10.45:764][462]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.10.46:081][465]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.13-21.10.46:081][465]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.10.46:081][465]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.10.46:160][466]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.05.13-21.10.46:160][466]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2023.05.13-21.10.46:160][466]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.05.13-21.10.46:160][466]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.13-21.10.46:160][466]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.13-21.10.46:160][466]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.13-21.10.47:336][497]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.05.13-21.10.47:388][497]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 128X128)
+[2023.05.13-21.10.48:026][497]LogSavePackage: Moving '../../../../../../ProjectsS/Pioneers/University 4.27/Saved/Minimal_DefaultD43FF950412D1FF6800098ACD3CC1B20.tmp' to '../../../../../../ProjectsS/Pioneers/University 4.27/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.05.13-21.10.48:137][497]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.05.13-21.10.48:137][497]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
