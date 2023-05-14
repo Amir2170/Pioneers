@@ -1833,3 +1833,663 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.14-22.46.22:137][406]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/Minimal_Default1022441948414A44431E4CA5EBA05AC7.tmp' to '../../../../../../ProjectAA/Pioneers/University 4.27/Content/StarterContent/Maps/Minimal_Default.umap'
 [2023.05.14-22.46.22:211][406]AssetCheck: New page: Asset Save: Minimal_Default
 [2023.05.14-22.46.22:211][406]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.05.14-22.48.35:073][984]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.14-22.48.35:096][984]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.14-22.48.40:488][188]LogContentBrowser: Attempting asset rename: NewFolder -> car4
+[2023.05.14-22.48.40:489][188]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.14-22.48.50:076][312]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../ProjectAA/Pioneers/Cars/Members' cars/Sareh_rasouli_car.fbx)
+[2023.05.14-22.48.50:096][312]LogFbx: Loading FBX Scene from ../../../../../../ProjectAA/Pioneers/Cars/Members' cars/Sareh_rasouli_car.fbx
+[2023.05.14-22.48.50:117][312]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.14-22.48.51:205][312]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.14-22.48.51:247][312]LogFbx: Valid bind pose for Pose (Cube) - Cube
+[2023.05.14-22.48.51:247][312]LogFbx: Valid bind pose for Pose (Cylinder) - Cube
+[2023.05.14-22.48.51:247][312]LogFbx: Valid bind pose for Pose (Cylinder.001) - Cube
+[2023.05.14-22.48.51:247][312]LogFbx: Valid bind pose for Pose (Cylinder.002) - Cube
+[2023.05.14-22.48.51:247][312]LogFbx: Valid bind pose for Pose (Cylinder.003) - Cube
+[2023.05.14-22.48.51:250][312]LogMaterial: Display: Material /Game/cars/car4/body.body needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.48.51:253][312]LogMaterial: Display: Missing cached shadermap for body in PCD3D_SM5, Default, SM5 (DDC key hash: 38E9B35737DB880E43F7F89C0F4BEF3A44FB9BE0), compiling. 
+[2023.05.14-22.48.51:319][312]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.48.51:326][312]LogMaterial: Display: Missing cached shadermap for body in PCD3D_SM5, Default, SM5 (DDC key hash: CE97335AFC8024449A9F0AEE5B2AB76514818CEB), compiling. 
+[2023.05.14-22.48.51:336][312]LogMaterial: Display: Material /Game/cars/car4/glass.glass needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.48.51:386][312]LogMaterial: Display: Missing cached shadermap for glass in PCD3D_SM5, Default, SM5 (DDC key hash: D56C72A8F400AD1DAC5DB86359ADB785F3120445), compiling. 
+[2023.05.14-22.48.51:439][312]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.48.51:445][312]LogMaterial: Display: Missing cached shadermap for glass in PCD3D_SM5, Default, SM5 (DDC key hash: C3731CCD7B20985223C90D4FFC17AB680C5C1598), compiling. 
+[2023.05.14-22.48.51:454][312]LogMaterial: Display: Material /Game/cars/car4/frontkight.frontkight needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.48.51:507][312]LogMaterial: Display: Missing cached shadermap for frontkight in PCD3D_SM5, Default, SM5 (DDC key hash: E9E4056FDC599AB3BD04412193D0B5163646C385), compiling. 
+[2023.05.14-22.48.51:561][312]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.48.51:566][312]LogMaterial: Display: Missing cached shadermap for frontkight in PCD3D_SM5, Default, SM5 (DDC key hash: DEBD071408E14A77AC3B8A25DBFF17ED369FC482), compiling. 
+[2023.05.14-22.48.51:576][312]LogMaterial: Display: Material /Game/cars/car4/grills.grills needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.48.51:625][312]LogMaterial: Display: Missing cached shadermap for grills in PCD3D_SM5, Default, SM5 (DDC key hash: 59C2E565B6D732D61B146A37B804A744A6F8474D), compiling. 
+[2023.05.14-22.48.51:671][312]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.48.51:675][312]LogMaterial: Display: Missing cached shadermap for grills in PCD3D_SM5, Default, SM5 (DDC key hash: 61A5A07914C57528CE556C69341B561819042452), compiling. 
+[2023.05.14-22.48.51:684][312]LogMaterial: Display: Material /Game/cars/car4/backlight.backlight needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.48.51:733][312]LogMaterial: Display: Missing cached shadermap for backlight in PCD3D_SM5, Default, SM5 (DDC key hash: 7D20F2FB68C5430C6D3D8C12D471461CDF2CC6BE), compiling. 
+[2023.05.14-22.48.51:782][312]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.48.51:787][312]LogMaterial: Display: Missing cached shadermap for backlight in PCD3D_SM5, Default, SM5 (DDC key hash: 7B7E72138D26A809774F56DAB16F4E0EC1A4E3BA), compiling. 
+[2023.05.14-22.48.51:796][312]LogFbx: Triangulating skeletal mesh Cube
+[2023.05.14-22.48.51:894][312]LogMaterial: Display: Material /Game/cars/car4/tire_003.tire_003 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.48.51:898][312]LogMaterial: Display: Missing cached shadermap for tire_003 in PCD3D_SM5, Default, SM5 (DDC key hash: A4A37667C858D141182518BDBB5B8FCF3BED65FA), compiling. 
+[2023.05.14-22.48.51:945][312]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.48.51:951][312]LogMaterial: Display: Missing cached shadermap for tire_003 in PCD3D_SM5, Default, SM5 (DDC key hash: F55B86255E04BA546947B612E7EDA6AE9FD8AC2C), compiling. 
+[2023.05.14-22.48.51:961][312]LogMaterial: Display: Material /Game/cars/car4/rings_002.rings_002 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.48.52:008][312]LogMaterial: Display: Missing cached shadermap for rings_002 in PCD3D_SM5, Default, SM5 (DDC key hash: B4A5A8F027131EAE7CB66840962F8848811C88AF), compiling. 
+[2023.05.14-22.48.52:053][312]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.48.52:058][312]LogMaterial: Display: Missing cached shadermap for rings_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 31D6A6C3666B148AC103455D026D127EF5365644), compiling. 
+[2023.05.14-22.48.52:067][312]LogFbx: Triangulating skeletal mesh RL
+[2023.05.14-22.48.52:110][312]LogMaterial: Display: Material /Game/cars/car4/tire_002.tire_002 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.48.52:121][312]LogMaterial: Display: Missing cached shadermap for tire_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 0512C7C12040D8318E3FAAD221F9652FC4FDB673), compiling. 
+[2023.05.14-22.48.52:166][312]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.48.52:167][312]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2023.05.14-22.48.52:167][312]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2023.05.14-22.48.52:167][312]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2023.05.14-22.48.52:167][312]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Low' priority
+[2023.05.14-22.48.52:170][312]LogMaterial: Display: Missing cached shadermap for tire_002 in PCD3D_SM5, Default, SM5 (DDC key hash: E8C71AA737B03A19AF324CF9C5B899676BE31604), compiling. 
+[2023.05.14-22.48.52:179][312]LogMaterial: Display: Material /Game/cars/car4/ring.ring needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.48.52:237][312]LogMaterial: Display: Missing cached shadermap for ring in PCD3D_SM5, Default, SM5 (DDC key hash: BF01D08DA6D875AE04FDABEEBF62E44D941B09C4), compiling. 
+[2023.05.14-22.48.52:292][312]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.48.52:297][312]LogMaterial: Display: Missing cached shadermap for ring in PCD3D_SM5, Default, SM5 (DDC key hash: 38D65263834D9A192886C73C6A0896356CA137FE), compiling. 
+[2023.05.14-22.48.52:306][312]LogFbx: Triangulating skeletal mesh FL
+[2023.05.14-22.48.52:358][312]LogMaterial: Display: Material /Game/cars/car4/tire_001.tire_001 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.48.52:429][312]LogMaterial: Display: Missing cached shadermap for tire_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 93BFCAF5CBBD76CB080CE5E195AC9B77352A6E03), compiling. 
+[2023.05.14-22.48.52:483][312]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.48.52:488][312]LogMaterial: Display: Missing cached shadermap for tire_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 4FE6ED04BEBC41C91495958809FA8EEE59847950), compiling. 
+[2023.05.14-22.48.52:499][312]LogMaterial: Display: Material /Game/cars/car4/rings_001.rings_001 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.48.52:692][312]LogMaterial: Display: Missing cached shadermap for rings_001 in PCD3D_SM5, Default, SM5 (DDC key hash: D05C7EA2BF8EF4CF211F98DAF098BB89159F6539), compiling. 
+[2023.05.14-22.48.52:748][312]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.48.52:753][312]LogMaterial: Display: Missing cached shadermap for rings_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 5E3178623076315A8005761E66C6A8A66255993B), compiling. 
+[2023.05.14-22.48.52:763][312]LogFbx: Triangulating skeletal mesh FR
+[2023.05.14-22.48.52:823][312]LogMaterial: Display: Material /Game/cars/car4/tire.tire needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.48.52:900][312]LogMaterial: Display: Missing cached shadermap for tire in PCD3D_SM5, Default, SM5 (DDC key hash: 50A99166BBE2D7A5789ECEF12C58C042B5DC63AF), compiling. 
+[2023.05.14-22.48.52:954][312]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.48.52:959][312]LogMaterial: Display: Missing cached shadermap for tire in PCD3D_SM5, Default, SM5 (DDC key hash: 60534D072A425D593B6936F6A44AE7ADDB40BCD7), compiling. 
+[2023.05.14-22.48.52:973][312]LogMaterial: Display: Material /Game/cars/car4/rings.rings needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.48.53:109][312]LogMaterial: Display: Missing cached shadermap for rings in PCD3D_SM5, Default, SM5 (DDC key hash: EC2AD971005BC1AB49EB04DFEAD4D2F924907B0C), compiling. 
+[2023.05.14-22.48.53:169][312]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.48.53:174][312]LogMaterial: Display: Missing cached shadermap for rings in PCD3D_SM5, Default, SM5 (DDC key hash: CFD6B0B9761FF6CCF4F38E45737D127C729D6AD2), compiling. 
+[2023.05.14-22.48.53:184][312]LogFbx: Triangulating skeletal mesh RR
+[2023.05.14-22.48.53:361][312]LogFbx: Warning: Bones digested - 5  Depth of hierarchy - 2
+[2023.05.14-22.48.53:464][312]LogSkeletalMesh: Section 0: Material=0, 1138 triangles
+[2023.05.14-22.48.53:464][312]LogSkeletalMesh: Section 1: Material=1, 24 triangles
+[2023.05.14-22.48.53:464][312]LogSkeletalMesh: Section 2: Material=2, 12 triangles
+[2023.05.14-22.48.53:465][312]LogSkeletalMesh: Section 3: Material=3, 20 triangles
+[2023.05.14-22.48.53:465][312]LogSkeletalMesh: Section 4: Material=4, 16 triangles
+[2023.05.14-22.48.53:465][312]LogSkeletalMesh: Section 5: Material=5, 570 triangles
+[2023.05.14-22.48.53:465][312]LogSkeletalMesh: Section 6: Material=6, 130 triangles
+[2023.05.14-22.48.53:465][312]LogSkeletalMesh: Section 7: Material=7, 558 triangles
+[2023.05.14-22.48.53:465][312]LogSkeletalMesh: Section 8: Material=8, 142 triangles
+[2023.05.14-22.48.53:465][312]LogSkeletalMesh: Section 9: Material=9, 556 triangles
+[2023.05.14-22.48.53:465][312]LogSkeletalMesh: Section 10: Material=10, 144 triangles
+[2023.05.14-22.48.53:465][312]LogSkeletalMesh: Section 11: Material=11, 548 triangles
+[2023.05.14-22.48.53:465][312]LogSkeletalMesh: Section 12: Material=12, 152 triangles
+[2023.05.14-22.48.53:467][312]LogSkeletalMesh: Building Skeletal Mesh Sareh_rasouli_car...
+[2023.05.14-22.48.53:550][312]LogSkeletalMesh: Section 0: Material=0, 1138 triangles
+[2023.05.14-22.48.53:550][312]LogSkeletalMesh: Section 1: Material=1, 24 triangles
+[2023.05.14-22.48.53:551][312]LogSkeletalMesh: Section 2: Material=2, 12 triangles
+[2023.05.14-22.48.53:551][312]LogSkeletalMesh: Section 3: Material=3, 20 triangles
+[2023.05.14-22.48.53:551][312]LogSkeletalMesh: Section 4: Material=4, 16 triangles
+[2023.05.14-22.48.53:551][312]LogSkeletalMesh: Section 5: Material=5, 570 triangles
+[2023.05.14-22.48.53:551][312]LogSkeletalMesh: Section 6: Material=6, 130 triangles
+[2023.05.14-22.48.53:551][312]LogSkeletalMesh: Section 7: Material=7, 558 triangles
+[2023.05.14-22.48.53:551][312]LogSkeletalMesh: Section 8: Material=8, 142 triangles
+[2023.05.14-22.48.53:551][312]LogSkeletalMesh: Section 9: Material=9, 556 triangles
+[2023.05.14-22.48.53:551][312]LogSkeletalMesh: Section 10: Material=10, 144 triangles
+[2023.05.14-22.48.53:551][312]LogSkeletalMesh: Section 11: Material=11, 548 triangles
+[2023.05.14-22.48.53:551][312]LogSkeletalMesh: Section 12: Material=12, 152 triangles
+[2023.05.14-22.48.53:582][312]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/cars/car4/Sareh_rasouli_car.Sareh_rasouli_car
+[2023.05.14-22.48.53:596][312]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-22.48.53:597][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-22.48.53:631][312]FBXImport: FBX File Loading: Found name clash, node 'RL' was renamed to 'RL1' 
+[2023.05.14-22.48.53:631][312]FBXImport: FBX File Loading: Found name clash, node 'RR' was renamed to 'RR2' 
+[2023.05.14-22.48.53:631][312]FBXImport: FBX File Loading: Found name clash, node 'FL' was renamed to 'FL3' 
+[2023.05.14-22.48.53:631][312]FBXImport: FBX File Loading: Found name clash, node 'FR' was renamed to 'FR4' 
+[2023.05.14-22.48.53:631][312]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.14-22.48.54:051][317]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.48.54:100][317]LogShaderCompilers: Display: Submitted 30 shader compile jobs with 'Normal' priority
+[2023.05.14-22.48.54:112][317]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.48.54:161][317]LogShaderCompilers: Display: Submitted 30 shader compile jobs with 'Normal' priority
+[2023.05.14-22.48.54:173][317]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.48.54:229][317]LogShaderCompilers: Display: Submitted 30 shader compile jobs with 'Normal' priority
+[2023.05.14-22.48.54:250][317]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.48.54:301][317]LogShaderCompilers: Display: Submitted 30 shader compile jobs with 'Normal' priority
+[2023.05.14-22.48.54:317][317]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.48.54:323][317]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.48.54:327][317]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.48.54:333][317]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.48.54:338][317]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.48.54:343][317]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.48.54:347][317]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.48.54:352][317]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.48.54:357][317]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.48.54:385][317]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.48.54:436][317]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2023.05.14-22.48.54:451][317]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.48.54:500][317]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2023.05.14-22.48.54:515][317]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.48.54:566][317]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2023.05.14-22.48.54:585][317]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.48.54:637][317]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2023.05.14-22.48.54:655][317]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.48.54:704][317]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2023.05.14-22.48.54:724][317]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.48.54:774][317]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2023.05.14-22.48.54:787][317]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.48.54:837][317]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2023.05.14-22.48.54:854][317]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.48.54:903][317]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2023.05.14-22.48.54:918][317]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.48.54:966][317]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2023.05.14-22.48.55:392][324]LogSlate: Window 'Message Log' being destroyed
+[2023.05.14-22.48.55:443][324]LogSlate: Window 'Message Log' being destroyed
+[2023.05.14-22.49.13:377][615]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 52
+[2023.05.14-22.49.13:377][615]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.49.13:393][615]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.14-22.49.13:393][615]LogShaderCompilers: Display: Total job queries 1128, among them cache hits 87 (7.71%)
+[2023.05.14-22.49.13:393][615]LogShaderCompilers: Display: Tracking 209 distinct input hashes that result in 57 distinct outputs (27.27%)
+[2023.05.14-22.49.13:393][615]LogShaderCompilers: Display: RAM used: 0.33 MB (0.00 GB) of 768.00 MB (0.75 GB) budget. Usage: 0.04%
+[2023.05.14-22.49.13:393][615]LogShaderCompilers: Display: ================================================
+[2023.05.14-22.49.14:119][632]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 42
+[2023.05.14-22.49.14:119][632]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.49.16:043][670]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2023.05.14-22.49.16:043][670]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.49.34:230][ 46]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2023.05.14-22.49.34:230][ 46]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.49.36:632][ 92]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2023.05.14-22.49.36:632][ 92]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.49.37:003][ 99]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2023.05.14-22.49.37:003][ 99]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.49.43:777][184]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2023.05.14-22.49.43:777][184]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.49.43:991][189]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2023.05.14-22.49.43:991][189]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.49.45:556][214]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2023.05.14-22.49.45:556][214]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.49.47:171][242]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 364
+[2023.05.14-22.49.47:172][242]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.49.48:208][263]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 354
+[2023.05.14-22.49.48:208][263]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.49.48:319][264]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 344
+[2023.05.14-22.49.48:319][264]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.49.58:684][451]LogEditorViewport: Clicking on Actor (context menu): SkeletalMeshActor (Sareh_rasouli_car)
+[2023.05.14-22.50.00:342][469]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Sareh_rasouli_car)
+[2023.05.14-22.50.08:079][598]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2023.05.14-22.50.08:079][598]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.50.10:980][640]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2023.05.14-22.50.10:980][640]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.50.13:673][680]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2023.05.14-22.50.13:673][680]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.50.18:399][742]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.05.14-22.50.18:399][742]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.50.18:917][750]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.14-22.50.18:917][750]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.50.21:294][783]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 322
+[2023.05.14-22.50.21:294][783]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.50.21:419][785]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 312
+[2023.05.14-22.50.21:419][785]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.50.22:152][797]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 302
+[2023.05.14-22.50.22:153][797]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.50.28:573][904]Cmd: DELETE
+[2023.05.14-22.50.28:573][904]Cmd: ACTOR DELETE
+[2023.05.14-22.50.28:596][904]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.05.14-22.50.28:659][904]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.05.14-22.50.28:673][904]LogEditorActor: Deleted 1 Actors (0.099 secs)
+[2023.05.14-22.50.42:973][103]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 292
+[2023.05.14-22.50.42:974][103]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.50.47:915][151]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 282
+[2023.05.14-22.50.47:915][151]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.50.54:145][197]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 272
+[2023.05.14-22.50.54:145][197]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.51.11:062][361]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 262
+[2023.05.14-22.51.11:062][361]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.51.12:686][381]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 252
+[2023.05.14-22.51.12:686][381]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.51.18:127][455]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 242
+[2023.05.14-22.51.18:127][455]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.51.33:624][620]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 232
+[2023.05.14-22.51.33:624][620]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.51.34:801][631]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 222
+[2023.05.14-22.51.34:801][631]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.51.46:710][776]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 212
+[2023.05.14-22.51.46:713][776]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.51.51:606][838]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 202
+[2023.05.14-22.51.51:606][838]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.51.54:253][871]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 192
+[2023.05.14-22.51.54:253][871]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.52.08:189][ 68]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 182
+[2023.05.14-22.52.08:190][ 68]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.52.11:004][108]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 172
+[2023.05.14-22.52.11:004][108]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.52.13:418][145]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 162
+[2023.05.14-22.52.13:418][145]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.52.13:512][145]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.14-22.52.13:513][145]LogShaderCompilers: Display: Total job queries 1141, among them cache hits 100 (8.76%)
+[2023.05.14-22.52.13:513][145]LogShaderCompilers: Display: Tracking 463 distinct input hashes that result in 70 distinct outputs (15.12%)
+[2023.05.14-22.52.13:513][145]LogShaderCompilers: Display: RAM used: 0.42 MB (0.00 GB) of 768.00 MB (0.75 GB) budget. Usage: 0.05%
+[2023.05.14-22.52.13:513][145]LogShaderCompilers: Display: ================================================
+[2023.05.14-22.52.25:075][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.05.14-22.52.26:419][294]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.14-22.52.26:496][294]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/cars/car4/Sareh_rasouli_car.Sareh_rasouli_car
+	Asset Name: /Game/cars/car4/Sareh_rasouli_car_PhysicsAsset.Sareh_rasouli_car_PhysicsAsset
+	Asset Name: /Game/cars/car4/Sareh_rasouli_car_Skeleton.Sareh_rasouli_car_Skeleton
+[2023.05.14-22.52.31:736][294]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 152
+[2023.05.14-22.52.31:736][294]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.52.31:736][294]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 142
+[2023.05.14-22.52.31:736][294]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.52.32:245][294]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2023.05.14-22.52.32:839][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.05.14-22.52.33:280][299]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 132
+[2023.05.14-22.52.33:280][299]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.52.38:534][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.05.14-22.52.42:869][359]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 122
+[2023.05.14-22.52.42:869][359]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.52.43:195][359]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.14-22.52.43:437][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.05.14-22.52.48:597][390]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../ProjectAA/Pioneers/Cars/Members' cars/Sareh_rasouli_car.fbx)
+[2023.05.14-22.52.48:636][390]LogFbx: Loading FBX Scene from ../../../../../../ProjectAA/Pioneers/Cars/Members' cars/Sareh_rasouli_car.fbx
+[2023.05.14-22.52.48:669][390]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.14-22.52.49:751][390]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.14-22.52.49:797][390]LogFbx: Valid bind pose for Pose (Cube) - Cube
+[2023.05.14-22.52.49:797][390]LogFbx: Valid bind pose for Pose (Cylinder) - Cube
+[2023.05.14-22.52.49:797][390]LogFbx: Valid bind pose for Pose (Cylinder.001) - Cube
+[2023.05.14-22.52.49:797][390]LogFbx: Valid bind pose for Pose (Cylinder.002) - Cube
+[2023.05.14-22.52.49:797][390]LogFbx: Valid bind pose for Pose (Cylinder.003) - Cube
+[2023.05.14-22.52.49:799][390]LogMaterial: Display: Material /Game/cars/car4/body.body needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.52.49:801][390]LogMaterial: Display: Missing cached shadermap for body in PCD3D_SM5, Default, SM5 (DDC key hash: E82FAD654986C1AA330A20854D1169075A184278), compiling. 
+[2023.05.14-22.52.49:870][390]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.52.49:871][390]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2023.05.14-22.52.49:871][390]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.05.14-22.52.49:878][390]LogMaterial: Display: Missing cached shadermap for body in PCD3D_SM5, Default, SM5 (DDC key hash: E0CDCA9A09DA83A54A6997C9F3A77285CA1A5286), compiling. 
+[2023.05.14-22.52.49:897][390]LogMaterial: Display: Material /Game/cars/car4/glass.glass needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.52.49:947][390]LogMaterial: Display: Missing cached shadermap for glass in PCD3D_SM5, Default, SM5 (DDC key hash: 6806A33AB76682C842C0A5292E97AFFC8F60E070), compiling. 
+[2023.05.14-22.52.50:016][390]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.52.50:023][390]LogMaterial: Display: Missing cached shadermap for glass in PCD3D_SM5, Default, SM5 (DDC key hash: 1ADF38B5011E70E9385CDB0261130497E55FC81E), compiling. 
+[2023.05.14-22.52.50:037][390]LogMaterial: Display: Material /Game/cars/car4/frontkight.frontkight needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.52.50:103][390]LogMaterial: Display: Missing cached shadermap for frontkight in PCD3D_SM5, Default, SM5 (DDC key hash: 32BA3BF3B0A958D78630CF81012ABAF33BED4D86), compiling. 
+[2023.05.14-22.52.50:173][390]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.52.50:178][390]LogMaterial: Display: Missing cached shadermap for frontkight in PCD3D_SM5, Default, SM5 (DDC key hash: 22B6E10D69743FA701D4C08F40C3E56C3B29D43D), compiling. 
+[2023.05.14-22.52.50:191][390]LogMaterial: Display: Material /Game/cars/car4/grills.grills needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.52.50:257][390]LogMaterial: Display: Missing cached shadermap for grills in PCD3D_SM5, Default, SM5 (DDC key hash: 7EBBC79D6685CDC229F9916CCC3567341F7E1D5E), compiling. 
+[2023.05.14-22.52.50:323][390]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.52.50:330][390]LogMaterial: Display: Missing cached shadermap for grills in PCD3D_SM5, Default, SM5 (DDC key hash: E5A4F489295E38AE9220B9892669BC19416F5B01), compiling. 
+[2023.05.14-22.52.50:344][390]LogMaterial: Display: Material /Game/cars/car4/backlight.backlight needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.52.50:409][390]LogMaterial: Display: Missing cached shadermap for backlight in PCD3D_SM5, Default, SM5 (DDC key hash: 402878FB1F8D2BBE8101C280D89978E14E90CE35), compiling. 
+[2023.05.14-22.52.50:479][390]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.52.50:487][390]LogMaterial: Display: Missing cached shadermap for backlight in PCD3D_SM5, Default, SM5 (DDC key hash: 0FA0FB04273501C3132E11736292DF24E4A4270A), compiling. 
+[2023.05.14-22.52.50:502][390]LogFbx: Triangulating skeletal mesh Cube
+[2023.05.14-22.52.50:627][390]LogMaterial: Display: Material /Game/cars/car4/tire_003.tire_003 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.52.50:632][390]LogMaterial: Display: Missing cached shadermap for tire_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 1CF9C1324CAB108779DE7DF5DEE3CE51AB61ADF3), compiling. 
+[2023.05.14-22.52.50:698][390]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.52.50:705][390]LogMaterial: Display: Missing cached shadermap for tire_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 1E2D1B795701CDD8EC336D5C81160EB07DC6F60F), compiling. 
+[2023.05.14-22.52.50:720][390]LogMaterial: Display: Material /Game/cars/car4/rings_002.rings_002 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.52.50:794][390]LogMaterial: Display: Missing cached shadermap for rings_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 4A104A551170A82D1D791EFB7D4418AC0D609994), compiling. 
+[2023.05.14-22.52.50:867][390]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.52.50:875][390]LogMaterial: Display: Missing cached shadermap for rings_002 in PCD3D_SM5, Default, SM5 (DDC key hash: EB993B49A8E814D6067BD643711037284350F49F), compiling. 
+[2023.05.14-22.52.50:889][390]LogFbx: Triangulating skeletal mesh RL
+[2023.05.14-22.52.50:948][390]LogMaterial: Display: Material /Game/cars/car4/tire_002.tire_002 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.52.50:971][390]LogMaterial: Display: Missing cached shadermap for tire_002 in PCD3D_SM5, Default, SM5 (DDC key hash: D2946F5605B236DD153BC5247AFD3E376B2ABE7D), compiling. 
+[2023.05.14-22.52.51:041][390]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.05.14-22.52.51:045][390]LogMaterial: Display: Missing cached shadermap for tire_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 04CEB2B39A37A8A50468C68995A91FD07ED213DF), compiling. 
+[2023.05.14-22.52.51:058][390]LogMaterial: Display: Material /Game/cars/car4/ring.ring needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.52.51:152][390]LogMaterial: Display: Missing cached shadermap for ring in PCD3D_SM5, Default, SM5 (DDC key hash: 9163100BFE5C65CD8BE8FC3BCC13F4D49A8FAD5E), compiling. 
+[2023.05.14-22.52.51:217][390]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.52.51:225][390]LogMaterial: Display: Missing cached shadermap for ring in PCD3D_SM5, Default, SM5 (DDC key hash: 2DC23806C04885DAE8A853AB32AE911AF18E65F8), compiling. 
+[2023.05.14-22.52.51:236][390]LogFbx: Triangulating skeletal mesh FL
+[2023.05.14-22.52.51:291][390]LogMaterial: Display: Material /Game/cars/car4/tire_001.tire_001 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.52.51:326][390]LogMaterial: Display: Missing cached shadermap for tire_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 36D0C6D01C83F524E97A689D2A62203010DE3B2A), compiling. 
+[2023.05.14-22.52.51:392][390]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.52.51:400][390]LogMaterial: Display: Missing cached shadermap for tire_001 in PCD3D_SM5, Default, SM5 (DDC key hash: BDA3ABA090FF0783A6C6276ED79F2FA9B352CA40), compiling. 
+[2023.05.14-22.52.51:415][390]LogMaterial: Display: Material /Game/cars/car4/rings_001.rings_001 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.52.51:507][390]LogMaterial: Display: Missing cached shadermap for rings_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 6253E1B963E0AE591349607A4B05974EAAEE7D14), compiling. 
+[2023.05.14-22.52.51:571][390]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.52.51:578][390]LogMaterial: Display: Missing cached shadermap for rings_001 in PCD3D_SM5, Default, SM5 (DDC key hash: C83FB46496458C0892A0FB0AF7F8761F8C7456B2), compiling. 
+[2023.05.14-22.52.51:593][390]LogFbx: Triangulating skeletal mesh FR
+[2023.05.14-22.52.51:656][390]LogMaterial: Display: Material /Game/cars/car4/tire.tire needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.52.51:688][390]LogMaterial: Display: Missing cached shadermap for tire in PCD3D_SM5, Default, SM5 (DDC key hash: 76EDD0674FE8D4513B11DAC8DED0C1F31CFC6F1E), compiling. 
+[2023.05.14-22.52.51:756][390]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.52.51:762][390]LogMaterial: Display: Missing cached shadermap for tire in PCD3D_SM5, Default, SM5 (DDC key hash: E37F3147276FD98721031AA62413A9F28338D528), compiling. 
+[2023.05.14-22.52.51:775][390]LogMaterial: Display: Material /Game/cars/car4/rings.rings needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.52.51:870][390]LogMaterial: Display: Missing cached shadermap for rings in PCD3D_SM5, Default, SM5 (DDC key hash: 4B850DD27CC658932196C91EEE133023DE54FE87), compiling. 
+[2023.05.14-22.52.51:935][390]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.52.51:942][390]LogMaterial: Display: Missing cached shadermap for rings in PCD3D_SM5, Default, SM5 (DDC key hash: 3825D348EEF500C1DCE9D36C77A7758106EB0A97), compiling. 
+[2023.05.14-22.52.51:957][390]LogFbx: Triangulating skeletal mesh RR
+[2023.05.14-22.52.52:081][390]LogFbx: Warning: Bones digested - 5  Depth of hierarchy - 2
+[2023.05.14-22.52.52:217][390]LogSkeletalMesh: Section 0: Material=0, 1138 triangles
+[2023.05.14-22.52.52:217][390]LogSkeletalMesh: Section 1: Material=1, 24 triangles
+[2023.05.14-22.52.52:217][390]LogSkeletalMesh: Section 2: Material=2, 12 triangles
+[2023.05.14-22.52.52:217][390]LogSkeletalMesh: Section 3: Material=3, 20 triangles
+[2023.05.14-22.52.52:217][390]LogSkeletalMesh: Section 4: Material=4, 16 triangles
+[2023.05.14-22.52.52:217][390]LogSkeletalMesh: Section 5: Material=5, 570 triangles
+[2023.05.14-22.52.52:217][390]LogSkeletalMesh: Section 6: Material=6, 130 triangles
+[2023.05.14-22.52.52:217][390]LogSkeletalMesh: Section 7: Material=7, 558 triangles
+[2023.05.14-22.52.52:217][390]LogSkeletalMesh: Section 8: Material=8, 142 triangles
+[2023.05.14-22.52.52:217][390]LogSkeletalMesh: Section 9: Material=9, 556 triangles
+[2023.05.14-22.52.52:217][390]LogSkeletalMesh: Section 10: Material=10, 144 triangles
+[2023.05.14-22.52.52:217][390]LogSkeletalMesh: Section 11: Material=11, 548 triangles
+[2023.05.14-22.52.52:217][390]LogSkeletalMesh: Section 12: Material=12, 152 triangles
+[2023.05.14-22.52.52:220][390]LogSkeletalMesh: Building Skeletal Mesh Sareh_rasouli_car...
+[2023.05.14-22.52.52:328][390]LogSkeletalMesh: Section 0: Material=0, 1138 triangles
+[2023.05.14-22.52.52:328][390]LogSkeletalMesh: Section 1: Material=1, 24 triangles
+[2023.05.14-22.52.52:328][390]LogSkeletalMesh: Section 2: Material=2, 12 triangles
+[2023.05.14-22.52.52:328][390]LogSkeletalMesh: Section 3: Material=3, 20 triangles
+[2023.05.14-22.52.52:328][390]LogSkeletalMesh: Section 4: Material=4, 16 triangles
+[2023.05.14-22.52.52:328][390]LogSkeletalMesh: Section 5: Material=5, 570 triangles
+[2023.05.14-22.52.52:328][390]LogSkeletalMesh: Section 6: Material=6, 130 triangles
+[2023.05.14-22.52.52:328][390]LogSkeletalMesh: Section 7: Material=7, 558 triangles
+[2023.05.14-22.52.52:328][390]LogSkeletalMesh: Section 8: Material=8, 142 triangles
+[2023.05.14-22.52.52:328][390]LogSkeletalMesh: Section 9: Material=9, 556 triangles
+[2023.05.14-22.52.52:328][390]LogSkeletalMesh: Section 10: Material=10, 144 triangles
+[2023.05.14-22.52.52:328][390]LogSkeletalMesh: Section 11: Material=11, 548 triangles
+[2023.05.14-22.52.52:328][390]LogSkeletalMesh: Section 12: Material=12, 152 triangles
+[2023.05.14-22.52.52:365][390]LogSkeletalMesh: Built Skeletal Mesh [0.15s] /Game/cars/car4/Sareh_rasouli_car.Sareh_rasouli_car
+[2023.05.14-22.52.52:380][390]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-22.52.52:381][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-22.52.52:431][390]FBXImport: FBX File Loading: Found name clash, node 'RL' was renamed to 'RL1' 
+[2023.05.14-22.52.52:432][390]FBXImport: FBX File Loading: Found name clash, node 'RR' was renamed to 'RR2' 
+[2023.05.14-22.52.52:432][390]FBXImport: FBX File Loading: Found name clash, node 'FL' was renamed to 'FL3' 
+[2023.05.14-22.52.52:432][390]FBXImport: FBX File Loading: Found name clash, node 'FR' was renamed to 'FR4' 
+[2023.05.14-22.52.52:432][390]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.14-22.52.52:811][392]LogShaderCompilers: Display: Submitted 27 shader compile jobs with 'Normal' priority
+[2023.05.14-22.52.53:016][392]LogShaderCompilers: Display: Submitted 27 shader compile jobs with 'Normal' priority
+[2023.05.14-22.52.53:192][392]LogShaderCompilers: Display: Submitted 27 shader compile jobs with 'Normal' priority
+[2023.05.14-22.52.53:283][392]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2023.05.14-22.52.53:379][392]LogShaderCompilers: Display: Submitted 27 shader compile jobs with 'Normal' priority
+[2023.05.14-22.52.56:375][422]LogSlate: Window 'Message Log' being destroyed
+[2023.05.14-22.52.56:435][422]LogSlate: Window 'Message Log' being destroyed
+[2023.05.14-22.52.57:712][439]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 112
+[2023.05.14-22.52.57:712][439]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.53.03:643][531]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 102
+[2023.05.14-22.53.03:643][531]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.53.11:449][643]Cmd: DELETE
+[2023.05.14-22.53.11:449][643]Cmd: ACTOR DELETE
+[2023.05.14-22.53.11:473][643]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.05.14-22.53.11:520][643]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.05.14-22.53.11:533][643]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2023.05.14-22.53.14:780][683]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 92
+[2023.05.14-22.53.14:780][683]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.53.22:326][768]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 82
+[2023.05.14-22.53.22:327][768]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.53.23:108][776]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 72
+[2023.05.14-22.53.23:108][776]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.53.34:578][898]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 62
+[2023.05.14-22.53.34:579][898]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.53.46:772][ 37]Cmd: ACTOR SELECT ALL
+[2023.05.14-22.53.47:655][ 44]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 52
+[2023.05.14-22.53.47:655][ 44]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.53.48:261][ 49]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 42
+[2023.05.14-22.53.48:261][ 49]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.53.49:008][ 53]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (MahsaAbbasloo_PhysicsAsset)
+[2023.05.14-22.53.49:312][ 54]Cmd: SELECT NONE
+[2023.05.14-22.53.50:627][ 70]Cmd: ACTOR SELECT ALL
+[2023.05.14-22.53.51:884][ 78]Cmd: SELECT NONE
+[2023.05.14-22.53.53:624][ 98]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2023.05.14-22.53.53:624][ 98]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.53.54:662][107]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2023.05.14-22.54.00:865][107]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.14-22.54.02:941][107]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2023.05.14-22.54.02:941][107]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.54.02:941][107]LogUObjectGlobals: Force Deleting 16 Package(s):
+	Asset Name: /Game/cars/car4/backlight.backlight
+	Asset Name: /Game/cars/car4/body.body
+	Asset Name: /Game/cars/car4/frontkight.frontkight
+	Asset Name: /Game/cars/car4/glass.glass
+	Asset Name: /Game/cars/car4/grills.grills
+	Asset Name: /Game/cars/car4/ring.ring
+	Asset Name: /Game/cars/car4/rings.rings
+	Asset Name: /Game/cars/car4/rings_001.rings_001
+	Asset Name: /Game/cars/car4/rings_002.rings_002
+	Asset Name: /Game/cars/car4/Sareh_rasouli_car.Sareh_rasouli_car
+[2023.05.14-22.54.07:699][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.05.14-22.54.13:548][148]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../ProjectAA/Pioneers/Cars/Members' cars/Sareh_rasouli_car.fbx)
+[2023.05.14-22.54.13:578][148]LogFbx: Loading FBX Scene from ../../../../../../ProjectAA/Pioneers/Cars/Members' cars/Sareh_rasouli_car.fbx
+[2023.05.14-22.54.13:613][148]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.14-22.54.14:799][148]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.14-22.54.14:843][148]LogFbx: Valid bind pose for Pose (Cube) - Cube
+[2023.05.14-22.54.14:843][148]LogFbx: Valid bind pose for Pose (Cylinder) - Cube
+[2023.05.14-22.54.14:843][148]LogFbx: Valid bind pose for Pose (Cylinder.001) - Cube
+[2023.05.14-22.54.14:844][148]LogFbx: Valid bind pose for Pose (Cylinder.002) - Cube
+[2023.05.14-22.54.14:844][148]LogFbx: Valid bind pose for Pose (Cylinder.003) - Cube
+[2023.05.14-22.54.14:845][148]LogMaterial: Display: Material /Game/cars/car4/body.body needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.54.14:848][148]LogMaterial: Display: Missing cached shadermap for body in PCD3D_SM5, Default, SM5 (DDC key hash: FE6E53368DE3720F7F05FE4534E299D85DD33F6F), compiling. 
+[2023.05.14-22.54.14:915][148]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2023.05.14-22.54.14:915][148]LogShaderCompilers: Display: Submitted 22 shader compile jobs with 'Low' priority
+[2023.05.14-22.54.14:915][148]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2023.05.14-22.54.14:915][148]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2023.05.14-22.54.14:920][148]LogMaterial: Display: Missing cached shadermap for body in PCD3D_SM5, Default, SM5 (DDC key hash: D7D9DDC6BFEE2B02476ED2AFB586F71AC8B56A13), compiling. 
+[2023.05.14-22.54.14:947][148]LogMaterial: Display: Material /Game/cars/car4/glass.glass needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.54.14:971][148]LogMaterial: Display: Missing cached shadermap for glass in PCD3D_SM5, Default, SM5 (DDC key hash: FD7D1D3D32D124ED5A429F1D7CA2286D2DEFEDF9), compiling. 
+[2023.05.14-22.54.15:041][148]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.54.15:047][148]LogMaterial: Display: Missing cached shadermap for glass in PCD3D_SM5, Default, SM5 (DDC key hash: F7FA9078D97942F26FBF60FF59FB802CFA8E8299), compiling. 
+[2023.05.14-22.54.15:060][148]LogMaterial: Display: Material /Game/cars/car4/frontkight.frontkight needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.54.15:102][148]LogMaterial: Display: Missing cached shadermap for frontkight in PCD3D_SM5, Default, SM5 (DDC key hash: E9FA88B1D4EE5696767CA920495A443C6E14F300), compiling. 
+[2023.05.14-22.54.15:172][148]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.54.15:178][148]LogMaterial: Display: Missing cached shadermap for frontkight in PCD3D_SM5, Default, SM5 (DDC key hash: E873203FA9AA94216024E2D82AAA067FACD05BF4), compiling. 
+[2023.05.14-22.54.15:191][148]LogMaterial: Display: Material /Game/cars/car4/grills.grills needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.54.15:237][148]LogMaterial: Display: Missing cached shadermap for grills in PCD3D_SM5, Default, SM5 (DDC key hash: F44896C481691DEA645F51EDB9B8F4A0100C3945), compiling. 
+[2023.05.14-22.54.15:303][148]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.54.15:310][148]LogMaterial: Display: Missing cached shadermap for grills in PCD3D_SM5, Default, SM5 (DDC key hash: D5B00E69E57D5CE0FD369E817A1A80FD1CADEAF4), compiling. 
+[2023.05.14-22.54.15:324][148]LogMaterial: Display: Material /Game/cars/car4/backlight.backlight needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.54.15:365][148]LogMaterial: Display: Missing cached shadermap for backlight in PCD3D_SM5, Default, SM5 (DDC key hash: 6F8E49BFEFCB8F2F12A1408C01F44F5CD73EC5AD), compiling. 
+[2023.05.14-22.54.15:429][148]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.54.15:435][148]LogMaterial: Display: Missing cached shadermap for backlight in PCD3D_SM5, Default, SM5 (DDC key hash: B885B64A0F8BE9346D6C305B728CD1EDC1566ED2), compiling. 
+[2023.05.14-22.54.15:447][148]LogFbx: Triangulating skeletal mesh Cube
+[2023.05.14-22.54.15:553][148]LogMaterial: Display: Material /Game/cars/car4/tire_003.tire_003 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.54.15:558][148]LogMaterial: Display: Missing cached shadermap for tire_003 in PCD3D_SM5, Default, SM5 (DDC key hash: EDFEA5425EF9004F6048176A108302EDB1C6C7FA), compiling. 
+[2023.05.14-22.54.15:622][148]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.54.15:628][148]LogMaterial: Display: Missing cached shadermap for tire_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 039330AB3982E394050108EEB9D54226DA188A6B), compiling. 
+[2023.05.14-22.54.15:641][148]LogMaterial: Display: Material /Game/cars/car4/rings_002.rings_002 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.54.15:684][148]LogMaterial: Display: Missing cached shadermap for rings_002 in PCD3D_SM5, Default, SM5 (DDC key hash: AB1E37B2C9A3CADFB9F669569E5A3F320A531DCA), compiling. 
+[2023.05.14-22.54.15:751][148]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.54.15:759][148]LogMaterial: Display: Missing cached shadermap for rings_002 in PCD3D_SM5, Default, SM5 (DDC key hash: A88E4C376121EA5661830CCA10CA2A4AAA474107), compiling. 
+[2023.05.14-22.54.15:773][148]LogFbx: Triangulating skeletal mesh RL
+[2023.05.14-22.54.15:828][148]LogMaterial: Display: Material /Game/cars/car4/tire_002.tire_002 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.54.15:833][148]LogMaterial: Display: Missing cached shadermap for tire_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 88BA890E5FB465986AFBBBF110789F8149AF250C), compiling. 
+[2023.05.14-22.54.15:896][148]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.05.14-22.54.15:900][148]LogMaterial: Display: Missing cached shadermap for tire_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 1BA7A9149F77962DCD755802795D6F6AA101D7A2), compiling. 
+[2023.05.14-22.54.15:914][148]LogMaterial: Display: Material /Game/cars/car4/ring.ring needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.54.15:966][148]LogMaterial: Display: Missing cached shadermap for ring in PCD3D_SM5, Default, SM5 (DDC key hash: 1CA32C9FF76CFE8546EA6AC4558A601C52578FDA), compiling. 
+[2023.05.14-22.54.16:036][148]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.54.16:042][148]LogMaterial: Display: Missing cached shadermap for ring in PCD3D_SM5, Default, SM5 (DDC key hash: C8349DF528BA5AF95310AB0A3C0DFEA9E82B89A6), compiling. 
+[2023.05.14-22.54.16:055][148]LogFbx: Triangulating skeletal mesh FL
+[2023.05.14-22.54.16:105][148]LogMaterial: Display: Material /Game/cars/car4/tire_001.tire_001 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.54.16:112][148]LogMaterial: Display: Missing cached shadermap for tire_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 03444A8F73362562B7AE1C3ED563205209B47DBA), compiling. 
+[2023.05.14-22.54.16:179][148]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2023.05.14-22.54.16:180][148]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.05.14-22.54.16:180][148]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.54.16:184][148]LogMaterial: Display: Missing cached shadermap for tire_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 03B00ECA4C3E67A961B11B650D81D827E7CE83A5), compiling. 
+[2023.05.14-22.54.16:198][148]LogMaterial: Display: Material /Game/cars/car4/rings_001.rings_001 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.54.16:261][148]LogMaterial: Display: Missing cached shadermap for rings_001 in PCD3D_SM5, Default, SM5 (DDC key hash: AAB7CA408012C2ED9D7D6C68ED1873DC4578409D), compiling. 
+[2023.05.14-22.54.16:327][148]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.54.16:333][148]LogMaterial: Display: Missing cached shadermap for rings_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 88BF90353805916C4F93C81A2B9EDB218B4BDB1B), compiling. 
+[2023.05.14-22.54.16:345][148]LogFbx: Triangulating skeletal mesh FR
+[2023.05.14-22.54.16:399][148]LogMaterial: Display: Material /Game/cars/car4/tire.tire needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.54.16:417][148]LogMaterial: Display: Missing cached shadermap for tire in PCD3D_SM5, Default, SM5 (DDC key hash: 66203B2832484979AB8156D543B165DD69CF8802), compiling. 
+[2023.05.14-22.54.16:478][148]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.54.16:485][148]LogMaterial: Display: Missing cached shadermap for tire in PCD3D_SM5, Default, SM5 (DDC key hash: 260985FB01EF126DCD42F8E72A751D1F96AE95DA), compiling. 
+[2023.05.14-22.54.16:498][148]LogMaterial: Display: Material /Game/cars/car4/rings.rings needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.54.16:569][148]LogMaterial: Display: Missing cached shadermap for rings in PCD3D_SM5, Default, SM5 (DDC key hash: 105B100AE23F4E1B03098B8596E2328F88609996), compiling. 
+[2023.05.14-22.54.16:638][148]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.54.16:645][148]LogMaterial: Display: Missing cached shadermap for rings in PCD3D_SM5, Default, SM5 (DDC key hash: A7E0F3A8119FC1EBB6F6F3F94ADF304FA6A278AA), compiling. 
+[2023.05.14-22.54.16:658][148]LogFbx: Triangulating skeletal mesh RR
+[2023.05.14-22.54.16:757][148]LogFbx: Warning: Bones digested - 5  Depth of hierarchy - 2
+[2023.05.14-22.54.16:879][148]LogSkeletalMesh: Section 0: Material=0, 1138 triangles
+[2023.05.14-22.54.16:880][148]LogSkeletalMesh: Section 1: Material=1, 24 triangles
+[2023.05.14-22.54.16:880][148]LogSkeletalMesh: Section 2: Material=2, 12 triangles
+[2023.05.14-22.54.16:880][148]LogSkeletalMesh: Section 3: Material=3, 20 triangles
+[2023.05.14-22.54.16:880][148]LogSkeletalMesh: Section 4: Material=4, 16 triangles
+[2023.05.14-22.54.16:880][148]LogSkeletalMesh: Section 5: Material=5, 570 triangles
+[2023.05.14-22.54.16:880][148]LogSkeletalMesh: Section 6: Material=6, 130 triangles
+[2023.05.14-22.54.16:880][148]LogSkeletalMesh: Section 7: Material=7, 558 triangles
+[2023.05.14-22.54.16:880][148]LogSkeletalMesh: Section 8: Material=8, 142 triangles
+[2023.05.14-22.54.16:880][148]LogSkeletalMesh: Section 9: Material=9, 556 triangles
+[2023.05.14-22.54.16:880][148]LogSkeletalMesh: Section 10: Material=10, 144 triangles
+[2023.05.14-22.54.16:880][148]LogSkeletalMesh: Section 11: Material=11, 548 triangles
+[2023.05.14-22.54.16:880][148]LogSkeletalMesh: Section 12: Material=12, 152 triangles
+[2023.05.14-22.54.16:882][148]LogSkeletalMesh: Building Skeletal Mesh Sareh_rasouli_car...
+[2023.05.14-22.54.16:985][148]LogSkeletalMesh: Section 0: Material=0, 1138 triangles
+[2023.05.14-22.54.16:985][148]LogSkeletalMesh: Section 1: Material=1, 24 triangles
+[2023.05.14-22.54.16:985][148]LogSkeletalMesh: Section 2: Material=2, 12 triangles
+[2023.05.14-22.54.16:985][148]LogSkeletalMesh: Section 3: Material=3, 20 triangles
+[2023.05.14-22.54.16:985][148]LogSkeletalMesh: Section 4: Material=4, 16 triangles
+[2023.05.14-22.54.16:985][148]LogSkeletalMesh: Section 5: Material=5, 570 triangles
+[2023.05.14-22.54.16:985][148]LogSkeletalMesh: Section 6: Material=6, 130 triangles
+[2023.05.14-22.54.16:985][148]LogSkeletalMesh: Section 7: Material=7, 558 triangles
+[2023.05.14-22.54.16:985][148]LogSkeletalMesh: Section 8: Material=8, 142 triangles
+[2023.05.14-22.54.16:985][148]LogSkeletalMesh: Section 9: Material=9, 556 triangles
+[2023.05.14-22.54.16:985][148]LogSkeletalMesh: Section 10: Material=10, 144 triangles
+[2023.05.14-22.54.16:985][148]LogSkeletalMesh: Section 11: Material=11, 548 triangles
+[2023.05.14-22.54.16:985][148]LogSkeletalMesh: Section 12: Material=12, 152 triangles
+[2023.05.14-22.54.17:019][148]LogSkeletalMesh: Built Skeletal Mesh [0.14s] /Game/cars/car4/Sareh_rasouli_car.Sareh_rasouli_car
+[2023.05.14-22.54.17:034][148]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-22.54.17:034][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-22.54.17:079][148]FBXImport: FBX File Loading: Found name clash, node 'RL' was renamed to 'RL1' 
+[2023.05.14-22.54.17:080][148]FBXImport: FBX File Loading: Found name clash, node 'RR' was renamed to 'RR2' 
+[2023.05.14-22.54.17:080][148]FBXImport: FBX File Loading: Found name clash, node 'FL' was renamed to 'FL3' 
+[2023.05.14-22.54.17:080][148]FBXImport: FBX File Loading: Found name clash, node 'FR' was renamed to 'FR4' 
+[2023.05.14-22.54.17:080][148]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.14-22.54.17:578][150]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.05.14-22.54.20:221][173]LogSlate: Window 'Message Log' being destroyed
+[2023.05.14-22.54.20:298][173]LogSlate: Window 'Message Log' being destroyed
+[2023.05.14-22.54.24:078][217]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2023.05.14-22.54.24:078][217]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.54.30:804][308]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2023.05.14-22.54.30:805][308]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.54.34:059][351]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2023.05.14-22.54.34:059][351]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.54.36:068][380]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2023.05.14-22.54.36:068][380]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.54.38:167][409]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2023.05.14-22.54.38:168][409]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.54.49:489][692]Cmd: DELETE
+[2023.05.14-22.54.49:489][692]Cmd: ACTOR DELETE
+[2023.05.14-22.54.49:512][692]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.05.14-22.54.49:540][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.05.14-22.54.49:550][692]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2023.05.14-22.55.11:654][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.05.14-22.55.15:410][856]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.14-22.55.15:526][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.05.14-22.55.20:894][938]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../ProjectAA/Pioneers/Cars/Members' cars/Sareh_rasouli_car.fbx)
+[2023.05.14-22.55.20:911][938]LogFbx: Loading FBX Scene from ../../../../../../ProjectAA/Pioneers/Cars/Members' cars/Sareh_rasouli_car.fbx
+[2023.05.14-22.55.20:930][938]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.14-22.55.22:546][938]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.14-22.55.22:578][938]LogFbx: Valid bind pose for Pose (Cube) - Cube
+[2023.05.14-22.55.22:578][938]LogFbx: Valid bind pose for Pose (Cylinder) - Cube
+[2023.05.14-22.55.22:579][938]LogFbx: Valid bind pose for Pose (Cylinder.001) - Cube
+[2023.05.14-22.55.22:579][938]LogFbx: Valid bind pose for Pose (Cylinder.002) - Cube
+[2023.05.14-22.55.22:579][938]LogFbx: Valid bind pose for Pose (Cylinder.003) - Cube
+[2023.05.14-22.55.22:580][938]LogMaterial: Display: Material /Game/cars/car4/body.body needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.55.22:581][938]LogMaterial: Display: Missing cached shadermap for body in PCD3D_SM5, Default, SM5 (DDC key hash: 096D7B84CECD56F5B99F894591DB91C7B7D90DA7), compiling. 
+[2023.05.14-22.55.22:630][938]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2023.05.14-22.55.22:633][938]LogMaterial: Display: Missing cached shadermap for body in PCD3D_SM5, Default, SM5 (DDC key hash: 50A1F98BE4FBF05D6376BE5F282F5D166F56D3E5), compiling. 
+[2023.05.14-22.55.22:643][938]LogMaterial: Display: Material /Game/cars/car4/glass.glass needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.55.22:668][938]LogMaterial: Display: Missing cached shadermap for glass in PCD3D_SM5, Default, SM5 (DDC key hash: 2F6775EAF6A3E60EB62B5AE2D38A1C41D58B01AB), compiling. 
+[2023.05.14-22.55.22:713][938]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.55.22:717][938]LogMaterial: Display: Missing cached shadermap for glass in PCD3D_SM5, Default, SM5 (DDC key hash: 825DA0E36FB8D10F0BF4AE62930B604D0B7E3619), compiling. 
+[2023.05.14-22.55.22:727][938]LogMaterial: Display: Material /Game/cars/car4/frontkight.frontkight needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.55.22:755][938]LogMaterial: Display: Missing cached shadermap for frontkight in PCD3D_SM5, Default, SM5 (DDC key hash: 0189977C1ACB5B4BC2282A67243BE4524C655801), compiling. 
+[2023.05.14-22.55.22:799][938]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.55.22:804][938]LogMaterial: Display: Missing cached shadermap for frontkight in PCD3D_SM5, Default, SM5 (DDC key hash: E4F7D37048F1067ED148AB9D1F0BDB7E2509BA4E), compiling. 
+[2023.05.14-22.55.22:813][938]LogMaterial: Display: Material /Game/cars/car4/grills.grills needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.55.22:838][938]LogMaterial: Display: Missing cached shadermap for grills in PCD3D_SM5, Default, SM5 (DDC key hash: 526CBB6FFEFB5431DDBC8C66A19B824F1B4F0D9B), compiling. 
+[2023.05.14-22.55.22:881][938]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.55.22:886][938]LogMaterial: Display: Missing cached shadermap for grills in PCD3D_SM5, Default, SM5 (DDC key hash: FBBA53D4A7E20BE668B32B5B350E3C7B1458EB5E), compiling. 
+[2023.05.14-22.55.22:894][938]LogMaterial: Display: Material /Game/cars/car4/backlight.backlight needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.55.22:921][938]LogMaterial: Display: Missing cached shadermap for backlight in PCD3D_SM5, Default, SM5 (DDC key hash: C4C0D6A9C1CF9E9FE09AFEA508D26BE15CBC8739), compiling. 
+[2023.05.14-22.55.22:963][938]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.55.22:968][938]LogMaterial: Display: Missing cached shadermap for backlight in PCD3D_SM5, Default, SM5 (DDC key hash: 4535CFC6145EAD1F9FE4B483818559C2336F5750), compiling. 
+[2023.05.14-22.55.22:976][938]LogFbx: Triangulating skeletal mesh Cube
+[2023.05.14-22.55.23:049][938]LogMaterial: Display: Material /Game/cars/car4/tire_003.tire_003 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.55.23:053][938]LogMaterial: Display: Missing cached shadermap for tire_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 01D600E21F20F732F5CCA3D56BEA9352A182890A), compiling. 
+[2023.05.14-22.55.23:113][938]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.55.23:117][938]LogMaterial: Display: Missing cached shadermap for tire_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 7687B3679EEA1CD15797C4C065D387971E5E6F7F), compiling. 
+[2023.05.14-22.55.23:131][938]LogMaterial: Display: Material /Game/cars/car4/rings_002.rings_002 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.55.23:155][938]LogMaterial: Display: Missing cached shadermap for rings_002 in PCD3D_SM5, Default, SM5 (DDC key hash: A3252C756212C52A75AA2DDA7C59CB24AEE821D8), compiling. 
+[2023.05.14-22.55.23:200][938]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.55.23:204][938]LogMaterial: Display: Missing cached shadermap for rings_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 99AC26627964DE22ABC384C32139006B4F672A08), compiling. 
+[2023.05.14-22.55.23:213][938]LogFbx: Triangulating skeletal mesh RL
+[2023.05.14-22.55.23:244][938]LogMaterial: Display: Material /Game/cars/car4/tire_002.tire_002 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.55.23:247][938]LogMaterial: Display: Missing cached shadermap for tire_002 in PCD3D_SM5, Default, SM5 (DDC key hash: CD486FC8D127EE2246B8C66EE188BABFFDB61A28), compiling. 
+[2023.05.14-22.55.23:291][938]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.05.14-22.55.23:292][938]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.05.14-22.55.23:292][938]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.14-22.55.23:292][938]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.05.14-22.55.23:294][938]LogMaterial: Display: Missing cached shadermap for tire_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 51DB5B6677857217D29653F6797EBE864073FE18), compiling. 
+[2023.05.14-22.55.23:305][938]LogMaterial: Display: Material /Game/cars/car4/ring.ring needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.55.23:335][938]LogMaterial: Display: Missing cached shadermap for ring in PCD3D_SM5, Default, SM5 (DDC key hash: E705CB8A8328615357D4A469836B63BA046EBACB), compiling. 
+[2023.05.14-22.55.23:386][938]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.55.23:387][938]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2023.05.14-22.55.23:387][938]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.05.14-22.55.23:390][938]LogMaterial: Display: Missing cached shadermap for ring in PCD3D_SM5, Default, SM5 (DDC key hash: 8588A7A1505711563B4D91153FB93733D8924DF1), compiling. 
+[2023.05.14-22.55.23:400][938]LogFbx: Triangulating skeletal mesh FL
+[2023.05.14-22.55.23:440][938]LogMaterial: Display: Material /Game/cars/car4/tire_001.tire_001 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.55.23:444][938]LogMaterial: Display: Missing cached shadermap for tire_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 218EAAE235CDD8C84246A7D7DEB5B10CC7436A38), compiling. 
+[2023.05.14-22.55.23:494][938]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Low' priority
+[2023.05.14-22.55.23:498][938]LogMaterial: Display: Missing cached shadermap for tire_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 1A2F2D2EE273FB0994B18E6F89C90A06842C8B51), compiling. 
+[2023.05.14-22.55.23:508][938]LogMaterial: Display: Material /Game/cars/car4/rings_001.rings_001 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.55.23:549][938]LogMaterial: Display: Missing cached shadermap for rings_001 in PCD3D_SM5, Default, SM5 (DDC key hash: B2912FD5B746F5F111DCB7C7E208B8F365BF80A1), compiling. 
+[2023.05.14-22.55.23:604][938]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.55.23:609][938]LogMaterial: Display: Missing cached shadermap for rings_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 136D6CE3A9BEA7C83E70842F41FD789F289716FD), compiling. 
+[2023.05.14-22.55.23:617][938]LogFbx: Triangulating skeletal mesh FR
+[2023.05.14-22.55.23:658][938]LogMaterial: Display: Material /Game/cars/car4/tire.tire needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.55.23:670][938]LogMaterial: Display: Missing cached shadermap for tire in PCD3D_SM5, Default, SM5 (DDC key hash: F053A322CF643CE912EDB82D6188ABCCD4DE4821), compiling. 
+[2023.05.14-22.55.23:721][938]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.55.23:726][938]LogMaterial: Display: Missing cached shadermap for tire in PCD3D_SM5, Default, SM5 (DDC key hash: 65D79EC071D31CA0F8D0AA0AA6BB16FB93347567), compiling. 
+[2023.05.14-22.55.23:736][938]LogMaterial: Display: Material /Game/cars/car4/rings.rings needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.14-22.55.23:782][938]LogMaterial: Display: Missing cached shadermap for rings in PCD3D_SM5, Default, SM5 (DDC key hash: D25500D67105DDA3FDDC3B496C7EE8D228F59CE5), compiling. 
+[2023.05.14-22.55.23:836][938]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.05.14-22.55.23:841][938]LogMaterial: Display: Missing cached shadermap for rings in PCD3D_SM5, Default, SM5 (DDC key hash: 107F67C634BEBE7DBFCC261B487411D46E449F62), compiling. 
+[2023.05.14-22.55.23:850][938]LogFbx: Triangulating skeletal mesh RR
+[2023.05.14-22.55.23:925][938]LogFbx: Warning: Bones digested - 5  Depth of hierarchy - 2
+[2023.05.14-22.55.24:016][938]LogSkeletalMesh: Section 0: Material=0, 1138 triangles
+[2023.05.14-22.55.24:017][938]LogSkeletalMesh: Section 1: Material=1, 24 triangles
+[2023.05.14-22.55.24:017][938]LogSkeletalMesh: Section 2: Material=2, 12 triangles
+[2023.05.14-22.55.24:017][938]LogSkeletalMesh: Section 3: Material=3, 20 triangles
+[2023.05.14-22.55.24:017][938]LogSkeletalMesh: Section 4: Material=4, 16 triangles
+[2023.05.14-22.55.24:017][938]LogSkeletalMesh: Section 5: Material=5, 570 triangles
+[2023.05.14-22.55.24:017][938]LogSkeletalMesh: Section 6: Material=6, 130 triangles
+[2023.05.14-22.55.24:017][938]LogSkeletalMesh: Section 7: Material=7, 558 triangles
+[2023.05.14-22.55.24:017][938]LogSkeletalMesh: Section 8: Material=8, 142 triangles
+[2023.05.14-22.55.24:017][938]LogSkeletalMesh: Section 9: Material=9, 556 triangles
+[2023.05.14-22.55.24:017][938]LogSkeletalMesh: Section 10: Material=10, 144 triangles
+[2023.05.14-22.55.24:017][938]LogSkeletalMesh: Section 11: Material=11, 548 triangles
+[2023.05.14-22.55.24:017][938]LogSkeletalMesh: Section 12: Material=12, 152 triangles
+[2023.05.14-22.55.24:018][938]LogSkeletalMesh: Building Skeletal Mesh Sareh_rasouli_car...
+[2023.05.14-22.55.24:093][938]LogSkeletalMesh: Section 0: Material=0, 1138 triangles
+[2023.05.14-22.55.24:093][938]LogSkeletalMesh: Section 1: Material=1, 24 triangles
+[2023.05.14-22.55.24:093][938]LogSkeletalMesh: Section 2: Material=2, 12 triangles
+[2023.05.14-22.55.24:093][938]LogSkeletalMesh: Section 3: Material=3, 20 triangles
+[2023.05.14-22.55.24:093][938]LogSkeletalMesh: Section 4: Material=4, 16 triangles
+[2023.05.14-22.55.24:093][938]LogSkeletalMesh: Section 5: Material=5, 570 triangles
+[2023.05.14-22.55.24:093][938]LogSkeletalMesh: Section 6: Material=6, 130 triangles
+[2023.05.14-22.55.24:093][938]LogSkeletalMesh: Section 7: Material=7, 558 triangles
+[2023.05.14-22.55.24:093][938]LogSkeletalMesh: Section 8: Material=8, 142 triangles
+[2023.05.14-22.55.24:093][938]LogSkeletalMesh: Section 9: Material=9, 556 triangles
+[2023.05.14-22.55.24:093][938]LogSkeletalMesh: Section 10: Material=10, 144 triangles
+[2023.05.14-22.55.24:093][938]LogSkeletalMesh: Section 11: Material=11, 548 triangles
+[2023.05.14-22.55.24:093][938]LogSkeletalMesh: Section 12: Material=12, 152 triangles
+[2023.05.14-22.55.24:116][938]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/cars/car4/Sareh_rasouli_car.Sareh_rasouli_car
+[2023.05.14-22.55.24:131][938]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.14-22.55.24:131][938]LogShaderCompilers: Display: Total job queries 3250, among them cache hits 945 (29.08%)
+[2023.05.14-22.55.24:131][938]LogShaderCompilers: Display: Tracking 675 distinct input hashes that result in 70 distinct outputs (10.37%)
+[2023.05.14-22.55.24:131][938]LogShaderCompilers: Display: RAM used: 0.43 MB (0.00 GB) of 768.00 MB (0.75 GB) budget. Usage: 0.06%
+[2023.05.14-22.55.24:131][938]LogShaderCompilers: Display: ================================================
+[2023.05.14-22.55.24:133][938]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-22.55.24:133][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-22.55.24:166][938]FBXImport: FBX File Loading: Found name clash, node 'RL' was renamed to 'RL1' 
+[2023.05.14-22.55.24:166][938]FBXImport: FBX File Loading: Found name clash, node 'RR' was renamed to 'RR2' 
+[2023.05.14-22.55.24:166][938]FBXImport: FBX File Loading: Found name clash, node 'FL' was renamed to 'FL3' 
+[2023.05.14-22.55.24:166][938]FBXImport: FBX File Loading: Found name clash, node 'FR' was renamed to 'FR4' 
+[2023.05.14-22.55.24:166][938]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.14-22.55.27:414][972]LogSlate: Window 'Message Log' being destroyed
+[2023.05.14-22.55.27:474][972]LogSlate: Window 'Message Log' being destroyed
+[2023.05.14-22.55.54:633][605]Cmd: TRANSACTION UNDO
+[2023.05.14-22.55.54:633][605]LogEditorTransaction: Undo Move Actors
+[2023.05.14-22.55.55:532][610]Cmd: TRANSACTION UNDO
+[2023.05.14-22.55.55:532][610]LogEditorTransaction: Undo Scale Actors
+[2023.05.14-22.56.19:590][165]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.05.14-22.56.20:208][165]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/Minimal_Default868BFA4D4B10699D91A2F7828E278188.tmp' to '../../../../../../ProjectAA/Pioneers/University 4.27/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.05.14-22.56.20:315][165]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.05.14-22.56.20:315][165]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.05.14-22.56.28:783][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.05.14-22.56.29:405][367]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/Minimal_DefaultF5BE3E324ACCC81FDCC42C9559B5C118.tmp' to '../../../../../../ProjectAA/Pioneers/University 4.27/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.05.14-22.56.29:473][367]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.05.14-22.56.29:473][367]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
