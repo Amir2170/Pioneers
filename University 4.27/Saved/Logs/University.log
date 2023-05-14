@@ -965,3 +965,871 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.14-22.05.55:851][287]LogRenderer: Reallocating scene render targets to support 964x428 Format 10 NumSamples 1 (Frame:219).
 [2023.05.14-22.05.55:943][288]LogRenderer: Reallocating scene render targets to support 964x496 Format 10 NumSamples 1 (Frame:221).
 [2023.05.14-22.05.56:043][289]LogRenderer: Reallocating scene render targets to support 964x504 Format 10 NumSamples 1 (Frame:224).
+[2023.05.14-22.07.16:074][676]LogSlate: Took 0.000402 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.14-22.07.16:119][676]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../ProjectAA/Pioneers/vorodi/vorodii .fbx)
+[2023.05.14-22.07.16:143][676]LogFbx: Loading FBX Scene from ../../../../../../ProjectAA/Pioneers/vorodi/vorodii .fbx
+[2023.05.14-22.07.16:160][676]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.14-22.07.17:927][676]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.14-22.07.17:973][676]LogMaterial: Display: Missing cached shadermap for Material in PCD3D_SM5, Default, SM5 (DDC key hash: 12C67C9613EDBB6D920050F75D2F004535925E0B), compiling. 
+[2023.05.14-22.07.18:023][676]LogMaterial: Display: Missing cached shadermap for Material_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 34403E099FDFDFD35C17280AAB491A2E58A021A7), compiling. 
+[2023.05.14-22.07.18:072][676]LogMaterial: Display: Missing cached shadermap for Material_002 in PCD3D_SM5, Default, SM5 (DDC key hash: B720DCEC97635D5BD3C8149DCBE97C2E8EC15F67), compiling. 
+[2023.05.14-22.07.18:157][676]LogMaterial: Display: Missing cached shadermap for Material_007 in PCD3D_SM5, Default, SM5 (DDC key hash: 45BDE469D92EF785A302710A642BD84062B05134), compiling. 
+[2023.05.14-22.07.18:251][676]LogMaterial: Display: Missing cached shadermap for Material_008 in PCD3D_SM5, Default, SM5 (DDC key hash: 7AE88417ADA76FFA195F8AF3FB585A0DBE34AA6E), compiling. 
+[2023.05.14-22.07.18:259][676]LogFbx: Display: Triangulating static mesh Cube
+[2023.05.14-22.07.18:515][676]LogStaticMesh: Building static mesh vorodii__Cube...
+[2023.05.14-22.07.18:562][676]LogStaticMesh: Built static mesh [0.05s] /Game/buildings/uniEnvironment/vorodii__Cube.vorodii__Cube
+[2023.05.14-22.07.18:571][676]LogStaticMesh: Warning: vorodii__Cube has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.05.14-22.07.18:571][676]LogStaticMesh: Warning: vorodii__Cube has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.05.14-22.07.18:585][676]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: BC8F73B53A3906C8081F20F858FF18EFCE8D4A40), compiling. 
+[2023.05.14-22.07.18:685][676]LogMaterial: Display: Missing cached shadermap for Material_004 in PCD3D_SM5, Default, SM5 (DDC key hash: 4E344540A8B2C0C3C45EA3BA73DF24363F03E530), compiling. 
+[2023.05.14-22.07.18:785][676]LogMaterial: Display: Missing cached shadermap for Material_005 in PCD3D_SM5, Default, SM5 (DDC key hash: E571B2F9832D8ABBDA797B903DCF5F24C72BDCC5), compiling. 
+[2023.05.14-22.07.18:888][676]LogMaterial: Display: Missing cached shadermap for Material_006 in PCD3D_SM5, Default, SM5 (DDC key hash: 3C7B0CEF76D64FC9C05E77278BAD18471E181159), compiling. 
+[2023.05.14-22.07.18:895][676]LogFbx: Display: Triangulating static mesh Cylinder
+[2023.05.14-22.07.19:168][676]LogStaticMesh: Building static mesh vorodii__Cylinder...
+[2023.05.14-22.07.19:230][676]LogStaticMesh: Built static mesh [0.06s] /Game/buildings/uniEnvironment/vorodii__Cylinder.vorodii__Cylinder
+[2023.05.14-22.07.19:271][676]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.14-22.07.19:271][676]FBXImport: Warning: vorodii__Cube has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.05.14-22.07.19:271][676]FBXImport: Warning: vorodii__Cube has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.05.14-22.07.19:441][676]LogSlate: Took 0.009782 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.05.14-22.07.19:671][681]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.07.19:674][681]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.05.14-22.07.19:674][681]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.14-22.07.19:674][681]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.07.19:677][681]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.07.19:683][681]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.07.19:690][681]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.07.19:781][681]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.05.14-22.07.19:809][681]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.05.14-22.07.19:838][681]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.05.14-22.07.19:847][681]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2023.05.14-22.07.19:847][681]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.07.19:867][681]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.05.14-22.07.19:891][681]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.07.19:896][681]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.07.19:902][681]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.07.19:906][681]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.07.19:911][681]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.07.19:933][681]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.05.14-22.07.19:954][681]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.05.14-22.07.19:975][681]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.05.14-22.07.19:995][681]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.05.14-22.07.20:016][681]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.05.14-22.07.20:904][697]LogSlate: Window 'Message Log' being destroyed
+[2023.05.14-22.07.20:915][697]LogSlate: Window 'Message Log' being destroyed
+[2023.05.14-22.07.25:151][816]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2023.05.14-22.07.25:151][816]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.07.25:938][833]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2023.05.14-22.07.25:938][833]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.07.27:717][908]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2023.05.14-22.07.28:487][927]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2023.05.14-22.07.30:338][998]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2023.05.14-22.07.30:338][998]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.07.30:745][  7]LogSlate: Took 0.011399 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.05.14-22.07.31:925][ 36]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2023.05.14-22.07.31:925][ 36]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.07.33:958][ 95]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2023.05.14-22.07.33:958][ 95]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.07.35:490][140]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 126
+[2023.05.14-22.07.35:490][140]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.07.35:747][149]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 116
+[2023.05.14-22.07.35:747][149]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.07.35:846][150]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 106
+[2023.05.14-22.07.35:846][150]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.07.41:405][320]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2023.05.14-22.07.41:970][332]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.05.14-22.07.51:209][568]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 96
+[2023.05.14-22.07.51:209][568]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.07.52:023][582]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 86
+[2023.05.14-22.07.52:023][582]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.07.52:280][587]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 76
+[2023.05.14-22.07.52:280][587]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.07.56:016][700]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2023.05.14-22.07.59:323][758]LogActorFactory: Actor Factory created vorodii__Cube
+[2023.05.14-22.08.01:997][837]LogActorFactory: Actor Factory created vorodii__Cube
+[2023.05.14-22.08.10:013][ 41]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 66
+[2023.05.14-22.08.10:013][ 41]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.08.10:046][ 41]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.14-22.08.10:046][ 41]LogShaderCompilers: Display: Total job queries 144, among them cache hits 0 (0.00%)
+[2023.05.14-22.08.10:046][ 41]LogShaderCompilers: Display: Tracking 58 distinct input hashes that result in 13 distinct outputs (22.41%)
+[2023.05.14-22.08.10:046][ 41]LogShaderCompilers: Display: RAM used: 0.07 MB (0.00 GB) of 768.00 MB (0.75 GB) budget. Usage: 0.01%
+[2023.05.14-22.08.10:046][ 41]LogShaderCompilers: Display: ================================================
+[2023.05.14-22.08.10:059][ 42]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 56
+[2023.05.14-22.08.10:059][ 42]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.08.11:525][ 72]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 46
+[2023.05.14-22.08.11:526][ 72]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.08.26:694][443]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2023.05.14-22.08.26:694][443]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.08.27:849][470]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2023.05.14-22.08.27:849][470]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.08.28:407][484]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2023.05.14-22.08.28:408][484]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.08.35:702][660]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2023.05.14-22.08.35:702][660]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.08.41:540][796]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2023.05.14-22.08.41:540][796]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.08.43:562][846]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2023.05.14-22.08.43:562][846]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.08.44:905][880]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2023.05.14-22.08.44:905][880]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.08.45:495][894]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2023.05.14-22.08.45:495][894]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.09.23:440][338]Cmd: DELETE
+[2023.05.14-22.09.23:440][338]Cmd: ACTOR DELETE
+[2023.05.14-22.09.23:455][338]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.14-22.09.23:478][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.05.14-22.09.23:482][338]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2023.05.14-22.13.05:827][810]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../ProjectAA/Pioneers/vorodi/vorodi.fbx)
+[2023.05.14-22.13.05:844][810]LogFbx: Loading FBX Scene from ../../../../../../ProjectAA/Pioneers/vorodi/vorodi.fbx
+[2023.05.14-22.13.05:858][810]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.14-22.13.07:129][810]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.14-22.13.07:185][810]LogFbx: Display: Triangulating static mesh Cube
+[2023.05.14-22.13.07:353][810]LogStaticMesh: Building static mesh vorodi_Cube...
+[2023.05.14-22.13.07:413][810]LogStaticMesh: Built static mesh [0.06s] /Game/buildings/uniEnvironment/vorodi_Cube.vorodi_Cube
+[2023.05.14-22.13.07:422][810]LogStaticMesh: Warning: vorodi_Cube has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.05.14-22.13.07:422][810]LogStaticMesh: Warning: vorodi_Cube has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.05.14-22.13.07:440][810]LogFbx: Display: Triangulating static mesh Cylinder
+[2023.05.14-22.13.07:646][810]LogStaticMesh: Building static mesh vorodi_Cylinder...
+[2023.05.14-22.13.07:705][810]LogStaticMesh: Built static mesh [0.06s] /Game/buildings/uniEnvironment/vorodi_Cylinder.vorodi_Cylinder
+[2023.05.14-22.13.07:744][810]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.14-22.13.07:744][810]FBXImport: Warning: vorodi_Cube has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.05.14-22.13.07:745][810]FBXImport: Warning: vorodi_Cube has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.05.14-22.13.09:486][853]LogSlate: Window 'Message Log' being destroyed
+[2023.05.14-22.13.09:506][853]LogSlate: Window 'Message Log' being destroyed
+[2023.05.14-22.13.12:099][926]LogActorFactory: Actor Factory created vorodi_Cube
+[2023.05.14-22.13.13:750][997]LogActorFactory: Actor Factory created vorodi_Cube
+[2023.05.14-22.13.52:295][836]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bolvar)
+[2023.05.14-22.13.53:504][905]Cmd: DELETE
+[2023.05.14-22.13.53:504][905]Cmd: ACTOR DELETE
+[2023.05.14-22.13.53:519][905]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.14-22.13.53:534][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.05.14-22.13.53:536][905]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2023.05.14-22.13.57:053][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (vorodi_Cube)
+[2023.05.14-22.15.19:337][155]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.05.14-22.15.20:664][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.05.14-22.15.21:282][210]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/Minimal_Default30B53D9B44E2FB18C0ABBCB001C419D9.tmp' to '../../../../../../ProjectAA/Pioneers/University 4.27/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.05.14-22.15.21:379][210]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.05.14-22.15.21:379][210]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.05.14-22.15.22:162][245]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2023.05.14-22.15.24:064][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.14-22.15.24:065][325]PIE: New page: PIE session: Minimal_Default (May 14, 2023, 8:15:24 AM)
+[2023.05.14-22.15.24:068][325]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.05.14-22.15.24:072][325]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.05.14-22.15.24:072][325]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.05.14-22.15.24:251][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.178761s)
+[2023.05.14-22.15.24:253][325]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.05.14-22.15.24:254][325]LogPlayLevel: PIE: World Init took: (0.002969s)
+[2023.05.14-22.15.24:254][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.182047s)
+[2023.05.14-22.15.24:271][325]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.05.14-22.15.24:273][325]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.05.14-22.15.24:273][325]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.14-22.15.24:273][325]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.14-22.15.24:273][325]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.14-22.15.24:273][325]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.14-22.15.24:273][325]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.14-22.15.24:273][325]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.14-22.15.24:273][325]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.14-22.15.24:273][325]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.14-22.15.24:274][325]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.14-22.15.24:274][325]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.14-22.15.24:274][325]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.14-22.15.24:274][325]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.14-22.15.24:278][325]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.14-22.15.24:278][325]LogAudioMixer: Display: 1: FrontRight
+[2023.05.14-22.15.24:506][325]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2023.05.14-22.15.24:507][325]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.14-22.15.24:507][325]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.14-22.15.24:507][325]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.14-22.15.24:508][325]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.14-22.15.24:508][325]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.14-22.15.24:508][325]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.14-22.15.24:511][325]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.14-22.15.24:511][325]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.14-22.15.24:511][325]LogInit: FAudioDevice initialized.
+[2023.05.14-22.15.24:511][325]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default'.
+[2023.05.14-22.15.24:524][325]LogLoad: Game class is 'GameModeBase'
+[2023.05.14-22.15.24:551][325]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2023.05.14-15.15.24
+[2023.05.14-22.15.24:552][325]LogWorld: Bringing up level for play took: 0.027309
+[2023.05.14-22.15.24:553][325]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2023.05.14-22.15.24:655][325]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 20 classes and 0 folders.
+[2023.05.14-22.15.24:657][325]PIE: Server logged in
+[2023.05.14-22.15.24:661][325]PIE: Play in editor total start time 0.599 seconds.
+[2023.05.14-22.16.14:784][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.14-22.16.14:784][  7]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.05.14-22.16.14:785][  7]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-22.16.14:791][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-22.16.14:806][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.14-22.16.14:831][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-22.16.14:845][  7]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.14-22.16.14:848][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.14-22.16.14:851][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.14-22.16.14:856][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.14-22.16.14:866][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.05.14-22.16.14:914][  8]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.05.14-22.16.15:539][ 38]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2023.05.14-22.16.16:373][ 79]Cmd: SELECT NONE
+[2023.05.14-22.16.17:116][122]Cmd: SELECT NONE
+[2023.05.14-22.19.00:686][891]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../ProjectAA/Pioneers/UniEnvironment/Fountain.fbx)
+[2023.05.14-22.19.00:701][891]LogFbx: Loading FBX Scene from ../../../../../../ProjectAA/Pioneers/UniEnvironment/Fountain.fbx
+[2023.05.14-22.19.00:775][891]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.14-22.19.02:123][891]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.14-22.19.02:154][891]LogFbx: Display: Triangulating static mesh Fountain
+[2023.05.14-22.19.02:198][891]LogStaticMesh: Building static mesh Fountain...
+[2023.05.14-22.19.02:214][891]LogStaticMesh: Built static mesh [0.02s] /Game/buildings/uniEnvironment/Fountain.Fountain
+[2023.05.14-22.19.02:217][891]LogStaticMesh: Warning: Fountain has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.05.14-22.19.02:217][891]LogStaticMesh: Warning: Fountain has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.05.14-22.19.02:230][891]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'pavement_02_diff_2k' was renamed 'pavement_02_diff_2k_ncl1_1' 
+[2023.05.14-22.19.02:230][891]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'pavement_02_rough_2k' was renamed 'pavement_02_rough_2k_ncl1_1' 
+[2023.05.14-22.19.02:231][891]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'pavement_02_nor_gl_2k' was renamed 'pavement_02_nor_gl_2k_ncl1_1' 
+[2023.05.14-22.19.02:231][891]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'pavement_02_diff_2k' was renamed 'pavement_02_diff_2k_ncl1_2' 
+[2023.05.14-22.19.02:231][891]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'pavement_02_rough_2k' was renamed 'pavement_02_rough_2k_ncl1_2' 
+[2023.05.14-22.19.02:231][891]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'pavement_02_nor_gl_2k' was renamed 'pavement_02_nor_gl_2k_ncl1_2' 
+[2023.05.14-22.19.02:231][891]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'pavement_02_diff_2k' was renamed 'pavement_02_diff_2k_ncl1_3' 
+[2023.05.14-22.19.02:231][891]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'pavement_02_rough_2k' was renamed 'pavement_02_rough_2k_ncl1_3' 
+[2023.05.14-22.19.02:231][891]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'pavement_02_nor_gl_2k' was renamed 'pavement_02_nor_gl_2k_ncl1_3' 
+[2023.05.14-22.19.02:231][891]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'pavement_02_diff_2k' was renamed 'pavement_02_diff_2k_ncl1_4' 
+[2023.05.14-22.19.02:231][891]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'pavement_02_rough_2k' was renamed 'pavement_02_rough_2k_ncl1_4' 
+[2023.05.14-22.19.02:231][891]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'pavement_02_nor_gl_2k' was renamed 'pavement_02_nor_gl_2k_ncl1_4' 
+[2023.05.14-22.19.02:231][891]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'pavement_02_diff_2k' was renamed 'pavement_02_diff_2k_ncl1_5' 
+[2023.05.14-22.19.02:231][891]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'pavement_02_rough_2k' was renamed 'pavement_02_rough_2k_ncl1_5' 
+[2023.05.14-22.19.02:231][891]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'pavement_02_nor_gl_2k' was renamed 'pavement_02_nor_gl_2k_ncl1_5' 
+[2023.05.14-22.19.02:231][891]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.14-22.19.02:231][891]FBXImport: Warning: Fountain has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.05.14-22.19.02:231][891]FBXImport: Warning: Fountain has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.05.14-22.19.03:911][962]LogSlate: Window 'Message Log' being destroyed
+[2023.05.14-22.19.03:941][962]LogSlate: Window 'Message Log' being destroyed
+[2023.05.14-22.19.06:035][ 44]LogActorFactory: Actor Factory created Fountain
+[2023.05.14-22.19.06:869][ 87]LogActorFactory: Actor Factory created Fountain
+[2023.05.14-22.19.36:432][436]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.05.14-22.19.43:483][761]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Build_Ensani__1_2)
+[2023.05.14-22.19.46:833][881]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.05.14-22.19.48:971][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.05.14-22.19.49:461][  2]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/Minimal_DefaultCFF2F6424D577DDFB815399E9BA1153F.tmp' to '../../../../../../ProjectAA/Pioneers/University 4.27/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.05.14-22.19.49:489][  2]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.05.14-22.19.49:490][  2]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.05.14-22.20.40:274][207]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../ProjectAA/Pioneers/canopy/parking1.fbx)
+[2023.05.14-22.20.40:289][207]LogFbx: Loading FBX Scene from ../../../../../../ProjectAA/Pioneers/canopy/parking1.fbx
+[2023.05.14-22.20.40:300][207]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.14-22.20.41:800][207]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.14-22.20.41:831][207]LogFbx: Display: Triangulating static mesh Cube
+[2023.05.14-22.20.42:073][207]LogStaticMesh: Building static mesh parking1...
+[2023.05.14-22.20.42:122][207]LogStaticMesh: Built static mesh [0.05s] /Game/buildings/uniEnvironment/parking1.parking1
+[2023.05.14-22.20.42:132][207]LogStaticMesh: Warning: parking1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.05.14-22.20.42:132][207]LogStaticMesh: Warning: parking1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.05.14-22.20.42:153][207]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.14-22.20.42:153][207]FBXImport: Warning: parking1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.05.14-22.20.42:153][207]FBXImport: Warning: parking1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.05.14-22.20.43:615][261]LogSlate: Window 'Message Log' being destroyed
+[2023.05.14-22.20.43:646][261]LogSlate: Window 'Message Log' being destroyed
+[2023.05.14-22.20.51:922][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fountain)
+[2023.05.14-22.21.42:495][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.05.14-22.21.43:380][822]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/Minimal_Default5FEA17FE4EB1B9EB43F7FEA6B3FF9427.tmp' to '../../../../../../ProjectAA/Pioneers/University 4.27/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.05.14-22.21.43:441][822]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.05.14-22.21.43:441][822]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.05.14-22.22.24:441][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/buildings/uniEnvironment/whiteBrick" FILE="../../../../../../ProjectAA/Pioneers/University 4.27/Content/buildings/uniEnvironment/whiteBrick.uasset" SILENT=true
+[2023.05.14-22.22.24:456][215]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/whiteBrick76425E514A649AFB40657FB96F64CC5E.tmp' to '../../../../../../ProjectAA/Pioneers/University 4.27/Content/buildings/uniEnvironment/whiteBrick.uasset'
+[2023.05.14-22.22.24:486][215]AssetCheck: New page: Asset Save: whiteBrick
+[2023.05.14-22.22.24:486][215]LogContentValidation: Display: Validating Material /Game/buildings/uniEnvironment/whiteBrick.whiteBrick
+[2023.05.14-22.22.26:251][309]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.05.14-22.22.26:751][309]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/Minimal_DefaultD8255150441C01C9A6C664AF32BAD507.tmp' to '../../../../../../ProjectAA/Pioneers/University 4.27/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.05.14-22.22.26:797][309]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.05.14-22.22.26:797][309]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.05.14-22.22.54:800][581]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.05.14-22.23.04:424][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fountain)
+[2023.05.14-22.24.11:665][934]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.05.14-22.24.20:335][342]LogActorFactory: Actor Factory created parking1
+[2023.05.14-22.24.21:123][382]LogActorFactory: Actor Factory created parking1
+[2023.05.14-22.24.29:016][808]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.05.14-22.24.40:904][200]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parking1)
+[2023.05.14-22.25.30:096][103]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.05.14-22.25.37:086][286]LogMaterial: Display: Missing cached shadermap for wjvnagr_2K_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: D1FF20B2A637B2B149485CA9F9F83AD5DDA3EF53), compiling. 
+[2023.05.14-22.25.37:226][287]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.25.37:229][287]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.05.14-22.25.37:229][287]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.14-22.25.37:229][287]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.25.37:257][287]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.05.14-22.25.37:295][287]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2023.05.14-22.25.37:295][287]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.25.40:297][347]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.14-22.25.40:297][347]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.25.40:358][347]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.14-22.25.40:358][347]LogShaderCompilers: Display: Total job queries 170, among them cache hits 10 (5.88%)
+[2023.05.14-22.25.40:358][347]LogShaderCompilers: Display: Tracking 145 distinct input hashes that result in 14 distinct outputs (9.66%)
+[2023.05.14-22.25.40:358][347]LogShaderCompilers: Display: RAM used: 0.07 MB (0.00 GB) of 768.00 MB (0.75 GB) budget. Usage: 0.01%
+[2023.05.14-22.25.40:358][347]LogShaderCompilers: Display: ================================================
+[2023.05.14-22.25.41:151][358]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2023.05.14-22.25.41:151][358]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.25.43:011][381]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2023.05.14-22.25.43:011][381]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.25.47:575][454]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2023.05.14-22.25.47:575][454]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.25.49:337][475]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2023.05.14-22.25.49:337][475]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.25.51:793][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parking1)
+[2023.05.14-22.25.52:849][561]Cmd: EDIT COPY
+[2023.05.14-22.25.53:402][577]Cmd: EDIT PASTE
+[2023.05.14-22.25.56:755][678]Cmd: TRANSACTION UNDO
+[2023.05.14-22.25.56:755][678]LogEditorTransaction: Undo Move Actors
+[2023.05.14-22.26.01:969][821]Cmd: EDIT COPY
+[2023.05.14-22.26.02:396][835]Cmd: EDIT PASTE
+[2023.05.14-22.26.05:868][953]Cmd: EDIT COPY
+[2023.05.14-22.26.06:317][969]Cmd: EDIT PASTE
+[2023.05.14-22.26.11:476][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parking3)
+[2023.05.14-22.26.13:439][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parking4)
+[2023.05.14-22.26.19:625][462]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.05.14-22.26.20:613][502]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.05.14-22.26.21:332][502]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/Minimal_Default9FA2C30E4C2526EDC44796B734599F38.tmp' to '../../../../../../ProjectAA/Pioneers/University 4.27/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.05.14-22.26.21:421][502]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.05.14-22.26.21:421][502]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.05.14-22.26.28:408][867]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2023.05.14-22.26.29:354][896]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.14-22.26.29:354][896]PIE: New page: PIE session: Minimal_Default (May 14, 2023, 8:26:29 AM)
+[2023.05.14-22.26.29:356][896]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.05.14-22.26.29:558][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.203369s)
+[2023.05.14-22.26.29:560][896]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.05.14-22.26.29:561][896]LogPlayLevel: PIE: World Init took: (0.002418s)
+[2023.05.14-22.26.29:561][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.206088s)
+[2023.05.14-22.26.29:580][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.05.14-22.26.29:581][896]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.05.14-22.26.29:581][896]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.14-22.26.29:582][896]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.14-22.26.29:582][896]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.14-22.26.29:582][896]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.14-22.26.29:582][896]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.14-22.26.29:582][896]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.14-22.26.29:582][896]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.14-22.26.29:582][896]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.14-22.26.29:583][896]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.14-22.26.29:583][896]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.14-22.26.29:583][896]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.14-22.26.29:583][896]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.14-22.26.29:586][896]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.14-22.26.29:586][896]LogAudioMixer: Display: 1: FrontRight
+[2023.05.14-22.26.29:721][896]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2023.05.14-22.26.29:722][896]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.14-22.26.29:722][896]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.14-22.26.29:722][896]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.14-22.26.29:724][896]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.14-22.26.29:724][896]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.14-22.26.29:724][896]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.14-22.26.29:727][896]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.14-22.26.29:727][896]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.14-22.26.29:727][896]LogInit: FAudioDevice initialized.
+[2023.05.14-22.26.29:727][896]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default'.
+[2023.05.14-22.26.29:743][896]LogLoad: Game class is 'GameModeBase'
+[2023.05.14-22.26.29:772][896]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2023.05.14-15.26.29
+[2023.05.14-22.26.29:773][896]LogWorld: Bringing up level for play took: 0.028949
+[2023.05.14-22.26.29:774][896]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2023.05.14-22.26.29:797][896]PIE: Server logged in
+[2023.05.14-22.26.29:799][896]PIE: Play in editor total start time 0.446 seconds.
+[2023.05.14-22.26.48:524][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.14-22.26.48:524][876]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.05.14-22.26.48:525][876]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-22.26.48:530][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-22.26.48:545][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.14-22.26.48:571][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-22.26.48:588][876]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.14-22.26.48:588][876]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.14-22.26.48:590][876]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.14-22.26.48:595][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.14-22.26.48:603][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.05.14-22.26.48:652][877]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.05.14-22.26.49:698][933]Cmd: SELECT NONE
+[2023.05.14-22.26.50:860][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_U66)
+[2023.05.14-22.27.01:459][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parking3)
+[2023.05.14-22.27.15:543][938]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.05.14-22.27.16:389][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parking4)
+[2023.05.14-22.27.20:204][103]Cmd: DELETE
+[2023.05.14-22.27.20:204][103]Cmd: ACTOR DELETE
+[2023.05.14-22.27.20:227][103]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.14-22.27.20:228][103]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.14-22.27.20:229][103]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.14-22.27.20:246][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.05.14-22.27.20:248][103]LogEditorActor: Deleted 3 Actors (0.044 secs)
+[2023.05.14-22.27.21:796][153]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parking3)
+[2023.05.14-22.27.22:860][186]Cmd: EDIT COPY
+[2023.05.14-22.27.23:485][206]Cmd: EDIT PASTE
+[2023.05.14-22.27.27:692][339]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.05.14-22.27.30:734][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parking4)
+[2023.05.14-22.27.31:910][497]Cmd: EDIT COPY
+[2023.05.14-22.27.32:252][513]Cmd: EDIT PASTE
+[2023.05.14-22.27.39:010][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parking4)
+[2023.05.14-22.27.41:976][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parking3)
+[2023.05.14-22.27.46:355][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parking5)
+[2023.05.14-22.27.47:220][ 49]Cmd: EDIT COPY
+[2023.05.14-22.27.47:618][ 63]Cmd: EDIT PASTE
+[2023.05.14-22.27.50:012][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parking5)
+[2023.05.14-22.27.51:917][208]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parking4)
+[2023.05.14-22.27.54:049][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parking3)
+[2023.05.14-22.27.56:365][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parking4)
+[2023.05.14-22.27.58:747][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parking5)
+[2023.05.14-22.28.00:758][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parking6)
+[2023.05.14-22.28.39:404][177]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../ProjectAA/Pioneers/garden/garden.fbx)
+[2023.05.14-22.28.39:417][177]LogFbx: Loading FBX Scene from ../../../../../../ProjectAA/Pioneers/garden/garden.fbx
+[2023.05.14-22.28.39:426][177]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.14-22.28.40:711][177]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.14-22.28.40:742][177]LogFbx: Display: Triangulating static mesh Cube
+[2023.05.14-22.28.40:755][177]LogStaticMesh: Building static mesh garden...
+[2023.05.14-22.28.40:758][177]LogStaticMesh: Built static mesh [0.00s] /Game/buildings/uniEnvironment/garden.garden
+[2023.05.14-22.28.40:759][177]LogStaticMesh: Warning: garden has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.05.14-22.28.40:759][177]LogStaticMesh: Warning: garden has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.05.14-22.28.40:766][177]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.14-22.28.40:766][177]FBXImport: Warning: garden has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.05.14-22.28.40:767][177]FBXImport: Warning: garden has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.05.14-22.28.40:931][177]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../ProjectAA/Pioneers/garden/garden2.fbx)
+[2023.05.14-22.28.40:997][177]LogFbx: Loading FBX Scene from ../../../../../../ProjectAA/Pioneers/garden/garden2.fbx
+[2023.05.14-22.28.41:006][177]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.14-22.28.41:008][177]LogFbx: Display: Triangulating static mesh Cube
+[2023.05.14-22.28.41:020][177]LogStaticMesh: Building static mesh garden2...
+[2023.05.14-22.28.41:023][177]LogStaticMesh: Built static mesh [0.00s] /Game/buildings/uniEnvironment/garden2.garden2
+[2023.05.14-22.28.41:024][177]LogStaticMesh: Warning: garden2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.05.14-22.28.41:024][177]LogStaticMesh: Warning: garden2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.05.14-22.28.41:047][177]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.14-22.28.41:047][177]FBXImport: Warning: garden2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.05.14-22.28.41:047][177]FBXImport: Warning: garden2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.05.14-22.28.41:073][177]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../ProjectAA/Pioneers/garden/garden3.fbx)
+[2023.05.14-22.28.41:090][177]LogFbx: Loading FBX Scene from ../../../../../../ProjectAA/Pioneers/garden/garden3.fbx
+[2023.05.14-22.28.41:100][177]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.14-22.28.41:102][177]LogFbx: Display: Triangulating static mesh Cube
+[2023.05.14-22.28.41:107][177]LogStaticMesh: Building static mesh garden3...
+[2023.05.14-22.28.41:108][177]LogStaticMesh: Built static mesh [0.00s] /Game/buildings/uniEnvironment/garden3.garden3
+[2023.05.14-22.28.41:109][177]LogStaticMesh: Warning: garden3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.05.14-22.28.41:109][177]LogStaticMesh: Warning: garden3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.05.14-22.28.41:115][177]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.14-22.28.41:116][177]FBXImport: Warning: garden3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.05.14-22.28.41:116][177]FBXImport: Warning: garden3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.05.14-22.28.41:134][177]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../ProjectAA/Pioneers/garden/garden4.fbx)
+[2023.05.14-22.28.41:150][177]LogFbx: Loading FBX Scene from ../../../../../../ProjectAA/Pioneers/garden/garden4.fbx
+[2023.05.14-22.28.41:160][177]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.14-22.28.41:162][177]LogFbx: Display: Triangulating static mesh Cube
+[2023.05.14-22.28.41:174][177]LogStaticMesh: Building static mesh garden4...
+[2023.05.14-22.28.41:178][177]LogStaticMesh: Built static mesh [0.00s] /Game/buildings/uniEnvironment/garden4.garden4
+[2023.05.14-22.28.41:179][177]LogStaticMesh: Warning: garden4 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.05.14-22.28.41:179][177]LogStaticMesh: Warning: garden4 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.05.14-22.28.41:186][177]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.14-22.28.41:187][177]FBXImport: Warning: garden4 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.05.14-22.28.41:187][177]FBXImport: Warning: garden4 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.05.14-22.28.41:229][177]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../ProjectAA/Pioneers/garden/Garden5.fbx)
+[2023.05.14-22.28.41:245][177]LogFbx: Loading FBX Scene from ../../../../../../ProjectAA/Pioneers/garden/Garden5.fbx
+[2023.05.14-22.28.41:253][177]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.14-22.28.41:255][177]LogFbx: Display: Triangulating static mesh Cube
+[2023.05.14-22.28.41:262][177]LogStaticMesh: Building static mesh Garden5...
+[2023.05.14-22.28.41:264][177]LogStaticMesh: Built static mesh [0.00s] /Game/buildings/uniEnvironment/Garden5.Garden5
+[2023.05.14-22.28.41:265][177]LogStaticMesh: Warning: Garden5 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.05.14-22.28.41:265][177]LogStaticMesh: Warning: Garden5 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.05.14-22.28.41:272][177]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.14-22.28.41:272][177]FBXImport: Warning: Garden5 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.05.14-22.28.41:272][177]FBXImport: Warning: Garden5 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.05.14-22.28.42:679][211]LogSlate: Window 'Message Log' being destroyed
+[2023.05.14-22.28.42:722][211]LogSlate: Window 'Message Log' being destroyed
+[2023.05.14-22.28.54:977][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Build_Fani)
+[2023.05.14-22.29.05:927][367]LogActorFactory: Actor Factory created garden2
+[2023.05.14-22.29.07:679][433]LogActorFactory: Actor Factory created garden2
+[2023.05.14-22.29.08:471][451]LogActorFactory: Actor Factory created garden3
+[2023.05.14-22.29.09:280][481]LogActorFactory: Actor Factory created garden3
+[2023.05.14-22.29.17:919][737]LogActorFactory: Actor Factory created Garden5
+[2023.05.14-22.29.18:658][768]LogActorFactory: Actor Factory created Garden5
+[2023.05.14-22.29.24:370][988]Cmd: DELETE
+[2023.05.14-22.29.24:370][988]Cmd: ACTOR DELETE
+[2023.05.14-22.29.24:392][988]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.14-22.29.24:393][988]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.14-22.29.24:393][988]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.14-22.29.24:412][988]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2023.05.14-22.29.24:415][988]LogEditorActor: Deleted 3 Actors (0.045 secs)
+[2023.05.14-22.29.25:957][ 35]LogActorFactory: Actor Factory created garden3
+[2023.05.14-22.29.26:608][ 52]LogActorFactory: Actor Factory created garden3
+[2023.05.14-22.29.44:286][753]LogActorFactory: Actor Factory created Garden5
+[2023.05.14-22.29.48:118][886]LogActorFactory: Actor Factory created garden4
+[2023.05.14-22.29.49:633][952]LogActorFactory: Actor Factory created garden4
+[2023.05.14-22.29.54:584][193]Cmd: TRANSACTION UNDO
+[2023.05.14-22.29.54:584][193]LogEditorTransaction: Undo Scale Actors
+[2023.05.14-22.29.56:557][255]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.garden4_34.StaticMeshComponent0)
+[2023.05.14-22.29.56:574][256]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.garden4_34.StaticMeshComponent0)
+[2023.05.14-22.29.57:117][277]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.garden4_34.StaticMeshComponent0)
+[2023.05.14-22.29.57:144][278]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.garden4_34.StaticMeshComponent0)
+[2023.05.14-22.30.00:847][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (garden3)
+[2023.05.14-22.30.04:247][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (garden4)
+[2023.05.14-22.30.15:227][ 53]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/buildings/uniEnvironment/garden4.garden4
+[2023.05.14-22.30.15:727][ 53]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.05.14-22.30.16:000][ 53]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.05.14-22.30.18:799][100]LogSlate: Window 'garden4' being destroyed
+[2023.05.14-22.30.18:838][100]LogSlate: Window 'garden4' being destroyed
+[2023.05.14-22.30.18:842][100]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-22.30.18:842][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-22.30.20:080][126]LogActorFactory: Actor Factory created garden4
+[2023.05.14-22.30.21:113][166]LogActorFactory: Actor Factory created garden4
+[2023.05.14-22.30.42:756][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (garden5)
+[2023.05.14-22.30.43:974][979]Cmd: DELETE
+[2023.05.14-22.30.43:974][979]Cmd: ACTOR DELETE
+[2023.05.14-22.30.43:994][979]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.14-22.30.44:029][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.05.14-22.30.44:035][979]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2023.05.14-22.30.46:487][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (garden4)
+[2023.05.14-22.30.53:914][292]Cmd: EDIT COPY
+[2023.05.14-22.30.54:440][309]Cmd: EDIT PASTE
+[2023.05.14-22.31.04:602][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (garden5)
+[2023.05.14-22.31.05:847][669]Cmd: EDIT COPY
+[2023.05.14-22.31.06:221][682]Cmd: EDIT PASTE
+[2023.05.14-22.31.17:705][ 56]Cmd: EDIT COPY
+[2023.05.14-22.31.18:244][ 74]Cmd: EDIT PASTE
+[2023.05.14-22.31.27:300][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor2)
+[2023.05.14-22.31.30:412][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (garden3)
+[2023.05.14-22.31.33:994][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor2)
+[2023.05.14-22.31.36:481][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (garden7)
+[2023.05.14-22.32.30:396][679]LogMaterial: Display: Missing cached shadermap for wjvnagr_2K_Albedo_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7141D24C08A0D48600F3F4E3C38B53E924D49679), compiling. 
+[2023.05.14-22.32.30:481][679]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.32.30:491][679]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.05.14-22.32.30:491][679]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.14-22.32.30:491][679]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.32.30:512][679]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.05.14-22.32.30:576][679]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2023.05.14-22.32.30:576][679]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.32.34:875][790]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.14-22.32.34:875][790]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.32.34:938][790]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.14-22.32.34:938][790]LogShaderCompilers: Display: Total job queries 186, among them cache hits 10 (5.38%)
+[2023.05.14-22.32.34:939][790]LogShaderCompilers: Display: Tracking 161 distinct input hashes that result in 25 distinct outputs (15.53%)
+[2023.05.14-22.32.34:939][790]LogShaderCompilers: Display: RAM used: 0.14 MB (0.00 GB) of 768.00 MB (0.75 GB) budget. Usage: 0.02%
+[2023.05.14-22.32.34:939][790]LogShaderCompilers: Display: ================================================
+[2023.05.14-22.32.36:351][828]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2023.05.14-22.32.36:351][828]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.32.39:727][922]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2023.05.14-22.32.39:727][922]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.32.45:049][ 14]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2023.05.14-22.32.45:049][ 14]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.32.48:393][104]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2023.05.14-22.32.48:393][104]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.32.58:609][433]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/buildings/uniEnvironment/wjvnagr_2K_Mat.wjvnagr_2K_Mat
+[2023.05.14-22.32.58:776][433]LogMaterial: Display: Missing cached shadermap for wjvnagr_2K_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A790E06C34A9A460761C712D6D599FEDDB0738C2), compiling. 
+[2023.05.14-22.32.59:185][433]LogMaterial: Display: Missing cached shadermap for wjvnagr_2K_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 176FABD2705053A82320239C3FAE0DA62A6DFC92), compiling. 
+[2023.05.14-22.32.59:194][433]LogMaterial: Display: Missing cached shadermap for wjvnagr_2K_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 3EE5229E87404C16271A0454501FD521EED8F928), compiling. 
+[2023.05.14-22.32.59:199][433]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0DE254D1E14B09D1539542C2776A949D37731843), compiling. 
+[2023.05.14-22.32.59:282][433]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.14-22.32.59:282][433]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.05.14-22.32.59:282][433]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.14-22.32.59:293][433]LogSlate: Took 0.000480 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.05.14-22.32.59:749][434]MaterialEditorStats: Base pass shader: 123 instructions
+[2023.05.14-22.32.59:749][434]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2023.05.14-22.32.59:749][434]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.05.14-22.32.59:750][434]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.14-22.32.59:750][434]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.05.14-22.32.59:750][434]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.14-22.32.59:978][438]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.32.59:983][438]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.05.14-22.32.59:983][438]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.14-22.32.59:983][438]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.33.02:771][494]LogMaterial: Display: Missing cached shadermap for wjvnagr_2K_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: D3CB42CC7D762E9413EC4A7603E6118B70C53E89), compiling. 
+[2023.05.14-22.33.02:776][494]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.14-22.33.02:847][495]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.33.02:847][495]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.05.14-22.33.02:847][495]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.14-22.33.02:847][495]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.33.02:847][495]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.05.14-22.33.02:848][495]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2023.05.14-22.33.02:848][495]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.33.05:008][535]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2023.05.14-22.33.05:008][535]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.33.05:983][554]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2023.05.14-22.33.05:983][554]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.33.06:053][555]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.14-22.33.07:687][580]LogMaterial: Display: Missing cached shadermap for wjvnagr_2K_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 3E1F0576029582FC456364DD6A64ED1BEFE57776), compiling. 
+[2023.05.14-22.33.07:692][580]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: A08FD0708DACF52178A3CCA8FC819642392B7242), compiling. 
+[2023.05.14-22.33.07:700][580]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.14-22.33.07:795][582]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.05.14-22.33.07:800][582]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.14-22.33.11:510][642]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.14-22.33.11:510][642]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.33.14:744][706]LogMaterial: Display: Missing cached shadermap for wjvnagr_2K_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: D5BBCE7B306719B050CE9FB86EFF7180B3690476), compiling. 
+[2023.05.14-22.33.14:776][706]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.14-22.33.14:920][708]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.14-22.33.15:426][719]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.05.14-22.33.15:426][719]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.05.14-22.33.15:426][719]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.14-22.33.15:426][719]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.14-22.33.38:527][206]LogMaterial: Display: Missing cached shadermap for wjvnagr_2K_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: F4431C67164201CA212FE9952D1B93020F4D262C), compiling. 
+[2023.05.14-22.33.38:531][206]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 88EF3E040D2ACC372DFB25DFF106AE8E4B274926), compiling. 
+[2023.05.14-22.33.38:536][206]LogMaterial: Display: Missing cached shadermap for wjvnagr_2K_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 025530F78BDF412CD5FE3A3DDBEAED9330BA8F98), compiling. 
+[2023.05.14-22.33.38:581][206]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.14-22.33.38:684][208]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.33.38:685][208]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.05.14-22.33.38:685][208]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.14-22.33.38:685][208]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.33.38:937][210]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.05.14-22.33.38:937][210]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.05.14-22.33.38:937][210]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.14-22.33.38:937][210]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.14-22.33.42:779][284]LogMaterial: Display: Missing cached shadermap for wjvnagr_2K_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 64CFD8465176188C52BE2EB0D17E422DC806FFBB), compiling. 
+[2023.05.14-22.33.42:785][284]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: CCA3416AC95ABFAAD823508D5653C724CCC12728), compiling. 
+[2023.05.14-22.33.42:794][284]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.14-22.33.42:795][284]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.05.14-22.33.42:795][284]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.14-22.33.42:823][285]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.33.42:853][286]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.05.14-22.33.42:853][286]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.05.14-22.33.42:853][286]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.14-22.33.42:853][286]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.05.14-22.33.42:853][286]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2023.05.14-22.33.42:853][286]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.33.45:214][330]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2023.05.14-22.33.45:214][330]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.33.46:522][348]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2023.05.14-22.33.46:522][348]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.14-22.33.46:589][349]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.14-22.33.46:590][349]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.05.14-22.33.46:590][349]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.14-22.33.48:643][383]LogMaterial: Display: Missing cached shadermap for wjvnagr_2K_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 41D3A51E3B51E49C5EF27B0AA53115EFA0F2F249), compiling. 
+[2023.05.14-22.33.48:649][383]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.14-22.33.48:765][385]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.05.14-22.33.48:765][385]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.05.14-22.33.48:765][385]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.05.14-22.33.48:766][385]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.14-22.33.56:840][508]LogSlate: Window 'Message' being destroyed
+[2023.05.14-22.33.56:854][508]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/buildings/uniEnvironment/wjvnagr_2K_Mat.wjvnagr_2K_Mat
+(Selecting 'No' will cause all changes to be lost!)
+[2023.05.14-22.33.56:855][508]LogSlate: Window 'wjvnagr_2K_Mat' being destroyed
+[2023.05.14-22.33.56:863][508]LogSlate: Window 'wjvnagr_2K_Mat' being destroyed
+[2023.05.14-22.33.56:873][508]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-22.33.56:873][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-22.33.58:130][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (garden6)
+[2023.05.14-22.33.58:249][558]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2023.05.14-22.33.59:356][600]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2023.05.14-22.33.59:425][601]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (garden6)
+[2023.05.14-22.34.03:976][731]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/buildings/uniEnvironment/garden4.garden4
+[2023.05.14-22.34.04:784][731]LogRenderer: Reallocating scene render targets to support 964x704 Format 10 NumSamples 1 (Frame:1).
+[2023.05.14-22.34.32:973][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/buildings/uniEnvironment/garden4" FILE="../../../../../../ProjectAA/Pioneers/University 4.27/Content/buildings/uniEnvironment/garden4.uasset" SILENT=true
+[2023.05.14-22.34.32:992][189]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/garden42405957F498EAAB5B8DDB7BC7F5F17A9.tmp' to '../../../../../../ProjectAA/Pioneers/University 4.27/Content/buildings/uniEnvironment/garden4.uasset'
+[2023.05.14-22.34.33:028][189]AssetCheck: New page: Asset Save: garden4
+[2023.05.14-22.34.33:028][189]LogContentValidation: Display: Validating StaticMesh /Game/buildings/uniEnvironment/garden4.garden4
+[2023.05.14-22.34.46:069][474]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor2)
+[2023.05.14-22.34.46:835][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (garden5)
+[2023.05.14-22.34.53:543][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (garden5)
+[2023.05.14-22.34.54:309][651]Cmd: DELETE
+[2023.05.14-22.34.54:309][651]Cmd: ACTOR DELETE
+[2023.05.14-22.34.54:330][651]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.14-22.34.54:367][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.05.14-22.34.54:375][651]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2023.05.14-22.34.55:732][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (garden4)
+[2023.05.14-22.35.02:928][882]Cmd: DELETE
+[2023.05.14-22.35.02:928][882]Cmd: ACTOR DELETE
+[2023.05.14-22.35.02:951][882]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.14-22.35.02:971][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.05.14-22.35.02:973][882]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2023.05.14-22.35.04:000][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (garden3)
+[2023.05.14-22.35.04:675][932]Cmd: DELETE
+[2023.05.14-22.35.04:675][932]Cmd: ACTOR DELETE
+[2023.05.14-22.35.04:695][932]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.14-22.35.04:712][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.05.14-22.35.04:714][932]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2023.05.14-22.35.05:631][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (garden6)
+[2023.05.14-22.35.06:396][981]Cmd: DELETE
+[2023.05.14-22.35.06:396][981]Cmd: ACTOR DELETE
+[2023.05.14-22.35.06:420][981]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.14-22.35.06:438][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.05.14-22.35.06:439][981]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2023.05.14-22.35.07:291][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor2)
+[2023.05.14-22.35.08:580][ 32]LogActorFactory: Actor Factory created garden4
+[2023.05.14-22.35.09:832][ 58]LogActorFactory: Actor Factory created garden4
+[2023.05.14-22.35.19:590][306]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.garden4_44.StaticMeshComponent0)
+[2023.05.14-22.35.19:591][306]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.garden4_44.StaticMeshComponent0)
+[2023.05.14-22.35.20:087][320]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.garden4_44.StaticMeshComponent0)
+[2023.05.14-22.35.20:607][333]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.garden4_44.StaticMeshComponent0)
+[2023.05.14-22.35.22:832][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (garden4)
+[2023.05.14-22.35.22:881][392]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2023.05.14-22.35.33:752][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/buildings/uniEnvironment/garden4" FILE="../../../../../../ProjectAA/Pioneers/University 4.27/Content/buildings/uniEnvironment/garden4.uasset" SILENT=true
+[2023.05.14-22.35.33:771][572]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/garden40A823A0C436F0D7C7ACBB687092356BC.tmp' to '../../../../../../ProjectAA/Pioneers/University 4.27/Content/buildings/uniEnvironment/garden4.uasset'
+[2023.05.14-22.35.33:798][572]AssetCheck: New page: Asset Save: garden4
+[2023.05.14-22.35.33:798][572]LogContentValidation: Display: Validating StaticMesh /Game/buildings/uniEnvironment/garden4.garden4
+[2023.05.14-22.35.38:144][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (garden7)
+[2023.05.14-22.35.39:166][728]Cmd: DELETE
+[2023.05.14-22.35.39:166][728]Cmd: ACTOR DELETE
+[2023.05.14-22.35.39:186][728]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.14-22.35.39:204][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.05.14-22.35.39:209][728]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2023.05.14-22.35.41:454][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (garden4)
+[2023.05.14-22.35.46:825][998]Cmd: EDIT COPY
+[2023.05.14-22.35.47:208][  8]Cmd: EDIT PASTE
+[2023.05.14-22.36.05:383][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (garden4)
+[2023.05.14-22.36.10:070][662]Cmd: EDIT COPY
+[2023.05.14-22.36.10:446][673]Cmd: EDIT PASTE
+[2023.05.14-22.36.22:999][ 18]Cmd: EDIT COPY
+[2023.05.14-22.36.23:369][ 28]Cmd: EDIT PASTE
+[2023.05.14-22.36.37:342][359]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/buildings/uniEnvironment/garden3.garden3
+[2023.05.14-22.37.41:106][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/buildings/uniEnvironment/garden3" FILE="../../../../../../ProjectAA/Pioneers/University 4.27/Content/buildings/uniEnvironment/garden3.uasset" SILENT=true
+[2023.05.14-22.37.41:122][258]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/garden34FBF149E4502DC78D92E29A3CFD1BA14.tmp' to '../../../../../../ProjectAA/Pioneers/University 4.27/Content/buildings/uniEnvironment/garden3.uasset'
+[2023.05.14-22.37.41:151][258]AssetCheck: New page: Asset Save: garden3
+[2023.05.14-22.37.41:151][258]LogContentValidation: Display: Validating StaticMesh /Game/buildings/uniEnvironment/garden3.garden3
+[2023.05.14-22.37.42:531][283]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-22.37.42:531][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-22.37.44:999][331]LogSlate: Window 'garden4' being destroyed
+[2023.05.14-22.37.45:072][331]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-22.37.45:072][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-22.37.46:895][366]LogActorFactory: Actor Factory created garden3
+[2023.05.14-22.37.48:604][423]LogActorFactory: Actor Factory created garden3
+[2023.05.14-22.37.51:970][535]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.garden3_53.StaticMeshComponent0)
+[2023.05.14-22.37.52:136][541]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.garden3_53.StaticMeshComponent0)
+[2023.05.14-22.37.59:739][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor2)
+[2023.05.14-22.38.04:119][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (garden5)
+[2023.05.14-22.38.07:798][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (garden7)
+[2023.05.14-22.38.08:910][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor2)
+[2023.05.14-22.38.16:643][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (garden3)
+[2023.05.14-22.38.31:177][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fountain)
+[2023.05.14-22.38.31:245][123]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2023.05.14-22.38.32:237][150]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2023.05.14-22.38.32:324][151]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Fountain)
+[2023.05.14-22.38.41:944][340]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/buildings/uniEnvironment/Fountain.Fountain
+[2023.05.14-22.39.33:072][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/buildings/uniEnvironment/Fountain" FILE="../../../../../../ProjectAA/Pioneers/University 4.27/Content/buildings/uniEnvironment/Fountain.uasset" SILENT=true
+[2023.05.14-22.39.33:092][ 67]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/Fountain2307396748047C56C8A651AA1CAB9E85.tmp' to '../../../../../../ProjectAA/Pioneers/University 4.27/Content/buildings/uniEnvironment/Fountain.uasset'
+[2023.05.14-22.39.33:129][ 67]AssetCheck: New page: Asset Save: Fountain
+[2023.05.14-22.39.33:130][ 67]LogContentValidation: Display: Validating StaticMesh /Game/buildings/uniEnvironment/Fountain.Fountain
+[2023.05.14-22.39.40:084][213]Cmd: DELETE
+[2023.05.14-22.39.40:084][213]Cmd: ACTOR DELETE
+[2023.05.14-22.39.40:104][213]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.14-22.39.40:144][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2023.05.14-22.39.40:153][213]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2023.05.14-22.39.41:183][232]LogActorFactory: Actor Factory created Fountain
+[2023.05.14-22.39.42:305][259]LogActorFactory: Actor Factory created Fountain
+[2023.05.14-22.40.35:153][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (garden3)
+[2023.05.14-22.41.06:504][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.05.14-22.41.07:544][ 27]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/Minimal_Default_Auto1F653D4BF46E1F398558A8491A31AF64A.tmp' to '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2023.05.14-22.41.07:547][ 27]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 1.071
+[2023.05.14-22.41.07:547][ 27]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.071
+[2023.05.14-22.41.07:549][ 27]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/buildings/uniEnvironment/vorodii__Cube] ([1] browsable assets)...
+[2023.05.14-22.41.07:592][ 27]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/buildings/uniEnvironment/vorodii__Cube.vorodii__Cube]
+[2023.05.14-22.41.07:592][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/buildings/uniEnvironment/vorodii__Cube]
+[2023.05.14-22.41.07:626][ 27]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/vorodii__Cube_Auto11022707141D015CB4ED5C8BCE42DAA00.tmp' to '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/Autosaves/Game/buildings/uniEnvironment/vorodii__Cube_Auto1.uasset'
+[2023.05.14-22.41.07:628][ 27]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/buildings/uniEnvironment/vorodii__Cylinder] ([1] browsable assets)...
+[2023.05.14-22.41.07:668][ 27]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/buildings/uniEnvironment/vorodii__Cylinder.vorodii__Cylinder]
+[2023.05.14-22.41.07:668][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/buildings/uniEnvironment/vorodii__Cylinder]
+[2023.05.14-22.41.07:700][ 27]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/vorodii__Cylinder_Auto1E109FD904CACFB9FDB4E0EBE2EE1BE0C.tmp' to '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/Autosaves/Game/buildings/uniEnvironment/vorodii__Cylinder_Auto1.uasset'
+[2023.05.14-22.41.07:702][ 27]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/buildings/uniEnvironment/vorodi_Cylinder] ([1] browsable assets)...
+[2023.05.14-22.41.07:742][ 27]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/buildings/uniEnvironment/vorodi_Cylinder.vorodi_Cylinder]
+[2023.05.14-22.41.07:742][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/buildings/uniEnvironment/vorodi_Cylinder]
+[2023.05.14-22.41.07:777][ 27]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/vorodi_Cylinder_Auto1DCA7AC5A4CE6CC42FEC2D2884C69779F.tmp' to '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/Autosaves/Game/buildings/uniEnvironment/vorodi_Cylinder_Auto1.uasset'
+[2023.05.14-22.41.07:779][ 27]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/buildings/uniEnvironment/vorodi_Cube] ([1] browsable assets)...
+[2023.05.14-22.41.07:821][ 27]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/buildings/uniEnvironment/vorodi_Cube.vorodi_Cube]
+[2023.05.14-22.41.07:821][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/buildings/uniEnvironment/vorodi_Cube]
+[2023.05.14-22.41.07:854][ 27]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/vorodi_Cube_Auto13BB5B3494B25DE3EA0757CAB0CC2D329.tmp' to '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/Autosaves/Game/buildings/uniEnvironment/vorodi_Cube_Auto1.uasset'
+[2023.05.14-22.41.07:856][ 27]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/buildings/uniEnvironment/parking1] ([1] browsable assets)...
+[2023.05.14-22.41.07:895][ 27]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/buildings/uniEnvironment/parking1.parking1]
+[2023.05.14-22.41.07:895][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/buildings/uniEnvironment/parking1]
+[2023.05.14-22.41.07:923][ 27]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/parking1_Auto10468E97B43F54050A9480F9D122B940D.tmp' to '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/Autosaves/Game/buildings/uniEnvironment/parking1_Auto1.uasset'
+[2023.05.14-22.41.08:163][ 27]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/buildings/uniEnvironment/wjvnagr_2K_Mat] ([1] browsable assets)...
+[2023.05.14-22.41.08:209][ 27]OBJ SavePackage:     Rendered thumbnail for [Material /Game/buildings/uniEnvironment/wjvnagr_2K_Mat.wjvnagr_2K_Mat]
+[2023.05.14-22.41.08:209][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/buildings/uniEnvironment/wjvnagr_2K_Mat]
+[2023.05.14-22.41.08:221][ 27]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/wjvnagr_2K_Mat_Auto1267779A54A41974E406C37BD22240259.tmp' to '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/Autosaves/Game/buildings/uniEnvironment/wjvnagr_2K_Mat_Auto1.uasset'
+[2023.05.14-22.41.08:223][ 27]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/buildings/uniEnvironment/garden] ([1] browsable assets)...
+[2023.05.14-22.41.08:265][ 27]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/buildings/uniEnvironment/garden.garden]
+[2023.05.14-22.41.08:265][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/buildings/uniEnvironment/garden]
+[2023.05.14-22.41.08:281][ 27]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/garden_Auto15526ABE6496E27C0EAEA07A1B5C9B206.tmp' to '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/Autosaves/Game/buildings/uniEnvironment/garden_Auto1.uasset'
+[2023.05.14-22.41.08:283][ 27]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/buildings/uniEnvironment/garden2] ([1] browsable assets)...
+[2023.05.14-22.41.08:326][ 27]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/buildings/uniEnvironment/garden2.garden2]
+[2023.05.14-22.41.08:327][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/buildings/uniEnvironment/garden2]
+[2023.05.14-22.41.08:362][ 27]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/garden2_Auto1FD02923A4A1DF8261DA613B709E5225D.tmp' to '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/Autosaves/Game/buildings/uniEnvironment/garden2_Auto1.uasset'
+[2023.05.14-22.41.08:363][ 27]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/buildings/uniEnvironment/Garden5] ([1] browsable assets)...
+[2023.05.14-22.41.08:408][ 27]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/buildings/uniEnvironment/Garden5.Garden5]
+[2023.05.14-22.41.08:408][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/buildings/uniEnvironment/Garden5]
+[2023.05.14-22.41.08:421][ 27]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/Garden5_Auto13F8C4F4F4D7B4AD1650E69968CA5A501.tmp' to '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/Autosaves/Game/buildings/uniEnvironment/Garden5_Auto1.uasset'
+[2023.05.14-22.41.08:422][ 27]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/buildings/uniEnvironment/wjvnagr_2K_Albedo_Mat] ([1] browsable assets)...
+[2023.05.14-22.41.08:461][ 27]OBJ SavePackage:     Rendered thumbnail for [Material /Game/buildings/uniEnvironment/wjvnagr_2K_Albedo_Mat.wjvnagr_2K_Albedo_Mat]
+[2023.05.14-22.41.08:461][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/buildings/uniEnvironment/wjvnagr_2K_Albedo_Mat]
+[2023.05.14-22.41.08:475][ 27]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/wjvnagr_2K_Albedo_Mat_Auto1CB7DBA0244BB36B2304C5CAF0658265C.tmp' to '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/Autosaves/Game/buildings/uniEnvironment/wjvnagr_2K_Albedo_Mat_Auto1.uasset'
+[2023.05.14-22.41.08:475][ 27]LogFileHelpers: Auto-saving content packages took 0.928
+[2023.05.14-22.41.18:243][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (garden3)
+[2023.05.14-22.41.18:818][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (garden3)
+[2023.05.14-22.41.19:842][357]Cmd: DELETE
+[2023.05.14-22.41.19:842][357]Cmd: ACTOR DELETE
+[2023.05.14-22.41.19:861][357]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.14-22.41.19:878][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.05.14-22.41.19:883][357]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2023.05.14-22.41.21:231][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (garden6)
+[2023.05.14-22.41.29:962][640]Cmd: TRANSACTION UNDO
+[2023.05.14-22.41.29:962][640]LogEditorTransaction: Undo Scale Actors
+[2023.05.14-22.41.35:760][782]Cmd: TRANSACTION UNDO
+[2023.05.14-22.41.35:761][782]LogEditorTransaction: Undo Scale Actors
+[2023.05.14-22.41.36:363][786]Cmd: TRANSACTION UNDO
+[2023.05.14-22.41.36:363][786]LogEditorTransaction: Undo Scale Actors
+[2023.05.14-22.41.42:781][958]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2023.05.14-22.41.44:452][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (garden6)
+[2023.05.14-22.41.44:606][993]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2023.05.14-22.41.45:379][  9]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2023.05.14-22.41.45:479][ 10]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (garden6)
+[2023.05.14-22.41.47:703][ 44]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/buildings/uniEnvironment/garden4.garden4
+[2023.05.14-22.43.20:577][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/buildings/uniEnvironment/garden4" FILE="../../../../../../ProjectAA/Pioneers/University 4.27/Content/buildings/uniEnvironment/garden4.uasset" SILENT=true
+[2023.05.14-22.43.20:594][312]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/garden49821A51F475BBF5B5A3F52A0263FD3FB.tmp' to '../../../../../../ProjectAA/Pioneers/University 4.27/Content/buildings/uniEnvironment/garden4.uasset'
+[2023.05.14-22.43.20:621][312]AssetCheck: New page: Asset Save: garden4
+[2023.05.14-22.43.20:621][312]LogContentValidation: Display: Validating StaticMesh /Game/buildings/uniEnvironment/garden4.garden4
+[2023.05.14-22.43.28:818][510]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (garden7)
+[2023.05.14-22.44.10:837][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (garden4)
+[2023.05.14-22.44.14:587][679]Cmd: DELETE
+[2023.05.14-22.44.14:587][679]Cmd: ACTOR DELETE
+[2023.05.14-22.44.14:607][679]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.14-22.44.14:628][679]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.05.14-22.44.14:644][679]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2023.05.14-22.44.15:960][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (garden5)
+[2023.05.14-22.44.16:872][751]Cmd: DELETE
+[2023.05.14-22.44.16:872][751]Cmd: ACTOR DELETE
+[2023.05.14-22.44.16:893][751]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.14-22.44.16:911][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.05.14-22.44.16:913][751]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2023.05.14-22.44.37:661][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.05.14-22.44.38:351][328]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/Minimal_Default1CD440274FE8DFE4E3F8EBBF09E0C9DA.tmp' to '../../../../../../ProjectAA/Pioneers/University 4.27/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.05.14-22.44.38:452][328]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.05.14-22.44.38:452][328]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.05.14-22.44.51:623][722]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2023.05.14-22.44.53:215][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.14-22.44.53:215][749]PIE: New page: PIE session: Minimal_Default (May 14, 2023, 8:44:53 AM)
+[2023.05.14-22.44.53:215][749]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.05.14-22.44.53:493][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.277822s)
+[2023.05.14-22.44.53:495][749]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.05.14-22.44.53:495][749]LogPlayLevel: PIE: World Init took: (0.001988s)
+[2023.05.14-22.44.53:496][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.280192s)
+[2023.05.14-22.44.53:514][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.05.14-22.44.53:518][749]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.05.14-22.44.53:518][749]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.14-22.44.53:518][749]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.14-22.44.53:518][749]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.14-22.44.53:518][749]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.14-22.44.53:518][749]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.14-22.44.53:518][749]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.14-22.44.53:518][749]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.14-22.44.53:518][749]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.14-22.44.53:519][749]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.14-22.44.53:519][749]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.14-22.44.53:520][749]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.14-22.44.53:520][749]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.14-22.44.53:524][749]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.14-22.44.53:524][749]LogAudioMixer: Display: 1: FrontRight
+[2023.05.14-22.44.53:674][749]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2023.05.14-22.44.53:675][749]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.14-22.44.53:675][749]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.14-22.44.53:675][749]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.14-22.44.53:676][749]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.14-22.44.53:677][749]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.14-22.44.53:677][749]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.14-22.44.53:679][749]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.14-22.44.53:679][749]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.14-22.44.53:679][749]LogInit: FAudioDevice initialized.
+[2023.05.14-22.44.53:679][749]LogAudio: Display: Audio Device (ID: 4) registered with world 'Minimal_Default'.
+[2023.05.14-22.44.53:700][749]LogLoad: Game class is 'GameModeBase'
+[2023.05.14-22.44.53:728][749]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2023.05.14-15.44.53
+[2023.05.14-22.44.53:730][749]LogWorld: Bringing up level for play took: 0.028120
+[2023.05.14-22.44.53:730][749]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2023.05.14-22.44.53:737][749]PIE: Server logged in
+[2023.05.14-22.44.53:739][749]PIE: Play in editor total start time 0.527 seconds.
+[2023.05.14-22.45.45:476][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.14-22.45.45:476][469]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.05.14-22.45.45:477][469]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.05.14-22.45.45:484][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-22.45.45:504][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.14-22.45.45:531][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.14-22.45.45:555][469]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.14-22.45.45:556][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.14-22.45.45:559][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.14-22.45.45:564][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.14-22.45.45:579][469]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.05.14-22.45.45:656][470]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.05.14-22.45.50:079][605]Cmd: SELECT NONE
+[2023.05.14-22.46.21:493][406]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.05.14-22.46.22:137][406]LogSavePackage: Moving '../../../../../../ProjectAA/Pioneers/University 4.27/Saved/Minimal_Default1022441948414A44431E4CA5EBA05AC7.tmp' to '../../../../../../ProjectAA/Pioneers/University 4.27/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.05.14-22.46.22:211][406]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.05.14-22.46.22:211][406]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
